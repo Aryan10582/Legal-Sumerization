@@ -1,0 +1,175 @@
+{
+  "classification": [
+    {
+      "id": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement:57",
+      "document_id": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement",
+      "truth": [],
+      "prediction": [
+        "Cap On Liability"
+      ],
+      "probabilities": {
+        "Governing Law": 0.3995068073272705,
+        "Non-Compete": 0.12228569388389587,
+        "Exclusivity": 0.11540212482213974,
+        "Anti-Assignment": 0.15631912648677826,
+        "Termination For Convenience": 0.18462468683719635,
+        "Cap On Liability": 0.9675748944282532,
+        "Audit Rights": 0.15313847362995148,
+        "Post-Termination Services": 0.1385088860988617
+      },
+      "label_reviewed": "Cap On Liability",
+      "error_kind": "false_positive",
+      "source": "THESE LIMITATIONS SHALL SURVIVE AND APPLY NOTWITHSTANDING THE VALIDITY OF THE LIMITED REMEDIES PROVIDED FOR IN THIS AGREEMENT."
+    },
+    {
+      "id": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement:33",
+      "document_id": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement",
+      "truth": [
+        "Post-Termination Services"
+      ],
+      "prediction": [],
+      "probabilities": {
+        "Governing Law": 0.05951525270938873,
+        "Non-Compete": 0.07806695997714996,
+        "Exclusivity": 0.12178993225097656,
+        "Anti-Assignment": 0.07224038243293762,
+        "Termination For Convenience": 0.28246456384658813,
+        "Cap On Liability": 0.5478643178939819,
+        "Audit Rights": 0.058448426425457,
+        "Post-Termination Services": 0.3312743604183197
+      },
+      "label_reviewed": "Post-Termination Services",
+      "error_kind": "false_negative",
+      "source": "In such an instance, all compensation will continue for a extended period of five years from the date of termination for all subscriptions tagged as USA MCO."
+    },
+    {
+      "id": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement:118",
+      "document_id": "ICORECONNECTINC_10_13_2010-EX-7.1-Strategic Alliance Agreement",
+      "truth": [
+        "Governing Law"
+      ],
+      "prediction": [
+        "Governing Law"
+      ],
+      "probabilities": {
+        "Governing Law": 0.9785749912261963,
+        "Non-Compete": 0.16007068753242493,
+        "Exclusivity": 0.19536903500556946,
+        "Anti-Assignment": 0.2963676154613495,
+        "Termination For Convenience": 0.2336413562297821,
+        "Cap On Liability": 0.21956667304039001,
+        "Audit Rights": 0.28096845746040344,
+        "Post-Termination Services": 0.16905423998832703
+      },
+      "label_reviewed": "Governing Law",
+      "error_kind": "true_positive",
+      "source": "This Agreement shall be governed by the internal laws State of New York."
+    }
+  ],
+  "summarization": {
+    "id": "inabs:3542.txt",
+    "reference": "The appellants wrote a letter to the President of India, with copies to some others including the Chief Jus tice of Punjab and Haryana High Court, criticising, the behaviour of a High Court Judge, who, during his visit to the Sessions Division of Bhivani, spoke against the Govern ment 's policies and canvassed for a communist system.\nThe High Court issued a notice against the appellants; making out a case of criminal contempt of court.\nThe appellants tendered a conditional apology contingent on the courts finding their action to be contempt of court.\nThe apology was accepted.\nAllowing the appeals and dropping the contempt proceedings, the Court.\nHELD: (1) The elementary basis of acceptance of apology is that there is to be a finding of committal of contempt.\nThe Full Bench fell into the error of accepting the apology without finding that the appellants committed any contempt In the absence of such a finding, no question arises for acceptance of apology.\nF G] (2) Judges are, by reason of their office and nature of work, expected not to get involved in controversial matters, or to concern themselves with political issues or policies undertaken by political parties.\nIf any Judge addresses on political problems or controversies, the Judge exposes himself to discussion by public.\nHe cannot in such a case take shelter behind his office if the public discusses and criticises the views expressed by him, and the protective umbrella of the court cannot be used by way of bringing the critics on the charge of contempt of Court.\n[246 A D, F G]",
+    "source_ending": " discharge of office of a Judge to go and address a meeting on political matters to redress grievances of the people.\nHowever, if the speech of any Judge is criticised and if it becomes a disputed question of fact as to whether any Judge did speak or not as is alleged by the writer the matter would have to be ascertained by the court on facts whether the Judge concerned did speak on the matters ascribed to him before the court would take any action against the persons who would criticise the Judge 's speech.\nWe wish to make it clear that if on facts it appears that the Judge did say things or matters about politics such utterances or views or observations will be the personal opinions expressed by the Judge, and, therefore, the protec tive umbrella of the court cannot be used by way of bringing the critics on the charge of contempt of court.\nIt also appears in the letter that there is an allega tion that the Judge accepted hospitality of some organisa tion.\nTo say that will not by itself be a contempt.\nAll we need say is that it will not be correct and proper for any Judge to accept the invitation and hospitality of any busi ness or commercial organisation or of any political party or of any club or organisation run on sectarian, communal or parochial lines.\nInvitations by the Bar Associ ation or social invitations naturally Stand on a different footing and no one will find an exception to any Judge attending a social function.\nJudges are by reason of their office and nature of work expected not to get involved in controversial matters, or to concern themselves with political issues or policies under taken by political parties as a part of their political programme.\nWe are of opinion that the Full Bench fell into the error of accepting the apology without finding that the appellants committed any contempt.\nIn the absence of such a finding no question arises for acceptance of apology.\nIn view of the fact that the High Court proceeded on the basis that the allegations in the letter were unchallenged we are of opinion that the matters did not constitute any contempt.\nThe High.\nCourt should have dropped the proceed ings and not pursued the matter.\n247 The judgment is set aside.\nThe contempt proceedings are dropped.\nWe should state here that the Advocate General of Haryana quite fairly stated that the letter did not consti tute any contempt.\nM.R. Appeals allowed.",
+    "t5": {
+      "id": "inabs:3542.txt",
+      "prediction": "243 appellants wrote a letter to the President on 20 February 1975 with copies to the Prime Minister, Chief Justice of India, the Chief Minister of Haryana and the Chief Jus tice of Punjab and Haryana High Court. the deponents said that the letter in question cannot be construed as scandalising the Hon 'ble Judge or the Court in any manner to weaken people's faith in the administration of justice.",
+      "trace": {
+        "source_units": 102,
+        "selected_units": 11,
+        "selected_tokens": 507,
+        "source_tokens": 3053,
+        "coverage_fraction": 0.16749360998346113,
+        "spans": [
+          {
+            "start": 549,
+            "end": 765
+          },
+          {
+            "start": 865,
+            "end": 941
+          },
+          {
+            "start": 1095,
+            "end": 1234
+          },
+          {
+            "start": 5577,
+            "end": 5714
+          },
+          {
+            "start": 6221,
+            "end": 6489
+          },
+          {
+            "start": 6490,
+            "end": 6901
+          },
+          {
+            "start": 8673,
+            "end": 8968
+          },
+          {
+            "start": 9537,
+            "end": 9698
+          },
+          {
+            "start": 9801,
+            "end": 9956
+          },
+          {
+            "start": 10142,
+            "end": 10329
+          },
+          {
+            "start": 12819,
+            "end": 13002
+          }
+        ],
+        "partial_unit": false
+      },
+      "seconds": 1.8918120999987877,
+      "rouge": {
+        "rouge1": 0.2754491017964072,
+        "rouge2": 0.15060240963855423,
+        "rougeL": 0.19161676646706588
+      }
+    },
+    "extractive": {
+      "id": "inabs:3542.txt",
+      "prediction": "In that letter they further stated as follows: \"The learned Judge met the members of the Bar on 15 February, 1975 in the Bar Room, Bhiwani. The deponent most respectfully submits that the contents of the letter which he and others addressed to the President of India cannot be construed as scandalising the Hon 'ble Judge or the Court in any manner to weaken people 's faith in the administration of justice. In the absence of any finding by the High Court that the appellants committed any contempt of court there was never any occasion for acceptance of apology. The High.",
+      "trace": {
+        "source_units": 102,
+        "selected_units": 4,
+        "selected_tokens": 128,
+        "source_tokens": 3053,
+        "coverage_fraction": 0.04292587580814915,
+        "spans": [
+          {
+            "start": 1095,
+            "end": 1234
+          },
+          {
+            "start": 6221,
+            "end": 6489
+          },
+          {
+            "start": 9801,
+            "end": 9956
+          },
+          {
+            "start": 13003,
+            "end": 13012
+          }
+        ],
+        "partial_unit": false
+      },
+      "seconds": 0.05971999999928812,
+      "rouge": {
+        "rouge1": 0.3351648351648352,
+        "rouge2": 0.12154696132596686,
+        "rougeL": 0.17582417582417584
+      }
+    }
+  },
+  "note": "Representative examples selected after evaluation for explanation, not selection or hyperparameter tuning. Some original source OCR errors retained."
+}

@@ -1,0 +1,33 @@
+{
+  "abstract_words": 160,
+  "initial_introduction_words": 191,
+  "outputs": {
+    "Final_Report.docx": {
+      "bytes": 195430,
+      "sha256": "2e535c62866854f16b5a165f5cb37345c3b65b583785e24a6d6896d91235f116",
+      "cover_rows": 4,
+      "images": 2,
+      "logo_preserved": true,
+      "paragraphs": 83,
+      "sections": 3,
+      "tables": 6,
+      "body_columns": [
+        "1",
+        "2"
+      ]
+    },
+    "Initial_Problem_Statement.docx": {
+      "bytes": 93120,
+      "sha256": "498ecff7606d4a4e38dcb9d8c4df8d9618c779738590785a71bcd5ffb177dbbd",
+      "cover_rows": 4,
+      "images": 1,
+      "logo_preserved": true,
+      "paragraphs": 39,
+      "sections": 2,
+      "tables": 2,
+      "body_columns": [
+        "1"
+      ]
+    }
+  }
+}

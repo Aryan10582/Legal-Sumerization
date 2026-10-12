@@ -1,0 +1,2450 @@
+[
+  {
+    "title": [
+      "Text summarization from legal documents: a survey"
+    ],
+    "author": [
+      {
+        "given": "Ambedkar",
+        "family": "Kanapala",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sukomal",
+        "family": "Pal",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rajendra",
+        "family": "Pamula",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence Review"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          29
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          6,
+          29
+        ]
+      ]
+    },
+    "volume": "51",
+    "issue": "3",
+    "page": "371-402",
+    "article-number": null,
+    "DOI": "10.1007/s10462-017-9566-2",
+    "ISSN": [
+      "0269-2821",
+      "1573-7462"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10462-017-9566-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s10462-017-9566-2/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10462-017-9566-2.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2019,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10462",
+      "databases": [
+        "Scopus",
+        "SCIE"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 14,
+    "url": "https://doi.org/10.1007/s10462-017-9566-2",
+    "checked_on": "2026-10-12",
+    "number": 1,
+    "ieee": "[1] A. Kanapala et al., \"Text summarization from legal documents: a survey,\" Artificial Intelligence Review, vol. 51, no. 3, pp. 371–402, 2019, doi: 10.1007/s10462-017-9566-2."
+  },
+  {
+    "title": [
+      "A Comprehensive Analysis of Indian Legal Documents Summarization Techniques"
+    ],
+    "author": [
+      {
+        "given": "Saloni",
+        "family": "Sharma",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Surabhi",
+        "family": "Srivastava",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-7404-2500",
+        "authenticated-orcid": false,
+        "given": "Pradeepika",
+        "family": "Verma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anshul",
+        "family": "Verma",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sachchida Nand",
+        "family": "Chaurasia",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "SN Computer Science"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          11
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          8,
+          11
+        ]
+      ]
+    },
+    "volume": "4",
+    "issue": "5",
+    "page": null,
+    "article-number": "614",
+    "DOI": "10.1007/s42979-023-01983-y",
+    "ISSN": [
+      "2661-8907"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s42979-023-01983-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s42979-023-01983-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s42979-023-01983-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2023,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/42979",
+      "databases": [
+        "Scopus"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 5,
+    "url": "https://doi.org/10.1007/s42979-023-01983-y",
+    "checked_on": "2026-10-12",
+    "number": 2,
+    "ieee": "[2] S. Sharma et al., \"A Comprehensive Analysis of Indian Legal Documents Summarization Techniques,\" SN Computer Science, vol. 4, no. 5, Art. no. 614, 2023, doi: 10.1007/s42979-023-01983-y."
+  },
+  {
+    "title": [
+      "Deep learning in law: early adaptation and legal word embeddings trained on large corpora"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0706-7772",
+        "authenticated-orcid": false,
+        "given": "Ilias",
+        "family": "Chalkidis",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dimitrios",
+        "family": "Kampas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          12,
+          11
+        ]
+      ]
+    },
+    "volume": "27",
+    "issue": "2",
+    "page": "171-198",
+    "article-number": null,
+    "DOI": "10.1007/s10506-018-9238-9",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10506-018-9238-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/article/10.1007/s10506-018-9238-9/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "http://link.springer.com/content/pdf/10.1007/s10506-018-9238-9.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2019,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 1,
+    "url": "https://doi.org/10.1007/s10506-018-9238-9",
+    "checked_on": "2026-10-12",
+    "number": 3,
+    "ieee": "[3] I. Chalkidis and D. Kampas, \"Deep learning in law: early adaptation and legal word embeddings trained on large corpora,\" Artificial Intelligence and Law, vol. 27, no. 2, pp. 171–198, 2019, doi: 10.1007/s10506-018-9238-9."
+  },
+  {
+    "title": [
+      "Identification of Rhetorical Roles for Segmentation and Summarization of a Legal Judgment"
+    ],
+    "author": [
+      {
+        "given": "M.",
+        "family": "Saravanan"
+      },
+      {
+        "given": "B.",
+        "family": "Ravindran"
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "volume": "18",
+    "issue": "1",
+    "page": "45-76",
+    "DOI": "10.1007/s10506-010-9087-7",
+    "published": {
+      "date-parts": [
+        [
+          2010,
+          5,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2010,
+          5,
+          6
+        ]
+      ]
+    },
+    "citation_year": 2010,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 28,
+    "url": "https://doi.org/10.1007/s10506-010-9087-7",
+    "checked_on": "2026-10-12",
+    "number": 4,
+    "ieee": "[4] M. Saravanan and B. Ravindran, \"Identification of Rhetorical Roles for Segmentation and Summarization of a Legal Judgment,\" Artificial Intelligence and Law, vol. 18, no. 1, pp. 45–76, 2010, doi: 10.1007/s10506-010-9087-7."
+  },
+  {
+    "title": [
+      "Evaluation of Automatic Legal Text Summarization Techniques for Greek Case Law"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0679-5516",
+        "authenticated-orcid": false,
+        "given": "Marios",
+        "family": "Koniaris",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Division of Computer Science, School of Electrical and Computer Engineering, National Technical University of Athens, Iroon Polytechniou 9, Zographou Campus, 15780 Athens, Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-2809-2730",
+        "authenticated-orcid": false,
+        "given": "Dimitris",
+        "family": "Galanis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Computer Science, School of Electrical and Computer Engineering, National Technical University of Athens, Iroon Polytechniou 9, Zographou Campus, 15780 Athens, Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Eugenia",
+        "family": "Giannini",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Humanities Social Sciences and Law, School of Applied Mathematical and Physical Sciences, National Technical University of Athens, Iroon Polytechniou 9, Zographou Campus, 15780 Athens, Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8503-5784",
+        "authenticated-orcid": false,
+        "given": "Panayiotis",
+        "family": "Tsanakas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Division of Computer Science, School of Electrical and Computer Engineering, National Technical University of Athens, Iroon Polytechniou 9, Zographou Campus, 15780 Athens, Greece"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Information"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          4,
+          21
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "4",
+    "page": "250",
+    "article-number": null,
+    "DOI": "10.3390/info14040250",
+    "ISSN": [
+      "2078-2489"
+    ],
+    "abstract": "<jats:p>The increasing amount of legal information available online is overwhelming for both citizens and legal professionals, making it difficult and time-consuming to find relevant information and keep up with the latest legal developments. Automatic text summarization techniques can be highly beneficial as they save time, reduce costs, and lessen the cognitive load of legal professionals. However, applying these techniques to legal documents poses several challenges due to the complexity of legal documents and the lack of needed resources, especially in linguistically under-resourced languages, such as the Greek language. In this paper, we address automatic summarization of Greek legal documents. A major challenge in this area is the lack of suitable datasets in the Greek language. In response, we developed a new metadata-rich dataset consisting of selected judgments from the Supreme Civil and Criminal Court of Greece, alongside their reference summaries and category tags, tailored for the purpose of automated legal document summarization. We also adopted several state-of-the-art methods for abstractive and extractive summarization and conducted a comprehensive evaluation of the methods using both human and automatic metrics. Our results: (i) revealed that, while extractive methods exhibit average performance, abstractive methods generate moderately fluent and coherent text, but they tend to receive low scores in relevance and consistency metrics; (ii) indicated the need for metrics that capture better a legal document summary’s coherence, relevance, and consistency; (iii) demonstrated that fine-tuning BERT models on a specific upstream task can significantly improve the model’s performance.</jats:p>",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2078-2489/14/4/250/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2023,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://www.mdpi.com/journal/information",
+      "databases": [
+        "Scopus",
+        "ESCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 3,
+    "url": "https://doi.org/10.3390/info14040250",
+    "checked_on": "2026-10-12",
+    "number": 5,
+    "ieee": "[5] M. Koniaris et al., \"Evaluation of Automatic Legal Text Summarization Techniques for Greek Case Law,\" Information, vol. 14, no. 4, Art. no. 250, 2023, doi: 10.3390/info14040250."
+  },
+  {
+    "title": [
+      "A High-Precision Two-Stage Legal Judgment Summarization"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0001-6506-481X",
+        "authenticated-orcid": false,
+        "given": "Yue",
+        "family": "Huang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          },
+          {
+            "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lijuan",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          },
+          {
+            "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2657-1464",
+        "authenticated-orcid": false,
+        "given": "Chong",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          },
+          {
+            "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5944-3103",
+        "authenticated-orcid": false,
+        "given": "Jian",
+        "family": "Guo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          },
+          {
+            "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Mathematics"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          9
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          9
+        ]
+      ]
+    },
+    "volume": "11",
+    "issue": "6",
+    "page": "1320",
+    "article-number": null,
+    "DOI": "10.3390/math11061320",
+    "ISSN": [
+      "2227-7390"
+    ],
+    "abstract": "<jats:p>Legal judgments are generally very long, and relevant information is often scattered throughout the text. To complete a legal judgment summarization, capturing important, relevant information comprehensively from a lengthy text is crucial. The existing abstractive-summarization models based on pre-trained language have restrictions on the length of an input text. Another concern is that the generated summaries have not been well integrated with the legal judgment’s technical terms and specific topics. In this paper, we used raw legal judgments as information of different granularities and proposed a two-stage text-summarization model to handle different granularities of information. Specifically, we treated the legal judgments as a sequence of sentences and selected key sentence sets from the full texts as an input corpus for summary generation. In addition, we extracted keywords related to technical terms and specific topics in the legal texts and introduced them into the summary-generation model as an attention mechanism. The experimental results on the CAIL2020 and the LCRD datasets showed that our model achieved an overall 0.19–0.41 improvement in its ROUGE score, as compared to the baseline models. Further analysis also showed that our method could comprehensively capture essential and relevant information from lengthy legal texts and generate better legal judgment summaries.</jats:p>",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2227-7390/11/6/1320/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2023,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://www.mdpi.com/journal/mathematics/history",
+      "databases": [
+        "Scopus",
+        "SCIE"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 4,
+    "url": "https://doi.org/10.3390/math11061320",
+    "checked_on": "2026-10-12",
+    "number": 6,
+    "ieee": "[6] Y. Huang et al., \"A High-Precision Two-Stage Legal Judgment Summarization,\" Mathematics, vol. 11, no. 6, Art. no. 1320, 2023, doi: 10.3390/math11061320."
+  },
+  {
+    "title": [
+      "Effective deep learning approaches for summarization of legal texts"
+    ],
+    "author": [
+      {
+        "given": "Deepa",
+        "family": "Anand",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rupali",
+        "family": "Wagh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of King Saud University - Computer and Information Sciences"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          5
+        ]
+      ]
+    },
+    "published-online": null,
+    "volume": "34",
+    "issue": "5",
+    "page": "2141-2150",
+    "article-number": null,
+    "DOI": "10.1016/j.jksuci.2019.11.015",
+    "ISSN": [
+      "1319-1578"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1319157819301259?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S1319157819301259?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "citation_year": 2022,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing; journal has transferred publisher",
+      "url": "https://link.springer.com/journal/44443",
+      "databases": [
+        "Scopus",
+        "SCIE"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 13,
+    "url": "https://doi.org/10.1016/j.jksuci.2019.11.015",
+    "checked_on": "2026-10-12",
+    "number": 7,
+    "ieee": "[7] D. Anand and R. Wagh, \"Effective deep learning approaches for summarization of legal texts,\" Journal of King Saud University - Computer and Information Sciences, vol. 34, no. 5, pp. 2141–2150, 2022, doi: 10.1016/j.jksuci.2019.11.015."
+  },
+  {
+    "title": [
+      "Improving abstractive summarization of legal rulings through textual entailment"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1249-9913",
+        "authenticated-orcid": false,
+        "given": "Diego de Vargas",
+        "family": "Feijo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4400-054X",
+        "authenticated-orcid": false,
+        "given": "Viviane P.",
+        "family": "Moreira",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          27
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2021,
+          11,
+          27
+        ]
+      ]
+    },
+    "volume": "31",
+    "issue": "1",
+    "page": "91-113",
+    "article-number": null,
+    "DOI": "10.1007/s10506-021-09305-4",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-021-09305-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-021-09305-4/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-021-09305-4.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2023,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 15,
+    "url": "https://doi.org/10.1007/s10506-021-09305-4",
+    "checked_on": "2026-10-12",
+    "number": 8,
+    "ieee": "[8] D. d. V. Feijo and V. P. Moreira, \"Improving abstractive summarization of legal rulings through textual entailment,\" Artificial Intelligence and Law, vol. 31, no. 1, pp. 91–113, 2023, doi: 10.1007/s10506-021-09305-4."
+  },
+  {
+    "title": [
+      "A sentence is known by the company it keeps: Improving Legal Document Summarization Using Deep Clustering"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9994-7584",
+        "authenticated-orcid": false,
+        "given": "Deepali",
+        "family": "Jain",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Malaya Dutta",
+        "family": "Borah",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anupam",
+        "family": "Biswas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          2,
+          1
+        ]
+      ]
+    },
+    "volume": "32",
+    "issue": "1",
+    "page": "165-200",
+    "article-number": null,
+    "DOI": "10.1007/s10506-023-09345-y",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09345-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-023-09345-y/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09345-y.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2024,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 22,
+    "url": "https://doi.org/10.1007/s10506-023-09345-y",
+    "checked_on": "2026-10-12",
+    "number": 9,
+    "ieee": "[9] D. Jain et al., \"A sentence is known by the company it keeps: Improving Legal Document Summarization Using Deep Clustering,\" Artificial Intelligence and Law, vol. 32, no. 1, pp. 165–200, 2024, doi: 10.1007/s10506-023-09345-y."
+  },
+  {
+    "title": [
+      "Ensemble methods for improving extractive summarization of legal case judgements"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7190-5040",
+        "authenticated-orcid": false,
+        "given": "Aniket",
+        "family": "Deroy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kripabandhu",
+        "family": "Ghosh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saptarshi",
+        "family": "Ghosh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          3,
+          4
+        ]
+      ]
+    },
+    "volume": "32",
+    "issue": "1",
+    "page": "231-289",
+    "article-number": null,
+    "DOI": "10.1007/s10506-023-09349-8",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09349-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-023-09349-8/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09349-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2024,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 21,
+    "url": "https://doi.org/10.1007/s10506-023-09349-8",
+    "checked_on": "2026-10-12",
+    "number": 10,
+    "ieee": "[10] A. Deroy et al., \"Ensemble methods for improving extractive summarization of legal case judgements,\" Artificial Intelligence and Law, vol. 32, no. 1, pp. 231–289, 2024, doi: 10.1007/s10506-023-09349-8."
+  },
+  {
+    "title": [
+      "Applicability of large language models and generative models for legal case judgement summarization"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7190-5040",
+        "authenticated-orcid": false,
+        "given": "Aniket",
+        "family": "Deroy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kripabandhu",
+        "family": "Ghosh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Saptarshi",
+        "family": "Ghosh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          15
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          7,
+          15
+        ]
+      ]
+    },
+    "volume": "33",
+    "issue": "4",
+    "page": "1007-1050",
+    "article-number": null,
+    "DOI": "10.1007/s10506-024-09411-z",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09411-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-024-09411-z/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09411-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2025,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 20,
+    "url": "https://doi.org/10.1007/s10506-024-09411-z",
+    "checked_on": "2026-10-12",
+    "number": 11,
+    "ieee": "[11] A. Deroy et al., \"Applicability of large language models and generative models for legal case judgement summarization,\" Artificial Intelligence and Law, vol. 33, no. 4, pp. 1007–1050, 2025, doi: 10.1007/s10506-024-09411-z."
+  },
+  {
+    "title": [
+      "Enhancing legal judgment summarization with integrated semantic and structural information"
+    ],
+    "author": [
+      {
+        "given": "Jingpei",
+        "family": "Dan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Weixuan",
+        "family": "Hu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yuming",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          26
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          11,
+          26
+        ]
+      ]
+    },
+    "volume": "33",
+    "issue": "2",
+    "page": "271-292",
+    "article-number": null,
+    "DOI": "10.1007/s10506-023-09381-8",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09381-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-023-09381-8/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09381-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2025,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 23,
+    "url": "https://doi.org/10.1007/s10506-023-09381-8",
+    "checked_on": "2026-10-12",
+    "number": 12,
+    "ieee": "[12] J. Dan et al., \"Enhancing legal judgment summarization with integrated semantic and structural information,\" Artificial Intelligence and Law, vol. 33, no. 2, pp. 271–292, 2025, doi: 10.1007/s10506-023-09381-8."
+  },
+  {
+    "title": [
+      "Summarizing judicial documents: a hybrid extractive- abstractive model with legal domain knowledge"
+    ],
+    "author": [
+      {
+        "given": "Yan",
+        "family": "Gao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Jie",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Zhengtao",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Juan",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          22
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          4,
+          22
+        ]
+      ]
+    },
+    "volume": "34",
+    "issue": "2",
+    "page": "493-521",
+    "article-number": null,
+    "DOI": "10.1007/s10506-025-09435-z",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-025-09435-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-025-09435-z",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-025-09435-z.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2026,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 24,
+    "url": "https://doi.org/10.1007/s10506-025-09435-z",
+    "checked_on": "2026-10-12",
+    "number": 13,
+    "ieee": "[13] Y. Gao et al., \"Summarizing judicial documents: a hybrid extractive- abstractive model with legal domain knowledge,\" Artificial Intelligence and Law, vol. 34, no. 2, pp. 493–521, 2026, doi: 10.1007/s10506-025-09435-z."
+  },
+  {
+    "title": [
+      "LSDK-LegalSum: improving legal judgment summarization using logical structure and domain knowledge"
+    ],
+    "author": [
+      {
+        "given": "Wei",
+        "family": "Gao",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shuai",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1960-8628",
+        "authenticated-orcid": false,
+        "given": "Yongbin",
+        "family": "Qin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Caiwei",
+        "family": "Yang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ruizhang",
+        "family": "Huang",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yanping",
+        "family": "Chen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Chuan",
+        "family": "Lin",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Journal of King Saud University Computer and Information Sciences"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          13
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          13
+        ]
+      ]
+    },
+    "volume": "37",
+    "issue": "1-2",
+    "page": null,
+    "article-number": "3",
+    "DOI": "10.1007/s44443-025-00022-5",
+    "ISSN": [
+      "1319-1578"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44443-025-00022-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s44443-025-00022-5/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s44443-025-00022-5.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2025,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/44443",
+      "databases": [
+        "Scopus",
+        "SCIE"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 26,
+    "url": "https://doi.org/10.1007/s44443-025-00022-5",
+    "checked_on": "2026-10-12",
+    "number": 14,
+    "ieee": "[14] W. Gao et al., \"LSDK-LegalSum: improving legal judgment summarization using logical structure and domain knowledge,\" Journal of King Saud University Computer and Information Sciences, vol. 37, no. 1-2, Art. no. 3, 2025, doi: 10.1007/s44443-025-00022-5."
+  },
+  {
+    "title": [
+      "Automated detection of contractual risk clauses from construction specifications using bidirectional encoder representations from transformers (BERT)"
+    ],
+    "author": [
+      {
+        "given": "Seonghyeon",
+        "family": "Moon",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seokho",
+        "family": "Chi",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Seok-Been",
+        "family": "Im",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Automation in Construction"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2022,
+          10
+        ]
+      ]
+    },
+    "published-online": null,
+    "volume": "142",
+    "issue": null,
+    "page": "104465",
+    "article-number": "104465",
+    "DOI": "10.1016/j.autcon.2022.104465",
+    "ISSN": [
+      "0926-5805"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0926580522003387?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0926580522003387?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "citation_year": 2022,
+    "indexing": {
+      "status": "institutional primary record supports Scopus coverage; direct source-list access blocked",
+      "url": "https://snu.elsevierpure.com/en/publications/automated-detection-of-contractual-risk-clauses-from-construction/",
+      "databases": [
+        "Scopus"
+      ],
+      "note": "The university author record links the 2022 article to Scopus citations. Current journal metrics corroborated by TU Dresden journal record. No authenticated per-article database audit for 2026."
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 8,
+    "url": "https://doi.org/10.1016/j.autcon.2022.104465",
+    "checked_on": "2026-10-12",
+    "number": 15,
+    "ieee": "[15] S. Moon et al., \"Automated detection of contractual risk clauses from construction specifications using bidirectional encoder representations from transformers (BERT),\" Automation in Construction, vol. 142, Art. no. 104465, 2022, doi: 10.1016/j.autcon.2022.104465."
+  },
+  {
+    "title": [
+      "Automated multi-label classification of risk clauses in construction contracts using GPT-driven data augmentation"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0000-2122-7499",
+        "authenticated-orcid": false,
+        "given": "Lanqian",
+        "family": "Zhang",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yan",
+        "family": "Ning",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shenghua",
+        "family": "Zhou",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Automation in Construction"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          1
+        ]
+      ]
+    },
+    "published-online": null,
+    "volume": "181",
+    "issue": null,
+    "page": "106599",
+    "article-number": "106599",
+    "DOI": "10.1016/j.autcon.2025.106599",
+    "ISSN": [
+      "0926-5805"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0926580525006399?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0926580525006399?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ],
+    "citation_year": 2026,
+    "indexing": {
+      "status": "institutional primary record supports Scopus coverage; direct source-list access blocked",
+      "url": "https://snu.elsevierpure.com/en/publications/automated-detection-of-contractual-risk-clauses-from-construction/",
+      "databases": [
+        "Scopus"
+      ],
+      "note": "The university author record links the 2022 article to Scopus citations. Current journal metrics corroborated by TU Dresden journal record. No authenticated per-article database audit for 2026."
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 25,
+    "url": "https://doi.org/10.1016/j.autcon.2025.106599",
+    "checked_on": "2026-10-12",
+    "number": 16,
+    "ieee": "[16] L. Zhang et al., \"Automated multi-label classification of risk clauses in construction contracts using GPT-driven data augmentation,\" Automation in Construction, vol. 181, Art. no. 106599, 2026, doi: 10.1016/j.autcon.2025.106599."
+  },
+  {
+    "title": [
+      "A support system for the detection of abusive clauses in B2C contracts"
+    ],
+    "author": [
+      {
+        "given": "Sławomir",
+        "family": "Dadas",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marek",
+        "family": "Kozłowski",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Rafał",
+        "family": "Poświata",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michał",
+        "family": "Perełkiewicz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Marcin",
+        "family": "Białas",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Małgorzata",
+        "family": "Grębowiec",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          26
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          6,
+          26
+        ]
+      ]
+    },
+    "volume": "33",
+    "issue": "4",
+    "page": "913-951",
+    "article-number": null,
+    "DOI": "10.1007/s10506-024-09408-8",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Many countries employ systemic methods of protecting consumers from unfair business practices. One such practice is the use of abusive clauses in business-to-consumer (B2C) contracts, which unfairly impose additional obligations on the consumer or deprive them of their due rights. This article presents an information system that utilizes artificial intelligence methods to automate contract analysis and to detect abusive clauses. The goal of the system is to support the entire administrative process, from contract acquisition, through text extraction and the recommendation of potentially abusive clauses, to the generation of official administrative documents that can be sent to court or to the owners of firms. This article focuses on the components that use machine learning methods. The first is an intelligent crawler that is responsible for automatically detecting contract templates on websites and retrieving them into the system. The second is a document analysis module that implements a clause recommendation algorithm. The algorithm employs transformer-based language models and information retrieval methods to identify abusive passages in text. Our solution achieved first place in a competition on the automatic analysis of B2C contracts organized by the Polish Office of Competition and Consumer Protection (UOKiK), and has since been implemented as an official tool to support the contract analysis process in Poland.</jats:p>",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09408-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-024-09408-8/fulltext.html",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09408-8.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2025,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 27,
+    "url": "https://doi.org/10.1007/s10506-024-09408-8",
+    "checked_on": "2026-10-12",
+    "number": 17,
+    "ieee": "[17] S. Dadas et al., \"A support system for the detection of abusive clauses in B2C contracts,\" Artificial Intelligence and Law, vol. 33, no. 4, pp. 913–951, 2025, doi: 10.1007/s10506-024-09408-8."
+  },
+  {
+    "title": [
+      "Enhancing Indian legal judgment classification with embeddings, feature selection, and ensemble strategies"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-0940-8075",
+        "authenticated-orcid": false,
+        "given": "Priyanka",
+        "family": "Prabhakar",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2376-4591",
+        "authenticated-orcid": false,
+        "given": "Peeta Basa",
+        "family": "Pati",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          3,
+          24
+        ]
+      ]
+    },
+    "volume": "34",
+    "issue": "2",
+    "page": "523-564",
+    "article-number": null,
+    "DOI": "10.1007/s10506-025-09438-w",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-025-09438-w.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-025-09438-w",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-025-09438-w.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2026,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 10,
+    "url": "https://doi.org/10.1007/s10506-025-09438-w",
+    "checked_on": "2026-10-12",
+    "number": 18,
+    "ieee": "[18] P. Prabhakar and P. B. Pati, \"Enhancing Indian legal judgment classification with embeddings, feature selection, and ensemble strategies,\" Artificial Intelligence and Law, vol. 34, no. 2, pp. 523–564, 2026, doi: 10.1007/s10506-025-09438-w."
+  },
+  {
+    "title": [
+      "A case study for automated attribute extraction from legal documents using large language models"
+    ],
+    "author": [
+      {
+        "given": "Subinay",
+        "family": "Adhikary",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3814-5462",
+        "authenticated-orcid": false,
+        "given": "Procheta",
+        "family": "Sen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dwaipayan",
+        "family": "Roy",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kripabandhu",
+        "family": "Ghosh",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Artificial Intelligence and Law"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          11
+        ]
+      ]
+    },
+    "volume": "34",
+    "issue": "1",
+    "page": "245-266",
+    "article-number": null,
+    "DOI": "10.1007/s10506-024-09425-7",
+    "ISSN": [
+      "0924-8463",
+      "1572-8382"
+    ],
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The escalating number of pending cases is a growing concern worldwide. Recent advancements in digitization have opened up possibilities for leveraging artificial intelligence (AI) tools in the processing of legal documents. Adopting a structured representation for legal documents, as opposed to a mere bag-of-words flat text representation, can significantly enhance processing capabilities. With the aim of achieving this objective, we put forward a set of diverse attributes for criminal case proceedings. To enhance the effectiveness of automatically extracting these attributes from legal documents within a sequence labeling framework, we propose the utilization of a few-shot learning approach based on Large Language Models (LLMs). Moreover, we demonstrate the efficacy of the extracted attributes in downstream tasks, such as\n                    <jats:italic>legal judgment prediction and legal statute prediction</jats:italic>\n                    .\n                  </jats:p>",
+    "link": [
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/article/10.1007/s10506-024-09425-7",
+        "content-type": "text/html",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2026,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://link.springer.com/journal/10506",
+      "databases": [
+        "Scopus",
+        "SCIE",
+        "SSCI"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 16,
+    "url": "https://doi.org/10.1007/s10506-024-09425-7",
+    "checked_on": "2026-10-12",
+    "number": 19,
+    "ieee": "[19] S. Adhikary et al., \"A case study for automated attribute extraction from legal documents using large language models,\" Artificial Intelligence and Law, vol. 34, no. 1, pp. 245–266, 2026, doi: 10.1007/s10506-024-09425-7."
+  },
+  {
+    "title": [
+      "Transformers for Multi-Intent Classification and Slot Filling of Supreme Court Decisions Related to Sexual Violence Law"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0006-6895-6481",
+        "authenticated-orcid": false,
+        "given": "Adirek",
+        "family": "Munthuli",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Center of Excellence in Intelligent Informatics, Speech and Language Technology, and Service Innovation (CILS), Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Vorada",
+        "family": "Socatiyanurak",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of Excellence in Intelligent Informatics, Speech and Language Technology, and Service Innovation (CILS), Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sirikorn",
+        "family": "Sangchocanonta",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of Excellence in Intelligent Informatics, Speech and Language Technology, and Service Innovation (CILS), Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lalin",
+        "family": "Kovudhikulrungsri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Law, Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nantawat",
+        "family": "Saksakulkunakorn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Law, Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Phornkanok",
+        "family": "Chairuangsri",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Law, Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3889-7314",
+        "authenticated-orcid": false,
+        "given": "Charturong",
+        "family": "Tantibundhit",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Center of Excellence in Intelligent Informatics, Speech and Language Technology, and Service Innovation (CILS), Thammasat University, Rangsit Campus, Khlong Luang, Thailand"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "IEEE Access"
+    ],
+    "type": "journal-article",
+    "published": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "published-online": null,
+    "volume": "11",
+    "issue": null,
+    "page": "76448-76467",
+    "article-number": null,
+    "DOI": "10.1109/access.2023.3296261",
+    "ISSN": [
+      "2169-3536"
+    ],
+    "abstract": null,
+    "link": [
+      {
+        "URL": "http://xplorestaging.ieee.org/ielx7/6287639/10005208/10185036.pdf?arnumber=10185036",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ],
+    "citation_year": 2023,
+    "indexing": {
+      "status": "publisher-confirmed journal indexing",
+      "url": "https://ieeeaccess.ieee.org/about/bibliometrics/",
+      "databases": [
+        "Scopus",
+        "SCIE"
+      ]
+    },
+    "metadata_source": "Crossref publisher deposit; publisher page where available",
+    "source_id": 17,
+    "url": "https://doi.org/10.1109/access.2023.3296261",
+    "checked_on": "2026-10-12",
+    "number": 20,
+    "ieee": "[20] A. Munthuli et al., \"Transformers for Multi-Intent Classification and Slot Filling of Supreme Court Decisions Related to Sexual Violence Law,\" IEEE Access, vol. 11, pp. 76448–76467, 2023, doi: 10.1109/access.2023.3296261."
+  }
+]

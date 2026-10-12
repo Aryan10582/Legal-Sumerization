@@ -1,0 +1,380 @@
+{
+  "tfidf": {
+    "task": "classification",
+    "method": "tfidf",
+    "threshold": 0.7500000000000002,
+    "seconds": 0.03164970000034373,
+    "scope": "Eight CUAD categories; English non-Indian benchmark. Scores are uncalibrated. No detected label does not establish that a clause is legally safe.",
+    "segments": [
+      {
+        "start": 0,
+        "end": 64,
+        "text": "SYNTHETIC INTERFACE DEMONSTRATION — NOT A SCORED INDIAN CONTRACT",
+        "labels": [],
+        "scores": {
+          "Governing Law": 0.044968669350226954,
+          "Non-Compete": 0.1338578830655196,
+          "Exclusivity": 0.10585754768150304,
+          "Anti-Assignment": 0.08396618104544572,
+          "Termination For Convenience": 0.0429208060418253,
+          "Cap On Liability": 0.1057876998025352,
+          "Audit Rights": 0.11269488322828881,
+          "Post-Termination Services": 0.06899459902758716
+        }
+      },
+      {
+        "start": 65,
+        "end": 119,
+        "text": "This Agreement shall be governed by the laws of India.",
+        "labels": [
+          "Governing Law"
+        ],
+        "scores": {
+          "Governing Law": 0.9932057356699191,
+          "Non-Compete": 0.03886689032099481,
+          "Exclusivity": 0.06497036316101018,
+          "Anti-Assignment": 0.15750755737362318,
+          "Termination For Convenience": 0.09744820102614041,
+          "Cap On Liability": 0.11102208428550976,
+          "Audit Rights": 0.06043464882114456,
+          "Post-Termination Services": 0.0858531847025811
+        }
+      },
+      {
+        "start": 120,
+        "end": 224,
+        "text": "Neither party may assign its rights or obligations without the prior written consent of the other party.",
+        "labels": [
+          "Anti-Assignment"
+        ],
+        "scores": {
+          "Governing Law": 0.03707717804472178,
+          "Non-Compete": 0.12361295466130637,
+          "Exclusivity": 0.08583011379235306,
+          "Anti-Assignment": 0.9865275737156235,
+          "Termination For Convenience": 0.09591640227195614,
+          "Cap On Liability": 0.10715169024118164,
+          "Audit Rights": 0.07349415228831692,
+          "Post-Termination Services": 0.036982122049891264
+        }
+      },
+      {
+        "start": 225,
+        "end": 345,
+        "text": "The customer may inspect and audit the supplier's records relating to charges under this Agreement on reasonable notice.",
+        "labels": [
+          "Audit Rights"
+        ],
+        "scores": {
+          "Governing Law": 0.05219182570932473,
+          "Non-Compete": 0.06708660246869885,
+          "Exclusivity": 0.06851421811174498,
+          "Anti-Assignment": 0.11553726449694812,
+          "Termination For Convenience": 0.10435487630336203,
+          "Cap On Liability": 0.1401675685542588,
+          "Audit Rights": 0.8271121532866863,
+          "Post-Termination Services": 0.23366175817311277
+        }
+      },
+      {
+        "start": 346,
+        "end": 440,
+        "text": "Either party may terminate this Agreement without cause by giving thirty days' written notice.",
+        "labels": [
+          "Termination For Convenience"
+        ],
+        "scores": {
+          "Governing Law": 0.05223857039997381,
+          "Non-Compete": 0.08877687023758428,
+          "Exclusivity": 0.06187411399182087,
+          "Anti-Assignment": 0.46472248247067394,
+          "Termination For Convenience": 0.9764445208990559,
+          "Cap On Liability": 0.09069553426579464,
+          "Audit Rights": 0.07750221999575758,
+          "Post-Termination Services": 0.0725329457135436
+        }
+      },
+      {
+        "start": 441,
+        "end": 542,
+        "text": "The supplier's aggregate liability shall not exceed the fees paid during the preceding twelve months.",
+        "labels": [],
+        "scores": {
+          "Governing Law": 0.04761584112358867,
+          "Non-Compete": 0.21079000533743594,
+          "Exclusivity": 0.17774837214935668,
+          "Anti-Assignment": 0.09104466585474075,
+          "Termination For Convenience": 0.04123128980020828,
+          "Cap On Liability": 0.5694409687574347,
+          "Audit Rights": 0.17865702274123782,
+          "Post-Termination Services": 0.11065841363484517
+        }
+      },
+      {
+        "start": 543,
+        "end": 628,
+        "text": "Following termination, the supplier shall provide transition services for sixty days.",
+        "labels": [],
+        "scores": {
+          "Governing Law": 0.04430359142919624,
+          "Non-Compete": 0.09037723398418031,
+          "Exclusivity": 0.1684798366086276,
+          "Anti-Assignment": 0.05964925008888379,
+          "Termination For Convenience": 0.12183909906473488,
+          "Cap On Liability": 0.0855906708969431,
+          "Audit Rights": 0.23871446477936528,
+          "Post-Termination Services": 0.46706887770517264
+        }
+      }
+    ]
+  },
+  "legalbert": {
+    "task": "classification",
+    "method": "legalbert",
+    "threshold": 0.9000000000000002,
+    "seconds": 0.2564499000000069,
+    "scope": "Eight CUAD categories; English non-Indian benchmark. Scores are uncalibrated. No detected label does not establish that a clause is legally safe.",
+    "segments": [
+      {
+        "start": 0,
+        "end": 64,
+        "text": "SYNTHETIC INTERFACE DEMONSTRATION — NOT A SCORED INDIAN CONTRACT",
+        "labels": [],
+        "scores": {
+          "Governing Law": 0.03550972044467926,
+          "Non-Compete": 0.03254379704594612,
+          "Exclusivity": 0.0452323816716671,
+          "Anti-Assignment": 0.03478003293275833,
+          "Termination For Convenience": 0.024177491664886475,
+          "Cap On Liability": 0.04278259724378586,
+          "Audit Rights": 0.039417002350091934,
+          "Post-Termination Services": 0.0424392893910408
+        }
+      },
+      {
+        "start": 65,
+        "end": 119,
+        "text": "This Agreement shall be governed by the laws of India.",
+        "labels": [
+          "Governing Law"
+        ],
+        "scores": {
+          "Governing Law": 0.9808586239814758,
+          "Non-Compete": 0.16981925070285797,
+          "Exclusivity": 0.21293555200099945,
+          "Anti-Assignment": 0.3571569323539734,
+          "Termination For Convenience": 0.2633909583091736,
+          "Cap On Liability": 0.2248353362083435,
+          "Audit Rights": 0.28086423873901367,
+          "Post-Termination Services": 0.17112240195274353
+        }
+      },
+      {
+        "start": 120,
+        "end": 224,
+        "text": "Neither party may assign its rights or obligations without the prior written consent of the other party.",
+        "labels": [
+          "Anti-Assignment"
+        ],
+        "scores": {
+          "Governing Law": 0.30362868309020996,
+          "Non-Compete": 0.14397157728672028,
+          "Exclusivity": 0.20184427499771118,
+          "Anti-Assignment": 0.9682782292366028,
+          "Termination For Convenience": 0.22726811468601227,
+          "Cap On Liability": 0.1189085990190506,
+          "Audit Rights": 0.10297314822673798,
+          "Post-Termination Services": 0.11813221126794815
+        }
+      },
+      {
+        "start": 225,
+        "end": 345,
+        "text": "The customer may inspect and audit the supplier's records relating to charges under this Agreement on reasonable notice.",
+        "labels": [
+          "Audit Rights"
+        ],
+        "scores": {
+          "Governing Law": 0.13640882074832916,
+          "Non-Compete": 0.15665142238140106,
+          "Exclusivity": 0.08686615526676178,
+          "Anti-Assignment": 0.08438503742218018,
+          "Termination For Convenience": 0.1224435567855835,
+          "Cap On Liability": 0.1462547779083252,
+          "Audit Rights": 0.9783105850219727,
+          "Post-Termination Services": 0.2833731472492218
+        }
+      },
+      {
+        "start": 346,
+        "end": 440,
+        "text": "Either party may terminate this Agreement without cause by giving thirty days' written notice.",
+        "labels": [
+          "Termination For Convenience"
+        ],
+        "scores": {
+          "Governing Law": 0.3988914489746094,
+          "Non-Compete": 0.26192450523376465,
+          "Exclusivity": 0.2708633840084076,
+          "Anti-Assignment": 0.5791876912117004,
+          "Termination For Convenience": 0.9553832411766052,
+          "Cap On Liability": 0.3006453812122345,
+          "Audit Rights": 0.27050259709358215,
+          "Post-Termination Services": 0.46810513734817505
+        }
+      },
+      {
+        "start": 441,
+        "end": 542,
+        "text": "The supplier's aggregate liability shall not exceed the fees paid during the preceding twelve months.",
+        "labels": [
+          "Cap On Liability"
+        ],
+        "scores": {
+          "Governing Law": 0.21485823392868042,
+          "Non-Compete": 0.18552546203136444,
+          "Exclusivity": 0.14284783601760864,
+          "Anti-Assignment": 0.1472053825855255,
+          "Termination For Convenience": 0.1644934117794037,
+          "Cap On Liability": 0.9788747429847717,
+          "Audit Rights": 0.16960729658603668,
+          "Post-Termination Services": 0.14719143509864807
+        }
+      },
+      {
+        "start": 543,
+        "end": 628,
+        "text": "Following termination, the supplier shall provide transition services for sixty days.",
+        "labels": [
+          "Post-Termination Services"
+        ],
+        "scores": {
+          "Governing Law": 0.17079584300518036,
+          "Non-Compete": 0.36853229999542236,
+          "Exclusivity": 0.5796622037887573,
+          "Anti-Assignment": 0.26770684123039246,
+          "Termination For Convenience": 0.7894921898841858,
+          "Cap On Liability": 0.187494695186615,
+          "Audit Rights": 0.442300021648407,
+          "Post-Termination Services": 0.9364496469497681
+        }
+      }
+    ]
+  },
+  "extractive": {
+    "task": "summarization",
+    "method": "extractive",
+    "summary": "SYNTHETIC INTERFACE DEMONSTRATION — NOT A BENCHMARK CASE The appellant challenged the dismissal of an application for repayment of a deposit. The agreement required written notice before termination. The respondent argued that the appellant had waived repayment by accepting the final account. The court considered the notice provision and the correspondence between the parties. It found that accepting the account did not waive the express right to repayment. The respondent had not established any contractual exception allowing retention of the deposit. The appeal was allowed. The order dismissing the repayment application was set aside, and the matter was remitted for determination of the amount payable. No order was made as to costs.",
+    "trace": {
+      "source_units": 10,
+      "selected_units": 10,
+      "selected_tokens": 112,
+      "source_tokens": 112,
+      "coverage_fraction": 0.9878869448183042,
+      "spans": [
+        {
+          "start": 0,
+          "end": 56
+        },
+        {
+          "start": 57,
+          "end": 141
+        },
+        {
+          "start": 142,
+          "end": 199
+        },
+        {
+          "start": 200,
+          "end": 293
+        },
+        {
+          "start": 294,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 461
+        },
+        {
+          "start": 462,
+          "end": 557
+        },
+        {
+          "start": 558,
+          "end": 581
+        },
+        {
+          "start": 582,
+          "end": 712
+        },
+        {
+          "start": 713,
+          "end": 743
+        }
+      ],
+      "partial_unit": false,
+      "budget_unit": "whitespace words (150); benchmark baseline uses 128 T5 tokens"
+    },
+    "seconds": 0.011764299999413197,
+    "scope": "Research aid. Verify names, dates, legal issues, reasoning and disposition against the original judgment."
+  },
+  "t5": {
+    "task": "summarization",
+    "method": "t5",
+    "summary": "the appellant challenged the dismissal of an application for repayment of a deposit. the agreement required written notice before termination. it found that accepting the account did not waive the express right to repayment.",
+    "trace": {
+      "source_units": 10,
+      "selected_units": 10,
+      "selected_tokens": 149,
+      "source_tokens": 149,
+      "coverage_fraction": 0.9878869448183042,
+      "spans": [
+        {
+          "start": 0,
+          "end": 56
+        },
+        {
+          "start": 57,
+          "end": 141
+        },
+        {
+          "start": 142,
+          "end": 199
+        },
+        {
+          "start": 200,
+          "end": 293
+        },
+        {
+          "start": 294,
+          "end": 379
+        },
+        {
+          "start": 380,
+          "end": 461
+        },
+        {
+          "start": 462,
+          "end": 557
+        },
+        {
+          "start": 558,
+          "end": 581
+        },
+        {
+          "start": 582,
+          "end": 712
+        },
+        {
+          "start": 713,
+          "end": 743
+        }
+      ],
+      "partial_unit": false,
+      "budget_unit": "T5 tokens"
+    },
+    "seconds": 0.7506551999995281,
+    "scope": "Research aid. Verify names, dates, legal issues, reasoning and disposition against the original judgment."
+  }
+}

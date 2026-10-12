@@ -1,0 +1,52 @@
+PAGE 1
+Mini-Project Guidelines – 2026 
+1. Submission of Problem Statement 
+Each team must identify a real-world problem and submit the problem statement on or before Lab 04. 
+The problem statement document should include the following: 
+• Title  
+• Introduction: Write in own words with 150 to 200. 
+• Keywords: At least 4 to 5 words. 
+• Objectives: At least two to three. 
+• Data Source: Mention the reference 
+• References:  
+a) Include 20–25 references from SCOPUS- or Web of Science-indexed journals. 
+b) Avoid citing conference papers, textbooks, blogs, websites, or other non-peer-reviewed sources. 
+c) Preferably use recent journal articles published from 2020 onwards. 
+d) Ensure that all references are cited appropriately in the text and formatted according to the IEEE 
+referencing style. 
+• Names and registration numbers of all team members 
+Team Size: Three students per team. 
+2. Mini-Project Evaluation and Report Submission 
+During the mini-project evaluation, each team must submit a detailed project report containing the following 
+sections: 
+• Title 
+• Abstract 
+• Keywords 
+• Introduction 
+• Literature Survey 
+• Objectives 
+• Data Source 
+• Methodology 
+• Implementation Details 
+• Results and Discussion 
+• Conclusion and Future Scope 
+• References 
+Front Page Requirements 
+The front page of the report should contain: 
+• Name of the School 
+• Name of the College and its logo 
+• Project Title 
+• Names of the Team Members 
+• Roll Numbers 
+• Registration Numbers 
+
+PAGE 2
+• Name(s) of the Faculty Guide(s) 
+• Academic Year 
+Important Note 
+The project report will be checked for plagiarism and similarity using Turnitin software. The similarity 
+index must be less than or equal to 15%. 
+Report Format 
+Students must prepare the report using the prescribed IEEE template available at the following link: 
+https://attend.ieee.org/procomm-2024/wp-content/uploads/sites/580/2024/03/Full-Paper-template.docx 
+ 

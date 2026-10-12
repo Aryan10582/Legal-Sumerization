@@ -1,0 +1,1401 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 22626612,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              2
+            ]
+          ],
+          "date-time": "2026-10-02T06:38:15Z",
+          "timestamp": 1790923095436,
+          "version": "4.1.0"
+        },
+        "reference-count": 44,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2024-11-11T00:00:00Z",
+              "timestamp": 1731283200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2024-11-11T00:00:00Z",
+              "timestamp": 1731283200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100008984",
+            "name": "Indian Institute of Technology Kharagpur",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/501100008984",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              3
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    The escalating number of pending cases is a growing concern worldwide. Recent advancements in digitization have opened up possibilities for leveraging artificial intelligence (AI) tools in the processing of legal documents. Adopting a structured representation for legal documents, as opposed to a mere bag-of-words flat text representation, can significantly enhance processing capabilities. With the aim of achieving this objective, we put forward a set of diverse attributes for criminal case proceedings. To enhance the effectiveness of automatically extracting these attributes from legal documents within a sequence labeling framework, we propose the utilization of a few-shot learning approach based on Large Language Models (LLMs). Moreover, we demonstrate the efficacy of the extracted attributes in downstream tasks, such as\n                    <jats:italic>legal judgment prediction and legal statute prediction</jats:italic>\n                    .\n                  </jats:p>",
+        "DOI": "10.1007/s10506-024-09425-7",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              10
+            ]
+          ],
+          "date-time": "2024-11-10T23:24:27Z",
+          "timestamp": 1731281067000
+        },
+        "page": "245-266",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 23,
+        "title": [
+          "A case study for automated attribute extraction from legal documents using large language models"
+        ],
+        "prefix": "10.1007",
+        "volume": "34",
+        "author": [
+          {
+            "given": "Subinay",
+            "family": "Adhikary",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3814-5462",
+            "authenticated-orcid": false,
+            "given": "Procheta",
+            "family": "Sen",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dwaipayan",
+            "family": "Roy",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kripabandhu",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9425_CR1",
+            "first-page": "367",
+            "volume": "379",
+            "author": "S Adhikary",
+            "year": "2023",
+            "unstructured": "Adhikary S, Roy D, Ganguly D, Kumar Guha S, Ghosh K (2023) Leda: a system for legal data annotation. Front Art Intel Appl 379:367–370",
+            "journal-title": "Front Art Intel Appl"
+          },
+          {
+            "issue": "5",
+            "key": "9425_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "2141",
+            "DOI": "10.1016/j.jksuci.2019.11.015",
+            "volume": "34",
+            "author": "D Anand",
+            "year": "2022",
+            "unstructured": "Anand D, Wagh R (2022) Effective deep learning approaches for summarization of legal texts. J King Saud Univ- Computer Inf Sci 34(5):2141–2150. https://doi.org/10.1016/j.jksuci.2019.11.015",
+            "journal-title": "J King Saud Univ- Computer Inf Sci"
+          },
+          {
+            "issue": "6",
+            "key": "9425_CR3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ipm.2022.103069",
+            "volume": "59",
+            "author": "P Bhattacharya",
+            "year": "2022",
+            "unstructured": "Bhattacharya P, Ghosh K, Pal A, Ghosh S (2022) Legal case document similarity: you need both network and text. Inf Proc Manage 59(6):103069",
+            "journal-title": "Inf Proc Manage"
+          },
+          {
+            "key": "9425_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Poddar S, Rudra K, Ghosh K, Ghosh S (2021) Incorporating domain knowledge for extractive summarization of legal case documents. Proc. of ICAIL",
+            "DOI": "10.1145/3462757.3466092"
+          },
+          {
+            "key": "9425_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Paul S, Ghosh K, Ghosh S, Wyner A (2019) Identification of rhetorical roles of sentences in indian legal judgments. In: Araszkiewicz, M., Rodríguez-Doncel, V. (eds) Legal Knowledge and Information Systems - JURIX 2019: The Thirty-second Annual Conference",
+            "DOI": "10.3233/FAIA190301"
+          },
+          {
+            "key": "9425_CR6",
+            "first-page": "1877",
+            "volume": "33",
+            "author": "T Brown",
+            "year": "2020",
+            "unstructured": "Brown T, Mann B, Ryder N, Subbiah M, Kaplan JD, Dhariwal P, Neelakantan A, Shyam P, Sastry G, Askell A et al (2020) Language models are few-shot learners. Adv Neural Inf Process Syst 33:1877–1901",
+            "journal-title": "Adv Neural Inf Process Syst"
+          },
+          {
+            "key": "9425_CR7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Curran JR, Clark S (2003) Language independent ner using a maximum entropy tagger. In: Daelemans, W., Osborne, M. (eds) Proceedings of CoNLL-2003. Edmonton, Canada",
+            "DOI": "10.3115/1119176.1119200"
+          },
+          {
+            "key": "9425_CR8",
+            "unstructured": "Devlin J, Chang M, Lee K, Toutanova K (2019) BERT: pre-training of deep bidirectional transformers for language understanding. In: Burstein, J., Doran, C., Solorio, T. (eds.) Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, NAACL-HLT 2019, Minneapolis, MN, USA, June 2-7, 2019, Volume 1 (Long and Short Papers). Association for Computational Linguistics,"
+          },
+          {
+            "key": "9425_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fan Z, Wu Z, Dai X-Y, Huang S, Chen J (2019) Target-oriented opinion words extraction with target-fused neural sequence labeling. In: Proc. of NAACL 2019, pp. 2509–2518",
+            "DOI": "10.18653/v1/N19-1259"
+          },
+          {
+            "key": "9425_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fox EA, Shaw JA (1993) Combination of multiple searches. In: Text Retrieval Conference",
+            "DOI": "10.6028/NIST.SP.500-215.vt"
+          },
+          {
+            "key": "9425_CR11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3233/FAIA200848",
+            "volume-title": "Retrieval of prior court cases using witness testimonies",
+            "author": "K Ghosh",
+            "year": "2020",
+            "unstructured": "Ghosh K, Pawar S, Palshikar G, Bhattacharyya P, Varma V (2020) Retrieval of prior court cases using witness testimonies. IOS Press, Legal Knowledge and Information Systems"
+          },
+          {
+            "key": "9425_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hammerton J (2003) Named entity recognition with long short-term memory. In: Daelemans, W., Osborne, M. (eds.) Proceedings of CoNLL-2003. Edmonton, Canada",
+            "DOI": "10.3115/1119176.1119202"
+          },
+          {
+            "key": "9425_CR13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-642-34997-3_9",
+            "volume-title": "What Are Ontologies Good For?",
+            "author": "I Horrocks",
+            "year": "2013",
+            "unstructured": "Horrocks I (2013) What Are Ontologies Good For? Springer, Evolution of semantic systems"
+          },
+          {
+            "key": "9425_CR14",
+            "unstructured": "Huang Z, Xu W, Yu K (2015) Bidirectional LSTM-CRF Models for Sequence Tagging"
+          },
+          {
+            "key": "9425_CR15",
+            "unstructured": "Jensen KN, Plank B (2022) Fine-tuning vs from scratch: Do vision & language models have similar capabilities on out-of-distribution visual question answering? Proc. of LREC"
+          },
+          {
+            "key": "9425_CR16",
+            "unstructured": "Kalim WB, Mercer RE (2022) Method entity extraction from biomedical texts. In: Proc. of the 29th International Conference on Computational Linguistics, pp. 2357–2362"
+          },
+          {
+            "key": "9425_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kiyavitskaya N, Zeni N, Mich L, Cordy JR, Mylopoulos J (2006) Text mining through semi automatic semantic annotation. In: Practical Aspects of Knowledge Management: 6th International Conference, PAKM 2006, Vienna, Austria, November 30-December1, 2006. Proceedings 6, pp. 143–154. Springer",
+            "DOI": "10.1007/11944935_13"
+          },
+          {
+            "key": "9425_CR18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lavrenko V, Croft WB (2001) Relevance based language models. In: Proc. of SIGIR, pp. 120–127",
+            "DOI": "10.1145/383952.383972"
+          },
+          {
+            "key": "9425_CR19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu Y, Fabbri AR, Liu P, Radev D, Cohan A (2023) On Learning to Summarize with Large Language Models as References",
+            "DOI": "10.18653/v1/2024.naacl-long.478"
+          },
+          {
+            "key": "9425_CR20",
+            "unstructured": "Liu P, Yuan W, Fu J, Jiang Z, Hayashi H, Neubig G (2021) Pre-train, prompt, and predict: A systematic survey of prompting methods in natural language processing. CoRR"
+          },
+          {
+            "key": "9425_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Malik V, Sanjay R, Nigam SK, Ghosh K, Guha SK, Bhattacharya A, Modi A (2021) ILDC for CJPE: Indian legal documents corpus for court judgment prediction and explanation. Proc ACL, pp 4046–4062",
+            "DOI": "10.18653/v1/2021.acl-long.313"
+          },
+          {
+            "key": "9425_CR22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mandal A, Ghosh K, Ghosh S, Mandal S (2021) A sequence labeling model for catchphrase identification from legal case documents. Artificial Intelligence and Law, pp 1–34",
+            "DOI": "10.1007/s10506-021-09296-2"
+          },
+          {
+            "key": "9425_CR23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mandal A, Ghosh K, Pal A, Ghosh S (2017) Automatic catchphrase identification from legal court case documents. In: Proc. of CIKM",
+            "DOI": "10.1145/3132847.3133102"
+          },
+          {
+            "issue": "2",
+            "key": "9425_CR24",
+            "first-page": "116",
+            "volume": "14",
+            "author": "K Munir",
+            "year": "2018",
+            "unstructured": "Munir K, Sheraz Anjum M (2018) The use of ontologies for effective knowledge modelling and information retrieval. Appl Comput Inf 14(2):116–126",
+            "journal-title": "Appl Comput Inf"
+          },
+          {
+            "key": "9425_CR25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.14569/IJACSA.2023.0140389",
+            "author": "V Naik",
+            "year": "2023",
+            "unstructured": "Naik V, Patel P, Kannan R (2023) Legal entity extraction: an experimental study of ner approach for legal documents. Int J Adv Computer Sci Appl. https://doi.org/10.14569/IJACSA.2023.0140389",
+            "journal-title": "Int J Adv Computer Sci Appl"
+          },
+          {
+            "key": "9425_CR26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Paul S, Mandal A, Goyal P, Ghosh S (2023) Pre-trained language models for the legal domain: a case study on indian law. In: Proceedings of the Nineteenth International Conference on Artificial Intelligence and Law, pp. 187–196",
+            "DOI": "10.1145/3594536.3595165"
+          },
+          {
+            "key": "9425_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Paul S, Goyal P, Ghosh S (2020) Automatic charge identification from facts: A few sentence-level charge annotations is all you need. In: Proceedings of the 28th International Conference on Computational Linguistics, pp. 1011–1022",
+            "DOI": "10.18653/v1/2020.coling-main.88"
+          },
+          {
+            "key": "9425_CR28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Podder RS, Bhattacharya P (2020) Unsupervised legal concept extraction from indian case documents using statutes. In: Proceedings of the 12th Annual Meeting of the Forum for Information Retrieval Evaluation, pp. 62–65",
+            "DOI": "10.1145/3441501.3441508"
+          },
+          {
+            "issue": "8",
+            "key": "9425_CR29",
+            "first-page": "9",
+            "volume": "1",
+            "author": "A Radford",
+            "year": "2019",
+            "unstructured": "Radford A, Wu J, Child R, Luan D, Amodei D, Sutskever I et al (2019) Language models are unsupervised multitask learners. OpenAI blog 1(8):9",
+            "journal-title": "OpenAI blog"
+          },
+          {
+            "key": "9425_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rei M, Søgaard A (2018) Zero-shot sequence labeling: Transferring knowledge from sentences to tokens. Proc.NAACL, pp. 293–302",
+            "DOI": "10.18653/v1/N18-1027"
+          },
+          {
+            "issue": "2",
+            "key": "9425_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "375",
+            "DOI": "10.3390/ai4020019",
+            "volume": "4",
+            "author": "P Rivas",
+            "year": "2023",
+            "unstructured": "Rivas P, Zhao L (2023) Marketing with chatgpt: Navigating the ethical terrain of gpt-based chatbot technology. AI 4(2):375–384",
+            "journal-title": "AI"
+          },
+          {
+            "key": "9425_CR32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sari Y, Hassan MF, Zamin N (2010) Rule-based pattern extractor and named entity recognition: A hybrid approach. In: 2010 International Symposium on Information Technology, vol. 2, pp. 563–568",
+            "DOI": "10.1109/ITSIM.2010.5561392"
+          },
+          {
+            "key": "9425_CR33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shukla A, Bhattacharya P, Poddar S, Mukherjee R, Ghosh K, Goyal P, Ghosh S (2022) Legal case document summarization: Extractive and abstractive methods and their evaluation. In: Proc. of the 2nd Conference of the Asia-Pacific Chapter of the ACL and the 12th International Joint Conference on Natural Language Processing, Online only",
+            "DOI": "10.18653/v1/2022.aacl-main.77"
+          },
+          {
+            "key": "9425_CR34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sleimi A, Sannier N, Sabetzadeh M, Briand L, Dann J (2018) Automated extraction of semantic legal metadata using natural language processing. In: 2018 IEEE 26th International Requirements Engineering Conference (RE), pp. 124–135. IEEE",
+            "DOI": "10.1109/RE.2018.00022"
+          },
+          {
+            "key": "9425_CR35",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Strickson B, De La Iglesia B (2020) Legal judgement prediction for uk courts. In: Proceedings of the 3rd International Conference on Information Science and Systems, pp. 204–209",
+            "DOI": "10.1145/3388176.3388183"
+          },
+          {
+            "key": "9425_CR37",
+            "unstructured": "Tran VD, Nguyen ML, Satoh K (2018) Automatic catchphrase extraction from legal case documents via scoring using deep neural networks. CoRR"
+          },
+          {
+            "key": "9425_CR38",
+            "unstructured": "Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez AN, Kaiser Lu, Polosukhin I (2017) Attention is all you need. In: Guyon, I., Luxburg, U.V., Bengio, S., Wallach, H., Fergus, R., Vishwanathan, S., Garnett, R. (eds.) NEURIPS"
+          },
+          {
+            "key": "9425_CR39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vats S, Zope A, De S, Sharma A, Bhattacharya U, Nigam S, Guha S, Rudra K, Ghosh K (2023) Llms–the good, the bad or the indispensable?: A use case on legal statute prediction and legal judgment prediction on indian court cases. In: Findings of the Association for Computational Linguistics: EMNLP 2023, pp. 12451–12474",
+            "DOI": "10.18653/v1/2023.findings-emnlp.831"
+          },
+          {
+            "issue": "6",
+            "key": "9425_CR40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ipm.2023.103511",
+            "volume": "60",
+            "author": "Y Wang",
+            "year": "2023",
+            "unstructured": "Wang Y, Wang Y, Sun Z, Li Y, Hu S, Ye Y (2023) Deep purified feature mining model for joint named entity recognition and relation extraction. Inf Proce Manage 60(6):103511",
+            "journal-title": "Inf Proce Manage"
+          },
+          {
+            "key": "9425_CR41",
+            "unstructured": "Wang S, Sun X, Li X, Ouyang R, Wu F, Zhang T, Li J, Wang G GPT-NER: Named Entity Recognition Via Large Language Models. arXiv preprint arXiv:2304.10428"
+          },
+          {
+            "key": "9425_CR42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang H, Li J, Wu H, Hovy E, Sun Y (2022) Pre-trained language models and their applications. Engineering",
+            "DOI": "10.1016/j.eng.2022.04.024"
+          },
+          {
+            "key": "9425_CR43",
+            "volume-title": "Raise a child in large language model: Towards effective and generalizable fine-tuning",
+            "author": "R Xu",
+            "year": "2021",
+            "unstructured": "Xu R, Luo F, Zhang Z, Tan C, Chang B, Huang S, Huang F (2021) Raise a child in large language model: Towards effective and generalizable fine-tuning. Online and Punta Cana, Dominican Republic, Proc. of EMNLP"
+          },
+          {
+            "key": "9425_CR44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang X, Li D, Wu X (2014) Parsing named entity as syntactic structure. In: Interspeech. Fifteenth Annual Conference of the International Speech Communication Association",
+            "DOI": "10.21437/Interspeech.2014-68"
+          },
+          {
+            "key": "9425_CR45",
+            "unstructured": "Zhang B, Haddow B, Birch A (2023) Prompting Large Language Model for Machine Translation: A Case Study"
+          }
+        ],
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10506-024-09425-7",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09425-7.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2026-03-25T06:45:21Z",
+          "timestamp": 1774421121000
+        },
+        "score": 60.984947,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10506-024-09425-7"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                3
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9425"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-024-09425-7",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "24 October 2024",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "11 November 2024",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              1
+            ]
+          ],
+          "date-time": "2026-09-01T16:13:37Z",
+          "timestamp": 1788279217876,
+          "version": "build-2803163510"
+        },
+        "reference-count": 19,
+        "publisher": "IEEE",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  16
+                ]
+              ],
+              "date-time": "2025-10-16T00:00:00Z",
+              "timestamp": 1760572800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  10,
+                  16
+                ]
+              ],
+              "date-time": "2025-10-16T00:00:00Z",
+              "timestamp": 1760572800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              16
+            ]
+          ]
+        },
+        "DOI": "10.1109/iceccme64568.2025.11277979",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              15
+            ]
+          ],
+          "date-time": "2025-12-15T18:36:10Z",
+          "timestamp": 1765823770000
+        },
+        "page": "1-6",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Automated Information Extraction from Unstructured Documents Using Large Language Models and different Questioning Strategies"
+        ],
+        "prefix": "10.1109",
+        "author": [
+          {
+            "given": "Jörg",
+            "family": "Brünnhäußer",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Virtual Product Creation Fraunhofer IPK,Berlin,Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xiaoxu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Virtual Product Creation Fraunhofer IPK,Berlin,Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Erik Paul",
+            "family": "Konietzko",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Virtual Product Creation Fraunhofer IPK,Berlin,Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Stefan",
+            "family": "Kehl",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Volkswagen Group,Wolfsburg,Germany"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1561/1900000003"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/zwf-2024-1151"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3703155"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/234173.234209"
+          },
+          {
+            "key": "ref5",
+            "first-page": "3",
+            "article-title": "Conditional random fields: Probabilistic models for segmenting and labeling sequence data",
+            "volume": "2001",
+            "author": "Lafferty",
+            "journal-title": "Icml"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MASSP.1986.1165342"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/app12199691"
+          },
+          {
+            "key": "ref8",
+            "article-title": "Efficient Estimation of Word Representations in Vector Space",
+            "author": "Mikolov",
+            "year": "2013"
+          },
+          {
+            "key": "ref9",
+            "article-title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+            "author": "Devlin",
+            "year": "2018"
+          },
+          {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11704-024-40555-y"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11704-024-40763-6"
+          },
+          {
+            "key": "ref12",
+            "article-title": "Zero-shot question answering over financial documents using large language models",
+            "author": "Phogat",
+            "year": "2023",
+            "journal-title": "arXiv preprint arXiv:2311.14722"
+          },
+          {
+            "key": "ref13",
+            "article-title": "The Llama 3 Herd of Models",
+            "author": "Grattafiori",
+            "year": "2024"
+          },
+          {
+            "key": "ref14",
+            "article-title": "Mixtral of Experts",
+            "author": "Jiang",
+            "year": "2024"
+          },
+          {
+            "key": "ref15",
+            "article-title": "Qwen2.5 Technical Report",
+            "author": "Yang",
+            "year": "2024"
+          },
+          {
+            "key": "ref16",
+            "article-title": "Large Language Models for Information Retrieval: A Survey",
+            "author": "Zhu",
+            "year": "2023"
+          },
+          {
+            "key": "ref17",
+            "article-title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+            "author": "Lewis",
+            "year": "2020"
+          },
+          {
+            "key": "ref18",
+            "article-title": "Bertscore: Evaluating text generation with bert",
+            "volume-title": "International Conference on Learning Representations",
+            "author": "Zhang"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3115/1073083.1073135"
+          }
+        ],
+        "event": {
+          "name": "2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+          "location": "Zanzibar, Tanzania, United Republic of",
+          "start": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                16
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2025,
+                10,
+                19
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11277412/11277266/11277979.pdf?arnumber=11277979",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              18
+            ]
+          ],
+          "date-time": "2025-12-18T12:25:18Z",
+          "timestamp": 1766060718000
+        },
+        "score": 40.000916,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/11277979/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              16
+            ]
+          ]
+        },
+        "references-count": 19,
+        "URL": "https://doi.org/10.1109/iceccme64568.2025.11277979",
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              16
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              28
+            ]
+          ],
+          "date-time": "2026-05-28T18:04:53Z",
+          "timestamp": 1779991493292,
+          "version": "3.53.1"
+        },
+        "publisher-location": "New York, NY, USA",
+        "reference-count": 48,
+        "publisher": "ACM",
+        "content-domain": {
+          "domain": [
+            "dl.acm.org"
+          ],
+          "crossmark-restriction": true
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              29
+            ]
+          ]
+        },
+        "DOI": "10.1145/3774905.3795457",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              28
+            ]
+          ],
+          "date-time": "2026-05-28T17:14:56Z",
+          "timestamp": 1779988496000
+        },
+        "page": "857-867",
+        "update-policy": "https://doi.org/10.1145/crossmark-policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Fair Geolocation Extraction from Humanitarian Documents Using Large Language Models"
+        ],
+        "prefix": "10.1145",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0006-6606-8448",
+            "authenticated-orcid": false,
+            "given": "Gianmarco",
+            "family": "Cafferata",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Universidad de San Andrés, Victoria, Buenos Aires, Argentina"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0007-4423-596X",
+            "authenticated-orcid": false,
+            "given": "Tiziano",
+            "family": "Demarco",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidad de San Andrés, Victoria, Buenos Aires, Argentina"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-8068-5916",
+            "authenticated-orcid": false,
+            "given": "Kyriaki",
+            "family": "Kalimeri",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "ISI Foundation, Turin, Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5560-4109",
+            "authenticated-orcid": false,
+            "given": "Yelena",
+            "family": "Mejova",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "ISI Foundation, Turin, Italy"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-5474-0309",
+            "authenticated-orcid": false,
+            "given": "Mariano G.",
+            "family": "Beiró",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Universidad de San Andrés, Victoria, Buenos Aires, Argentina and CONICET, Buenos Aires, Argentina"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "320",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              28
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "e_1_3_2_1_1_1",
+            "unstructured": "2023. spaCy-LLM: Integrating Large Language Models into spaCy. https://github.com/explosion/spacy-llm Python library."
+          },
+          {
+            "key": "e_1_3_2_1_2_1",
+            "unstructured": "2025. Understanding country income: World Bank Group income classifications for FY26. https://blogs.worldbank.org/en/opendata/understanding-countryincome-world-bank-group-income-classifica#one"
+          },
+          {
+            "key": "e_1_3_2_1_3_1",
+            "volume-title": "Promptner: Prompting for named entity recognition. arXiv preprint arXiv:2305.15444",
+            "author": "Ashok Dhananjay",
+            "year": "2023",
+            "unstructured": "Dhananjay Ashok and Zachary C Lipton. 2023. Promptner: Prompting for named entity recognition. arXiv preprint arXiv:2305.15444 (2023)."
+          },
+          {
+            "key": "e_1_3_2_1_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3582515.3609515"
+          },
+          {
+            "key": "e_1_3_2_1_5_1",
+            "first-page": "1877",
+            "article-title": "Language Models are Few-Shot Learners",
+            "volume": "33",
+            "author": "Brown Tom B.",
+            "year": "2020",
+            "unstructured": "Tom B. Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, J. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, Sandhini Agarwal, Ariel Herbert-Voss, Gretchen Krueger, T. Henighan, R. Child, A. Ramesh, Daniel M. Ziegler, JeffWu, Clemens Winter, Christopher Hesse, Mark Chen, Eric Sigler, Ma-teusz Litwin, Scott Gray, B. Chess, Jack Clark, Christopher Berner, Sam McCandlish, Alec Radford, I. Sutskever, and Dario Amodei. 2020. Language Models are Few-Shot Learners. Neural Information Processing Systems 33 (2020), 1877--1901.",
+            "journal-title": "Neural Information Processing Systems"
+          },
+          {
+            "key": "e_1_3_2_1_6_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0307254"
+          },
+          {
+            "key": "e_1_3_2_1_7_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10994-025-06916-9"
+          },
+          {
+            "key": "e_1_3_2_1_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3708359.3712111"
+          },
+          {
+            "key": "e_1_3_2_1_9_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/2022.findings-emnlp.321"
+          },
+          {
+            "key": "e_1_3_2_1_10_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3675669.3675696"
+          },
+          {
+            "key": "e_1_3_2_1_11_1",
+            "unstructured": "GeoNames. 2025. GeoNames geographical database. https://www.geonames.org Accessed: 2025--11--12."
+          },
+          {
+            "key": "e_1_3_2_1_12_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0308518X15594899"
+          },
+          {
+            "key": "e_1_3_2_1_13_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10579-019-09475--3"
+          },
+          {
+            "key": "e_1_3_2_1_14_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijgi13040133"
+          },
+          {
+            "key": "e_1_3_2_1_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/13658816.2024.2405182"
+          },
+          {
+            "key": "e_1_3_2_1_16_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/13658816.2023.2266495"
+          },
+          {
+            "key": "e_1_3_2_1_17_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3025453.3026015"
+          },
+          {
+            "key": "e_1_3_2_1_18_1",
+            "unstructured": "Omar Khattab Arnav Singhvi Paridhi Maheshwari Zhiyuan Zhang Keshav Santhanam Sri Vardhamanan Saiful Haq Ashutosh Sharma Thomas T Joshi Hanna Moazam et al. 2023. DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines. arXiv preprint arXiv:2310.03714 (2023)."
+          },
+          {
+            "key": "e_1_3_2_1_19_1",
+            "unstructured": "Stillman Kruspe. 2025. Biased Geolocation in LLMs: Experiments on Probing LLMs for Geographic Knowledge and Reasoning. (2025)."
+          },
+          {
+            "key": "e_1_3_2_1_20_1",
+            "unstructured": "LangChain Developers. 2023. LangChain. https://www.langchain.com Accessed: 2025--10--13."
+          },
+          {
+            "key": "e_1_3_2_1_21_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/2025.findings-acl.750"
+          },
+          {
+            "key": "e_1_3_2_1_22_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/13658816.2024.2369539"
+          },
+          {
+            "key": "e_1_3_2_1_23_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arxiv"
+          },
+          {
+            "key": "e_1_3_2_1_24_1",
+            "volume-title": "How far is language model from 100% few-shot named entity recognition in medical domain. arXiv preprint arXiv:2307.00186",
+            "author": "Li Mingchen",
+            "year": "2023",
+            "unstructured": "Mingchen Li and Rui Zhang. 2023. How far is language model from 100% few-shot named entity recognition in medical domain. arXiv preprint arXiv:2307.00186 (2023)."
+          },
+          {
+            "key": "e_1_3_2_1_25_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TBDATA.2023.3242961"
+          },
+          {
+            "key": "e_1_3_2_1_26_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5194/agile-giss-3-9-2022"
+          },
+          {
+            "key": "e_1_3_2_1_27_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3653070"
+          },
+          {
+            "key": "e_1_3_2_1_28_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1609/icwsm.v9i4.14688"
+          },
+          {
+            "key": "e_1_3_2_1_29_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5555/3692070.3693479"
+          },
+          {
+            "key": "e_1_3_2_1_30_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3372923.3404804"
+          },
+          {
+            "key": "e_1_3_2_1_31_1",
+            "volume-title": "Assessing Demographic Bias in Named Entity Recognition. arXiv: Computation and Language",
+            "author": "Mishra Shubhanshu",
+            "year": "2020",
+            "unstructured": "Shubhanshu Mishra, Sijun He, and Luca Belli. 2020. Assessing Demographic Bias in Named Entity Recognition. arXiv: Computation and Language (2020)."
+          },
+          {
+            "key": "e_1_3_2_1_32_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/2025.naacl-srw.51"
+          },
+          {
+            "key": "e_1_3_2_1_33_1",
+            "volume-title": "Pelias: Open Source Geocoder. https://pelias.io",
+            "author": "Contributors Pelias",
+            "year": "2014",
+            "unstructured": "Pelias Contributors. 2014. Pelias: Open Source Geocoder. https://pelias.io"
+          },
+          {
+            "key": "e_1_3_2_1_34_1",
+            "volume-title": "Natural language processing for humanitarian action: Opportunities, challenges, and the path toward humanitarian NLP. Frontiers in big Data 6",
+            "author": "Rocca Roberta",
+            "year": "2023",
+            "unstructured": "Roberta Rocca, Nicolò Tamagnone, Selim Fekih, Ximena Contla, and Navid Rekabsaz. 2023. Natural language processing for humanitarian action: Opportunities, challenges, and the path toward humanitarian NLP. Frontiers in big Data 6 (2023),1082787."
+          },
+          {
+            "key": "e_1_3_2_1_35_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/2024.emnlp-industry.91"
+          },
+          {
+            "key": "e_1_3_2_1_36_1",
+            "volume-title": "InstructionNER: A Multi-Task Instruction-Based Generative Framework for Few-shot NER. arXiv preprint arXiv:2203.03903",
+            "author": "Wang Liwen",
+            "year": "2022",
+            "unstructured": "Liwen Wang, Rumei Li, Yang Yan, Yuanmeng Yan, Sirui Wang, Wei Wu, and Weiran Xu. 2022. InstructionNER: A Multi-Task Instruction-Based Generative Framework for Few-shot NER. arXiv preprint arXiv:2203.03903 (2022)."
+          },
+          {
+            "key": "e_1_3_2_1_37_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/2025.findings-naacl.239"
+          },
+          {
+            "key": "e_1_3_2_1_38_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17538947.2025.2521786"
+          },
+          {
+            "key": "e_1_3_2_1_39_1",
+            "volume-title": "Brian Lester, Nan Du, Andrew M. Dai, and Quoc V Le.",
+            "author": "Wei Jason",
+            "year": "2022",
+            "unstructured": "Jason Wei, Maarten Bosma, Vincent Zhao, Kelvin Guu, Adams Wei Yu, Brian Lester, Nan Du, Andrew M. Dai, and Quoc V Le. 2022. Finetuned Language Models are Zero-Shot Learners. arXiv preprint arXiv:2109.01652 (2022)."
+          },
+          {
+            "key": "e_1_3_2_1_40_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fdigh.2018.00002"
+          },
+          {
+            "key": "e_1_3_2_1_41_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3593013.3593982"
+          },
+          {
+            "key": "e_1_3_2_1_42_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11704-024-40555-y"
+          },
+          {
+            "key": "e_1_3_2_1_43_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijdrr.2025.105642"
+          },
+          {
+            "key": "e_1_3_2_1_44_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/ARXIV.2505.20139"
+          },
+          {
+            "key": "e_1_3_2_1_45_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jag.2025.104423"
+          },
+          {
+            "key": "e_1_3_2_1_46_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/2023.starsem-1.6"
+          },
+          {
+            "key": "e_1_3_2_1_47_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10579-024-09730-2"
+          },
+          {
+            "key": "e_1_3_2_1_48_1",
+            "volume-title": "UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. arXiv preprint arXiv:2308.03279",
+            "author": "Zhou Wenxuan",
+            "year": "2024",
+            "unstructured": "Wenxuan Zhou, Sheng Zhang, Yu Gu, Muhao Chen, and Hoifung Poon. 2024. UniversalNER: Targeted Distillation from Large Language Models for Open Named Entity Recognition. arXiv preprint arXiv:2308.03279 (2024)."
+          }
+        ],
+        "event": {
+          "name": "WWW '26: The ACM Web Conference 2026",
+          "location": "Dubai United Arab Emirates",
+          "sponsor": [
+            "SIGWEB ACM Special Interest Group on Hypertext, Hypermedia, and Web"
+          ]
+        },
+        "container-title": [
+          "Companion Proceedings of the ACM Web Conference 2026"
+        ],
+        "link": [
+          {
+            "URL": "https://dl.acm.org/doi/pdf/10.1145/3774905.3795457",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              28
+            ]
+          ],
+          "date-time": "2026-05-28T17:26:38Z",
+          "timestamp": 1779989198000
+        },
+        "score": 39.029697,
+        "resource": {
+          "primary": {
+            "URL": "https://dl.acm.org/doi/10.1145/3774905.3795457"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              28
+            ]
+          ]
+        },
+        "references-count": 48,
+        "alternative-id": [
+          "10.1145/3774905.3795457",
+          "10.1145/3774905"
+        ],
+        "URL": "https://doi.org/10.1145/3774905.3795457",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              28
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "2026-05-28",
+            "order": 3,
+            "name": "published",
+            "label": "Published",
+            "group": {
+              "name": "publication_history",
+              "label": "Publication History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

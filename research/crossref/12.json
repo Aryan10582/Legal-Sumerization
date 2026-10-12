@@ -1,0 +1,2234 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5704989,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              3
+            ]
+          ],
+          "date-time": "2026-10-03T02:42:50Z",
+          "timestamp": 1790995370259,
+          "version": "4.1.0"
+        },
+        "reference-count": 121,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-017"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-012"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-004"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Information Systems"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.is.2021.101967",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              12,
+              6
+            ]
+          ],
+          "date-time": "2021-12-06T11:46:23Z",
+          "timestamp": 1638791183000
+        },
+        "page": "101967",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 84,
+        "special_numbering": "C",
+        "title": [
+          "Legal Information Retrieval systems: State-of-the-art and open issues"
+        ],
+        "prefix": "10.1016",
+        "volume": "106",
+        "author": [
+          {
+            "given": "Carlo",
+            "family": "Sansone",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4033-3777",
+            "authenticated-orcid": false,
+            "given": "Giancarlo",
+            "family": "Sperlí",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "3",
+            "key": "10.1016/j.is.2021.101967_b1",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1007/s10506-012-9131-x",
+            "article-title": "A history of AI and law in 50 papers: 25 years of the international conference on AI and law",
+            "volume": "20",
+            "author": "Bench-Capon",
+            "year": "2012",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b2",
+            "series-title": "International Conference on Principles and Practice of Multi-Agent Systems",
+            "first-page": "484",
+            "article-title": "A deontic argumentation framework based on deontic defeasible logic",
+            "author": "Governatori",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b3",
+            "series-title": "Proceedings of the 2nd International Conference on Artificial Intelligence and Law",
+            "first-page": "180",
+            "article-title": "A language for legal discourse I. Basic features",
+            "author": "McCarty",
+            "year": "1989"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b4",
+            "series-title": "Artificial Intelligence and Legal Analytics: New Tools for Law Practice in the Digital Age",
+            "author": "Ashley",
+            "year": "2017"
+          },
+          {
+            "issue": "9",
+            "key": "10.1016/j.is.2021.101967_b5",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1038/s42256-019-0088-2",
+            "article-title": "The global landscape of AI ethics guidelines",
+            "volume": "1",
+            "author": "Jobin",
+            "year": "2019",
+            "journal-title": "Nat. Mach. Intell."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b6",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1109/MTS.2019.2915154",
+            "article-title": "AI ethics in predictive policing: From models of threat to an ethics of care",
+            "volume": "38",
+            "author": "Asaro",
+            "year": "2019",
+            "journal-title": "IEEE Technol. Soc. Mag."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b7",
+            "series-title": "Legal Knowledge and Information Systems - JURIX 2018: The Thirty-First Annual Conference, Groningen, the Netherlands, 12-14 December 2018",
+            "first-page": "101",
+            "article-title": "Modelling legal knowledge for GDPR compliance checking",
+            "volume": "vol. 313",
+            "author": "Palmirani",
+            "year": "2018"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.is.2021.101967_b8",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1007/s10462-017-9566-2",
+            "article-title": "Text summarization from legal documents: A survey",
+            "volume": "51",
+            "author": "Kanapala",
+            "year": "2019",
+            "journal-title": "Artif. Intell. Rev."
+          },
+          {
+            "issue": "12",
+            "key": "10.1016/j.is.2021.101967_b9",
+            "doi-asserted-by": "crossref",
+            "first-page": "8631",
+            "DOI": "10.1007/s00521-019-04177-x",
+            "article-title": "Summarization of legal judgments using gravitational search algorithm",
+            "volume": "31",
+            "author": "Kanapala",
+            "year": "2019",
+            "journal-title": "Neural Comput. Appl."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b10",
+            "doi-asserted-by": "crossref",
+            "first-page": "237",
+            "DOI": "10.1007/s10506-019-09255-y",
+            "article-title": "Using machine learning to predict decisions of the European court of human rights",
+            "volume": "28",
+            "author": "Medvedeva",
+            "year": "2020",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b11",
+            "series-title": "Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law",
+            "first-page": "12",
+            "article-title": "Reasoning with legal cases: Analogy or rule application?",
+            "author": "Atkinson",
+            "year": "2019"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.is.2021.101967_b12",
+            "first-page": "873",
+            "article-title": "Semantic web machine reading with FRED",
+            "volume": "8",
+            "author": "Gangemi",
+            "year": "2017",
+            "journal-title": "Semant. Web"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b13",
+            "article-title": "Ai in the uk: ready, willing and able",
+            "volume": "36",
+            "author": "House of Lords Select Committee",
+            "year": "2018",
+            "journal-title": "House Lords"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b14",
+            "series-title": "Big data, artificial intelligence, machine learning and data protection",
+            "author": "ICO",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b15",
+            "series-title": "Guide to uniform production of judgments",
+            "author": "Olsson",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b16",
+            "series-title": "Proceedings of the 8th International Conference on Artificial Intelligence and Law",
+            "first-page": "42",
+            "article-title": "Improving the representation of legal case texts with information extraction methods",
+            "author": "Brüninghaus",
+            "year": "2001"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b17",
+            "series-title": "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management",
+            "first-page": "2187",
+            "article-title": "Automatic catchphrase identification from legal court case documents",
+            "author": "Mandal",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b18",
+            "series-title": "Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law, ICAIL 2019, Montreal, QC, Canada, June 17-21, 2019",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b19",
+            "series-title": "Proceedings of the 11th Forum for Information Retrieval Evaluation",
+            "first-page": "4",
+            "article-title": "FIRE 2019 AILA track: Artificial intelligence for legal assistance",
+            "author": "Bhattacharya",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b20",
+            "doi-asserted-by": "crossref",
+            "first-page": "12",
+            "DOI": "10.1016/j.eswa.2019.04.009",
+            "article-title": "Legal ontologies over time: A systematic mapping study",
+            "volume": "130",
+            "author": "de Oliveira Rodrigues",
+            "year": "2019",
+            "journal-title": "Expert Syst. Appl."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.is.2021.101967_b21",
+            "first-page": "4",
+            "article-title": "From the law librarian to legal information management, from bulletin to journal: A jubilee year",
+            "volume": "20",
+            "author": "Wills",
+            "year": "2020",
+            "journal-title": "Leg. Inf. Manag."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b22",
+            "series-title": "Artificial Intelligence and Security",
+            "first-page": "26",
+            "article-title": "An overview of cross-language information retrieval",
+            "author": "Zhang",
+            "year": "2020"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.is.2021.101967_b23",
+            "first-page": "9",
+            "article-title": "Law in the age of exabytes: Some further thoughts on ‘information inflation’and current issues in e-discovery search",
+            "volume": "17",
+            "author": "Baron",
+            "year": "2011",
+            "journal-title": "Richmond J. Law Technol."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.is.2021.101967_b24",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1007/s10506-010-9093-9",
+            "article-title": "Evaluation of information retrieval for E-discovery",
+            "volume": "18",
+            "author": "Oard",
+            "year": "2010",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.is.2021.101967_b25",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1007/s10506-017-9195-8",
+            "article-title": "On the concept of relevance in legal information retrieval",
+            "volume": "25",
+            "author": "Van Opijnen",
+            "year": "2017",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b26",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1086/602864",
+            "article-title": "Modeling the information seeking of professionals: A general model derived from research on engineers, health care professionals, and lawyers",
+            "volume": "66",
+            "author": "Leckie",
+            "year": "1996",
+            "journal-title": "Libr. Q.: Inf. Community Policy"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.is.2021.101967_b27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/1500000061",
+            "article-title": "An introduction to neural information retrieval",
+            "volume": "13",
+            "author": "Mitra",
+            "year": "2018",
+            "journal-title": "Found. Trends® Inf. Retr."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b28",
+            "series-title": "Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval",
+            "first-page": "9",
+            "article-title": "Training effective neural CLIR by bridging the translation gap",
+            "author": "Bonab",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b29",
+            "series-title": "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+            "first-page": "1861",
+            "article-title": "Learning neural representation for CLIR with adversarial framework",
+            "author": "Li",
+            "year": "2018"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b30",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.1016/j.ipm.2016.11.002",
+            "article-title": "Continuous space models for CLIR",
+            "volume": "53",
+            "author": "Gupta",
+            "year": "2017",
+            "journal-title": "Inf. Process. Manage."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b31",
+            "series-title": "International Conference on Speech and Computer",
+            "first-page": "679",
+            "article-title": "Different approaches in cross-language similar documents retrieval in the legal domain",
+            "author": "Zhebel",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b32",
+            "series-title": "Agency and Deontic Logic",
+            "author": "Horty",
+            "year": "2001"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b33",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.2307/785533",
+            "article-title": "Some fundamental legal conceptions as applied in judicial reasoning",
+            "volume": "23",
+            "author": "Hohfeld",
+            "year": "1913",
+            "journal-title": "Yale Lj"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b34",
+            "series-title": "13th IEEE International Conference on Requirements Engineering",
+            "first-page": "167",
+            "article-title": "Modeling security requirements through ownership, permission and delegation",
+            "author": "Giorgini",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b35",
+            "series-title": "14th IEEE International Requirements Engineering Conference",
+            "first-page": "49",
+            "article-title": "Towards regulatory compliance: Extracting rights and obligations to align requirements with regulations",
+            "author": "Breaux",
+            "year": "2006"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b36",
+            "series-title": "How does NLP benefit legal system: A summary of legal artificial intelligence",
+            "author": "Zhong",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b37",
+            "series-title": "Proceedings of the 10th International Conference on Artificial Intelligence and Law",
+            "first-page": "133",
+            "article-title": "Automatic semantics extraction in law documents",
+            "author": "Biagioli",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b38",
+            "series-title": "Research Handbook on Big Data Law",
+            "article-title": "Lexnlp: Natural language processing and information extraction for legal and regulatory texts",
+            "author": "Bommarito II",
+            "year": "2021"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b39",
+            "series-title": "Proceedings of the V Legislative XML Workshop",
+            "first-page": "253",
+            "article-title": "Automatic extraction of semantics in law documents",
+            "author": "Soria",
+            "year": "2007"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b40",
+            "series-title": "Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law",
+            "first-page": "266",
+            "article-title": "Legal machine-learning analysis: First steps towards A.I. Assisted legal research",
+            "author": "Mok",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b41",
+            "first-page": "49",
+            "article-title": "A case study on automated norm extraction",
+            "author": "van Engers",
+            "year": "2004",
+            "journal-title": "Leg. Knowl. Inf. Syst. Jurix"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b42",
+            "unstructured": "E. Maat, R. Winkels, Suggesting model fragments for sentences in dutch laws, in: Proceedings of Legal Ontologies and Artificial Intelligence Techniques, 2010, pp. 19–28."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b43",
+            "series-title": "Proceedings of the 12th International Conference on Artificial Intelligence and Law",
+            "first-page": "238",
+            "article-title": "Legal text analysis of the modification provisions: A pattern oriented approach",
+            "author": "Brighi",
+            "year": "2009"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b44",
+            "series-title": "International Conference on Conceptual Modeling",
+            "first-page": "154",
+            "article-title": "Automating the extraction of rights and obligations for regulatory compliance",
+            "author": "Kiyavitskaya",
+            "year": "2008"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b45",
+            "series-title": "JURIX, Vol. 11",
+            "first-page": "113",
+            "article-title": "On rule extraction from regulations",
+            "author": "Wyner",
+            "year": "2011"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b46",
+            "series-title": "International Workshop on Rules and Rule Markup Languages for the Semantic Web",
+            "first-page": "218",
+            "article-title": "Semantic relation extraction from legislative text using generalized syntactic dependencies and support vector machines",
+            "author": "Boella",
+            "year": "2013"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.is.2021.101967_b47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/s10664-020-09933-5",
+            "article-title": "An automated framework for the extraction of semantic legal metadata from legal texts",
+            "volume": "26",
+            "author": "Sleimi",
+            "year": "2021",
+            "journal-title": "Empir. Softw. Eng."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b48",
+            "unstructured": "M. Dragoni, S. Villata, W. Rizzi, G. Governatori, Combining NLP approaches for rule extraction from legal documents, in: 1st Workshop on MIning and REasoning with Legal Texts (MIREL 2016), 2016, pp. 1–13."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b49",
+            "series-title": "European Conference on Information Retrieval",
+            "first-page": "258",
+            "article-title": "Exploiting locality of wikipedia links in entity ranking",
+            "author": "Pehcevski",
+            "year": "2008"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b50",
+            "series-title": "Proceedings of the 19th ACM International Conference on Information and Knowledge Management",
+            "first-page": "69",
+            "article-title": "Entity ranking using wikipedia as a pivot",
+            "author": "Kaptein",
+            "year": "2010"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b51",
+            "series-title": "Proceedings of the 24th ACM International on Conference on Information and Knowledge Management",
+            "first-page": "1461",
+            "article-title": "Ranking entities for web queries through text and knowledge",
+            "author": "Schuhmacher",
+            "year": "2015"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b52",
+            "series-title": "International Semantic Web Conference",
+            "first-page": "458",
+            "article-title": "SANAPHOR: Ontology-based coreference resolution",
+            "author": "Prokofyev",
+            "year": "2015"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b53",
+            "series-title": "The Semantic Web",
+            "first-page": "184",
+            "article-title": "Building and processing a knowledge-graph for legal data",
+            "author": "Filtz",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b54",
+            "series-title": "Orchestrating NLP services for the legal domain",
+            "author": "Moreno-Schneider",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b55",
+            "series-title": "Proceedings of the 16th Edition of the International Conference on Articial Intelligence and Law",
+            "first-page": "271",
+            "article-title": "Lexridelaw: An argument based legal search engine",
+            "author": "Gifford",
+            "year": "2017"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.is.2021.101967_b56",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1016/S0169-023X(97)00056-6",
+            "article-title": "Knowledge engineering: Principles and methods",
+            "volume": "25",
+            "author": "Studer",
+            "year": "1998",
+            "journal-title": "Data Knowl. Eng."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b57",
+            "series-title": "Semantic Processing of Legal Texts",
+            "first-page": "95",
+            "article-title": "Integrating a bottom–up and top–down methodology for building semantic resources for the multilingual legal domain",
+            "author": "Francesconi",
+            "year": "2010"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b58",
+            "series-title": "International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
+            "first-page": "1014",
+            "article-title": "Terminae method and integration process for legal ontology building",
+            "author": "Despres",
+            "year": "2006"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b59",
+            "doi-asserted-by": "crossref",
+            "first-page": "18250",
+            "DOI": "10.1109/ACCESS.2017.2745208",
+            "article-title": "An ontological Chinese legal consultation system",
+            "volume": "5",
+            "author": "Zhang",
+            "year": "2017",
+            "journal-title": "IEEE Access"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b60",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1017/S0269888900007797",
+            "article-title": "Ontologies: principles, methods and applications",
+            "volume": "11",
+            "author": "Uschold",
+            "year": "1996",
+            "journal-title": "Knowl. Eng. Rev."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b61",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1007/s10506-019-09252-1",
+            "article-title": "Taking stock of legal ontologies: A feature-based comparative analysis",
+            "volume": "28",
+            "author": "Leone",
+            "year": "2020",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.is.2021.101967_b62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1043",
+            "DOI": "10.1006/ijhc.1999.0297",
+            "article-title": "The law as a dynamic interconnected system of states of affairs: A legal top ontology",
+            "volume": "51",
+            "author": "Hage",
+            "year": "1999",
+            "journal-title": "Int. J. Hum.-Comput. Stud."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.is.2021.101967_b63",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.1007/s10506-005-4157-y",
+            "article-title": "Causation in AI and law",
+            "volume": "12",
+            "author": "Lehmann",
+            "year": "2004",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.is.2021.101967_b64",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.4067/S0718-18762011000100008",
+            "article-title": "Towards checking laws’ consistency through ontology design: the case of Brazilian vehicles’ laws",
+            "volume": "6",
+            "author": "Freitas",
+            "year": "2011",
+            "journal-title": "J. Theor. Appl. Electron. Commerce Res."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b65",
+            "series-title": "2016 5th Brazilian Conference on Intelligent Systems",
+            "first-page": "331",
+            "article-title": "An ontology for property crime based on events from ufo-b foundational ontology",
+            "author": "de Oliveira Rodrigues",
+            "year": "2016"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.is.2021.101967_b66",
+            "first-page": "755",
+            "article-title": "LEGIS: A proposal to handle legal normative exceptions and leverage inference proofs readability",
+            "volume": "2631",
+            "author": "de Oliveira Rodrigues",
+            "year": "2019",
+            "journal-title": "J. Appl. Logics"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b67",
+            "doi-asserted-by": "crossref",
+            "first-page": "632",
+            "DOI": "10.1016/j.procs.2017.08.109",
+            "article-title": "Towards a legal rule-based system grounded on the integration of criminal domain ontology and rules",
+            "volume": "112",
+            "author": "El Ghosh",
+            "year": "2017",
+            "journal-title": "Procedia Comput. Sci."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.is.2021.101967_b68",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.1006/ijhc.1999.0300",
+            "article-title": "A principled approach to developing legal knowledge systems",
+            "volume": "51",
+            "author": "Van Kralinger",
+            "year": "1999",
+            "journal-title": "Int. J. Hum.-Comput. Stud."
+          },
+          {
+            "issue": "3–4",
+            "key": "10.1016/j.is.2021.101967_b69",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.3233/AO-150157",
+            "article-title": "Towards ontological foundations for conceptual modeling: The unified foundational ontology (UFO) story",
+            "volume": "10",
+            "author": "Guizzardi",
+            "year": "2015",
+            "journal-title": "Appl. Ontology"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b70",
+            "series-title": "ICAIL Workshop on Legal Ontologies and Artificial Intelligence Techniques",
+            "first-page": "13",
+            "article-title": "A top-level language-biased legal ontology",
+            "author": "Shaheed",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b71",
+            "series-title": "2009 Sixth International Conference on Information Technology: New Generations",
+            "first-page": "272",
+            "article-title": "Early studies in acquiring evidentiary, reusable business process models for legal compliance",
+            "author": "Breaux",
+            "year": "2009"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b72",
+            "series-title": "Conference of the Italian Association for Artificial Intelligence",
+            "first-page": "282",
+            "article-title": "A criminal domain ontology for modelling legal norms",
+            "author": "El Ghosh",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b73",
+            "series-title": "Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law",
+            "first-page": "179",
+            "article-title": "Crime knowledge extraction: An ontology-driven approach for detecting abstract terms in case law decisions",
+            "author": "Castano",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b74",
+            "article-title": "A knowledge-centered framework for exploration and retrieval of legal documents",
+            "author": "Castano",
+            "year": "2021",
+            "journal-title": "Inf. Syst."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b75",
+            "series-title": "2017 IEEE 21st International Enterprise Distributed Object Computing Conference",
+            "first-page": "40",
+            "article-title": "From an ontology of service contracts to contract modeling in enterprise architecture",
+            "author": "Griffo",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b76",
+            "unstructured": "A. Gangemi, M.-T. Sagri, D. Tiscornia, Metadata for content description in legal information, in: Procs. of LegOnt Workshop on Legal Ontologies, 2003."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.is.2021.101967_b77",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.3233/AO-170174",
+            "article-title": "The european legal taxonomy syllabus: a multi-lingual, multi-level ontology framework to untangle the web of european legal terminology",
+            "volume": "11",
+            "author": "Ajani",
+            "year": "2016",
+            "journal-title": "Appl. Ontology"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b78",
+            "series-title": "LOAIT",
+            "first-page": "25",
+            "article-title": "The legal-RDF ontology. A generic model for legal documents",
+            "author": "McClure",
+            "year": "2007"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b79",
+            "series-title": "ICAART, Vol. 2",
+            "first-page": "438",
+            "article-title": "The AIS project: Boosting information extraction from legal documents by using ontologies",
+            "author": "Buey",
+            "year": "2016"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b80",
+            "series-title": "IFIP International Conference on Computer Information Systems and Industrial Management",
+            "first-page": "175",
+            "article-title": "Towards a conceptual search for Vietnamese legal text",
+            "author": "Bui",
+            "year": "2015"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b81",
+            "series-title": "Intelligent Control and Computer Engineering",
+            "first-page": "177",
+            "article-title": "Supreme court sentences retrieval using thai law ontology",
+            "author": "Tantisripreecha",
+            "year": "2011"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.is.2021.101967_b82",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1007/s10506-016-9184-3",
+            "article-title": "Eunomos, A legal document and knowledge management system for the web to provide relevant, reliable and up-to-date information on the law",
+            "volume": "24",
+            "author": "Boella",
+            "year": "2016",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b83",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1007/s10506-007-9034-4",
+            "article-title": "The structuring of legal knowledge in LOIS",
+            "volume": "15",
+            "author": "Peters",
+            "year": "2007",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b84",
+            "series-title": "Law, Governance and Technology Series",
+            "author": "Board",
+            "year": "2011"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b85",
+            "first-page": "43",
+            "article-title": "The LKIF core ontology of basic legal concepts",
+            "author": "Hoekstra",
+            "year": "2007",
+            "journal-title": "Proc. LOAIT 07"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b86",
+            "series-title": "Legal Knowledge and Information Systems: JURIX 2006: The Nineteenth Annual Conference, Vol. 152",
+            "first-page": "169",
+            "article-title": "Developing content for LKIF: Ontologies and frameworks for legal reasoning",
+            "author": "Kasper",
+            "year": "2006"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b87",
+            "series-title": "Proceedings of the 2007 Conference on Legal Knowledge and Information Systems: JURIX 2007: The Twentieth Annual Conference",
+            "first-page": "19",
+            "article-title": "Proposed XML standards for law: MetaLex and LKIF",
+            "author": "Boer",
+            "year": "2007"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b88",
+            "series-title": "ICAIL, Vol. 13",
+            "first-page": "3",
+            "article-title": "OASIS LegalRuleML",
+            "author": "Athan",
+            "year": "2013"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.is.2021.101967_b89",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1017/S1471068418000339",
+            "article-title": "Enabling reasoning with LegalRuleML",
+            "volume": "19",
+            "author": "Lam",
+            "year": "2019",
+            "journal-title": "Theory Pract. Log. Program."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b90",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.3758/BF03204766",
+            "article-title": "Producing high-dimensional semantic spaces from lexical co-occurrence",
+            "volume": "28",
+            "author": "Lund",
+            "year": "1996",
+            "journal-title": "Behav. Res. Methods Instrum. Comput."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b91",
+            "series-title": "Efficient estimation of word representations in vector space",
+            "author": "Mikolov",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b92",
+            "series-title": "Proceedings of the 20th Nordic Conference of Computational Linguistics, Nodalida 2015, May 11-13, 2015, Vilnius, Lithuania",
+            "first-page": "239",
+            "article-title": "Adapting word2vec to named entity recognition",
+            "author": "Sienčnik",
+            "year": "2015"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b93",
+            "series-title": "Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+            "first-page": "383",
+            "article-title": "Context- and content-aware embeddings for query rewriting in sponsored search",
+            "author": "Grbovic",
+            "year": "2015"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b94",
+            "series-title": "Proceedings of the 25th International Conference Companion on World Wide Web",
+            "first-page": "83",
+            "article-title": "Improving document ranking with dual word embeddings",
+            "author": "Nalisnick",
+            "year": "2016"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.is.2021.101967_b95",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1007/s10506-018-9238-9",
+            "article-title": "Deep learning in law: early adaptation and legal word embeddings trained on large corpora",
+            "volume": "27",
+            "author": "Chalkidis",
+            "year": "2019",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b96",
+            "first-page": "1",
+            "article-title": "Unsupervised approaches for measuring textual similarity between legal court case reports",
+            "author": "Mandal",
+            "year": "2021",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b97",
+            "series-title": "NLLP@ KDD",
+            "first-page": "52",
+            "article-title": "The gap between deep learning and law: Predicting employment notice",
+            "author": "Lam",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b98",
+            "series-title": "IFIP International Conference on Artificial Intelligence Applications and Innovations",
+            "first-page": "374",
+            "article-title": "A review on the application of deep learning in legal domain",
+            "author": "Bansal",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b99",
+            "series-title": "JNLP team: Deep learning for legal processing in COLIEE 2020",
+            "author": "Nguyen",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b100",
+            "series-title": "Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law",
+            "first-page": "268",
+            "article-title": "Facts2law: Using deep learning to provide a legal qualification to a set of facts",
+            "author": "Mokanov",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b101",
+            "series-title": "IJCAI",
+            "first-page": "3501",
+            "article-title": "BERT-PLI: Modeling paragraph-level interactions for legal case retrieval",
+            "author": "Shao",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b102",
+            "series-title": "LEGAL-BERT: The muppets straight out of law school",
+            "author": "Chalkidis",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b103",
+            "series-title": "Science and Information Conference",
+            "first-page": "160",
+            "article-title": "Legal document retrieval using document vector embeddings and deep learning",
+            "author": "Sugathadasa",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b104",
+            "series-title": "JURIX",
+            "first-page": "73",
+            "article-title": "Extending full text search for legal document collections using word embeddings",
+            "author": "Landthaler",
+            "year": "2016"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b105",
+            "first-page": "1",
+            "article-title": "Encoded summarization: summarizing documents into continuous vector space for legal case retrieval",
+            "author": "Tran",
+            "year": "2020",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b106",
+            "series-title": "International Conference on Web Information Systems and Applications",
+            "first-page": "92",
+            "article-title": "Case facts analysis method based on deep learning",
+            "author": "Xu",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b107",
+            "series-title": "Legal question answering using ranking SVM and deep convolutional neural network",
+            "author": "Do",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b108",
+            "series-title": "Proceedings of the 2018 Artificial Intelligence and Cloud Computing Conference",
+            "first-page": "23",
+            "article-title": "Deep learning for named-entity linking with transfer learning for legal documents",
+            "author": "Elnaggar",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b109",
+            "series-title": "2018 IEEE International Conference on Big Data (Big Data)",
+            "first-page": "3317",
+            "article-title": "Empirical study of deep learning for text classification in legal document review",
+            "author": "Wei",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b110",
+            "series-title": "2018 Federated Conference on Computer Science and Information Systems",
+            "first-page": "515",
+            "article-title": "A comparative study of classifying legal documents with neural networks",
+            "author": "Undavia",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b111",
+            "series-title": "International Conference on Model and Data Engineering",
+            "first-page": "96",
+            "article-title": "Deep learning for french legal data categorization",
+            "author": "Hammami",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b112",
+            "article-title": "Multi-label legal document classification: A deep learning-based approach with label-attention and domain-specific pre-training",
+            "author": "Song",
+            "year": "2021",
+            "journal-title": "Inf. Syst."
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b113",
+            "series-title": "Roberta: A robustly optimized bert pretraining approach",
+            "author": "Liu",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b114",
+            "doi-asserted-by": "crossref",
+            "unstructured": "N.C. Da Silva, F. Braz, et al. Document type classification for Brazil’s supreme court using a convolutional neural network, in: The Tenth International Conference on Forensic ComputerScience and Cyber Law-ICoFCS, 2018, pp. 7–11.",
+            "DOI": "10.5769/C2018001"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b115",
+            "series-title": "Proceedings of the Seventeenth International Conference on Artificial Intelligence and Law",
+            "first-page": "275",
+            "article-title": "Building legal case retrieval systems with lexical matching and summarization using a pre-trained phrase scoring model",
+            "author": "Tran",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b116",
+            "series-title": "Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence",
+            "first-page": "3501",
+            "article-title": "BERT-PLI: Modeling paragraph-level interactions for legal case retrieval",
+            "author": "Shao",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b117",
+            "series-title": "Proceedings of the Seventeenth International Conference on on Artificial Intelligence and Law",
+            "first-page": "290",
+            "article-title": "Combining similarity and transformer methods for case law entailment",
+            "author": "Rabelo",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b118",
+            "series-title": "Proceedings of the Seventeenth International Conference on on Artificial Intelligence and Law",
+            "first-page": "283",
+            "article-title": "Statute law information retrieval and entailment",
+            "author": "Kim",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b119",
+            "series-title": "FIRE (Working Notes)",
+            "first-page": "13",
+            "article-title": "Removing named entities to find precedent legal cases",
+            "author": "More",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b120",
+            "series-title": "FIRE (Working Notes)",
+            "first-page": "52",
+            "article-title": "Legal statutes retrieval: A comparative approach on performance of title and statutes descriptive text",
+            "author": "Lefoane",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.is.2021.101967_b121",
+            "series-title": "FIRE (Working Notes)",
+            "first-page": "31",
+            "article-title": "Unsupervised identification of relevant cases & statutes using word embeddings",
+            "author": "Mandal",
+            "year": "2019"
+          }
+        ],
+        "container-title": [
+          "Information Systems"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0306437921001551?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0306437921001551?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              5
+            ]
+          ],
+          "date-time": "2025-10-05T15:11:31Z",
+          "timestamp": 1759677091000
+        },
+        "score": 47.84588,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0306437921001551"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5
+            ]
+          ]
+        },
+        "references-count": 121,
+        "alternative-id": [
+          "S0306437921001551"
+        ],
+        "URL": "https://doi.org/10.1016/j.is.2021.101967",
+        "ISSN": [
+          "0306-4379"
+        ],
+        "issn-type": [
+          {
+            "value": "0306-4379",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Legal Information Retrieval systems: State-of-the-art and open issues",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Information Systems",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.is.2021.101967",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2021 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "101967"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2026-09-29T02:27:20Z",
+          "timestamp": 1790648840401,
+          "version": "4.1.0"
+        },
+        "reference-count": 0,
+        "publisher": "Inderscience Publishers",
+        "issue": "1",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "IJMIS"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "DOI": "10.1504/ijmis.2010.035970",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2010-10-12T11:30:21Z",
+          "timestamp": 1286883021000
+        },
+        "page": "33",
+        "source": "Crossref",
+        "is-referenced-by-count": 14,
+        "title": [
+          "Cross-media retrieval: state-of-the-art and open issues"
+        ],
+        "prefix": "10.1504",
+        "volume": "1",
+        "author": [
+          {
+            "given": "Jing",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Changsheng",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Hanqing",
+            "family": "Lu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "378",
+        "container-title": [
+          "International Journal of Multimedia Intelligence and Security"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2010,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2010-10-12T11:30:25Z",
+          "timestamp": 1286883025000
+        },
+        "score": 32.67467,
+        "resource": {
+          "primary": {
+            "URL": "http://www.inderscience.com/link.php?id=35970"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2010
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1504/ijmis.2010.035970",
+        "ISSN": [
+          "2042-3462",
+          "2042-3470"
+        ],
+        "issn-type": [
+          {
+            "value": "2042-3462",
+            "type": "print"
+          },
+          {
+            "value": "2042-3470",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "article-number": "35970"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2026-09-30T00:30:00Z",
+          "timestamp": 1790728200095,
+          "version": "4.1.0"
+        },
+        "reference-count": 59,
+        "publisher": "Elsevier BV",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2009,
+                  10,
+                  1
+                ]
+              ],
+              "date-time": "2009-10-01T00:00:00Z",
+              "timestamp": 1254355200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Information Fusion"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2009,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.inffus.2009.03.001",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2009,
+              3,
+              30
+            ]
+          ],
+          "date-time": "2009-03-30T20:43:59Z",
+          "timestamp": 1238445839000
+        },
+        "page": "274-284",
+        "source": "Crossref",
+        "is-referenced-by-count": 45,
+        "title": [
+          "Information fusion for computer security: State of the art and open issues"
+        ],
+        "prefix": "10.1016",
+        "volume": "10",
+        "author": [
+          {
+            "given": "Igino",
+            "family": "Corona",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Giorgio",
+            "family": "Giacinto",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Claudio",
+            "family": "Mazzariello",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Fabio",
+            "family": "Roli",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Carlo",
+            "family": "Sansone",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. Androulidakis, V. Chatzigiannakis, S. Papavassiliou, Network anomaly detection and classification via opportunistic sampling, IEEE Network Magazine (January/February) (2009) (special issue on recent developments in network intrusion detection).",
+            "DOI": "10.1109/MNET.2009.4804318"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "P. Barford, D. Plonka, Characteristics of network traffic flow anomalies, in: Proceedings of the First ACM SIGCOMM Workshop on internet Measurement, San Francisco, USA, November 2001.",
+            "DOI": "10.1145/505208.505211"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. Barreno, B. Nelson, R. Sears, A.D. Joseph, J.D. Tygar, Can machine learning be secure? in: Proceedings of the ACM Symposium on InformAtion, Computer, and Communications Security (ASIACCS’06), March 2006.",
+            "DOI": "10.1145/1128817.1128824"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.inffus.2009.03.001_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1145/332051.332079",
+            "article-title": "Intrusion detection systems and multisensor data fusion",
+            "volume": "43",
+            "author": "Bass",
+            "year": "2000",
+            "journal-title": "Communications of the ACM"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.inffus.2009.03.001_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "96",
+            "DOI": "10.1016/j.inffus.2007.03.001",
+            "article-title": "Ensemble methods for anomaly detection and distributed intrusion detection in mobile ad-hoc networks",
+            "volume": "9",
+            "author": "Cabrera",
+            "year": "2008",
+            "journal-title": "International Journal on Information Fusion"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib6",
+            "series-title": "Proceedings of the 2006 ACM CoNEXT Conference",
+            "first-page": "1",
+            "article-title": "Reformulating the monitor placement problem: optimal network-wide sampling",
+            "author": "Cantieni",
+            "year": "2006"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.inffus.2009.03.001_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1109/MNET.2002.1081761",
+            "article-title": "Internet infrastructure security: a taxonomy",
+            "volume": "16",
+            "author": "Chakrabarti",
+            "year": "2002",
+            "journal-title": "IEEE Network Magazine"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.inffus.2009.03.001_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1007/s10044-006-0053-7",
+            "article-title": "A multi-stage classification system for detecting intrusions in computer networks",
+            "volume": "10",
+            "author": "Cordella",
+            "year": "2007",
+            "journal-title": "International Journal on Pattern Analysis and Applications"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib9",
+            "series-title": "Supervised and Unsupervised Ensemble Methods and Their Applications",
+            "first-page": "91",
+            "article-title": "Intrusion detection in computer systems using multiple classifier systems",
+            "author": "Corona",
+            "year": "2008"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1016/j.inffus.2003.08.003",
+            "article-title": "Intrusion detection",
+            "volume": "4",
+            "author": "Dasarathy",
+            "year": "2003",
+            "journal-title": "International Journal on Information Fusion"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1145/846183.846199",
+            "article-title": "Results of the KDD99 classifier learning",
+            "volume": "1",
+            "author": "Elkan",
+            "year": "2000",
+            "journal-title": "SIGKDD Explorations Journal ACM"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C. Feng, J. Peng, H. Qiao, J.W. Rozenblit, Alert fusion for a computer host based intrusion detection system, in: Proceedings of the 14th Annual IEEE International Conference and Workshops on the Engineering of Computer-Based Systems, IEEE, 2007, pp. 433–440.",
+            "DOI": "10.1109/ECBS.2007.17"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib13",
+            "unstructured": "I. Finizio, C. Mazzariello, C. Sansone, A temporal-behavior knowledge space for detecting intrusions in computer networks, in: International Conference on Recent Advances in Soft Computing RASC 2006, Canterbury, UK, July 2006, pp. 10–12."
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib14",
+            "series-title": "Progress in Pattern Recognition",
+            "first-page": "27",
+            "article-title": "Information fusion techniques for reliably training intrusion detection systems",
+            "author": "Gargiulo",
+            "year": "2007"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.inffus.2009.03.001_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1016/j.inffus.2006.10.002",
+            "article-title": "Intrusion detection in computer networks by a modular ensemble of one-class classifiers",
+            "volume": "9",
+            "author": "Giacinto",
+            "year": "2008",
+            "journal-title": "International Journal on Information Fusion"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.inffus.2009.03.001_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "420",
+            "DOI": "10.1049/el:20000374",
+            "article-title": "Selection of image classifiers",
+            "volume": "36",
+            "author": "Giacinto",
+            "year": "2000",
+            "journal-title": "Electronic Letters"
+          },
+          {
+            "issue": "12",
+            "key": "10.1016/j.inffus.2009.03.001_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1016/S0167-8655(03)00004-7",
+            "article-title": "Fusion of multiple classifiers for intrusion detection in computer networks",
+            "volume": "24",
+            "author": "Giacinto",
+            "year": "2003",
+            "journal-title": "Pattern Recognition Letters"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.inffus.2009.03.001_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1109/TEVC.2002.1011540",
+            "article-title": "An artificial immune system architecture for computer security applications",
+            "volume": "6",
+            "author": "Harmer",
+            "year": "2002",
+            "journal-title": "IEEE Transactions on Evolutionary Computation"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.inffus.2009.03.001_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1109/88.494599",
+            "article-title": "Combating computer viruses: IBM’s new computer immune system",
+            "volume": "4",
+            "author": "Hedberg",
+            "year": "2002",
+            "journal-title": "Parallel and Distributed Technology: Systems and Applications, IEEE"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B. Hernacki, J. Bennett, J. Hoagland, An Overview of Network Evasion Methods, Information Security Technical Report, vol. 10, Elsevier, 2005, pp. 140–149.",
+            "DOI": "10.1016/j.istr.2005.07.003"
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.inffus.2009.03.001_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2665",
+            "DOI": "10.1016/j.patcog.2008.01.022",
+            "article-title": "A “No Panacea Theorem” for classifier combination",
+            "volume": "41",
+            "author": "Hu",
+            "year": "2008",
+            "journal-title": "Pattern Recognition Journal"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib22",
+            "unstructured": "Y. Huang, W. Fan, W. Lee, P.S. Yu, Cross-feature analysis for detecting ad-hoc routing anomalies, in: Proceedings of the 23rd International Conference on Distributed Computing Systems, May 2003, pp. 478–487."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.inffus.2009.03.001_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1109/34.368145",
+            "article-title": "A method of combining multiple experts for the recognition of unconstrained handwritten numerals",
+            "volume": "17",
+            "author": "Huang",
+            "year": "1995",
+            "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Karygiannis, E. Antonakakis, A. Apostolopoulos, Host-based network monitoring tools for MANETs, in: Proceedings of the Third ACM International Workshop on Performance Evaluation of Wireless Ad Hoc, Sensor and Ubiquitous Networks, Terromolinos, Spain, October 2006.",
+            "DOI": "10.1145/1163610.1163637"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.inffus.2009.03.001_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "DOI": "10.1109/34.667881",
+            "article-title": "On combining classifiers",
+            "volume": "20",
+            "author": "Kittler",
+            "year": "1998",
+            "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence Journal"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "B.M. Kowalski, D.K. Bertolino, S. Basagni, Hack Boston: monitoring wireless security awareness in an urban setting, in: Proceedings of the Canadian Conference on Electrical and Computer Engineering, May 2006, pp. 1308–1311.",
+            "DOI": "10.1109/CCECE.2006.277319"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib27",
+            "first-page": "114",
+            "article-title": "Decentralized event correlation for intrusion detection",
+            "volume": "vol. 2288",
+            "author": "Krugel",
+            "year": "2001"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib28",
+            "series-title": "Combining Pattern Classifiers: Methods and Algorithms",
+            "author": "Kuncheva",
+            "year": "2004"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.inffus.2009.03.001_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1016/S0031-3203(99)00223-X",
+            "article-title": "Decision templates for multiple classifier fusion",
+            "volume": "34",
+            "author": "Kuncheva",
+            "year": "2001",
+            "journal-title": "Pattern Recognition Journal"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib30",
+            "series-title": "Assessing Network Security",
+            "author": "Lam",
+            "year": "2004"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib31",
+            "unstructured": "W. Lee, A Data Mining Framework for Constructing Features and Models for Intrusion Detection Systems, Doctoral Thesis, Columbia University, 1999."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.inffus.2009.03.001_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1145/382912.382914",
+            "article-title": "A framework for constructing features and models for intrusion detection systems",
+            "volume": "3",
+            "author": "Lee",
+            "year": "2000",
+            "journal-title": "ACM Transactions on Information Systems Security"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib33",
+            "unstructured": "R. Lemos, FBI “hack” raises global security concerns, CNET News.com, <http://www.news.com/2100-1001-256811.html> (accessed 29.04.08)."
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Z. Li, Z. Lei, L. Wang, D. Li, Assessing attack threat by the probability of following attacks, in: Proceedings of the International Conference on Networking, Architecture, and Storage, IEEE, 2007, pp. 91–100.",
+            "DOI": "10.1109/NAS.2007.15"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.inffus.2009.03.001_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1145/382912.382923",
+            "article-title": "Testing intrusion detection systems: a critique of the 1998 and 1999 DARPA intrusion detection system evaluations as performed by Lincoln Laboratory",
+            "volume": "3",
+            "author": "McHugh",
+            "year": "2000",
+            "journal-title": "ACM Transactions on Information System Security Journal"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.inffus.2009.03.001_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "26",
+            "DOI": "10.1109/65.283931",
+            "article-title": "Network intrusion detection",
+            "volume": "8",
+            "author": "Mukherjee",
+            "year": "1994",
+            "journal-title": "IEEE Network Magazine"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib37",
+            "unstructured": "D. Mutz, C. Kruegel, W. Robertson, G. Vigna, R.A. Kemmerer, Reverse engineering of network signatures, in: Proceedings of the AusCERT Asia Pacific Information Technology Security Conference, Gold Coast, Australia, 2005."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.inffus.2009.03.001_bib38",
+            "first-page": "55",
+            "article-title": "Information fusion for wireless sensor networks: methods, models, and classification",
+            "volume": "39",
+            "author": "Nakamura",
+            "year": "2007",
+            "journal-title": "ACM Journal on Computing Surveys"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib39",
+            "unstructured": "National Institute of Standards and Technology, Information Technology Laboratory, Computer Security Division, Standards for Security Categorization of Federal Information and Information Systems, Federal Information Processing Standards Publication 199, 2004, <http://csrc.nist.gov/publications/fips/fips199/FIPS-PUB-199-final.pdf> (accessed March 2009)."
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2745",
+            "DOI": "10.1016/j.comnet.2008.04.022",
+            "article-title": "REFACING: an autonomic approach to network security based on multidimensional trustworthiness",
+            "volume": "52",
+            "author": "Oliviero",
+            "year": "2008",
+            "journal-title": "Computer Networks Magazine"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.inffus.2009.03.001_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1016/j.engappai.2006.01.003",
+            "article-title": "Alarm clustering for intrusion detection systems in computer networks",
+            "volume": "19",
+            "author": "Perdisci",
+            "year": "2006",
+            "journal-title": "Engineering Applications of Artificial Intelligence"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.inffus.2009.03.001_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1109/MSECP.2003.1219074",
+            "article-title": "Wireless security’s future",
+            "volume": "1",
+            "author": "Potter",
+            "year": "2003",
+            "journal-title": "IEEE Security and Privacy"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.inffus.2009.03.001_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "353",
+            "DOI": "10.1007/s00779-003-0251-x",
+            "article-title": "An infrastructure for context-awareness based on first order logic",
+            "volume": "7",
+            "author": "Ranganathan",
+            "year": "2003",
+            "journal-title": "Personal and Ubiquitous Computing Journal"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib44",
+            "volume": "vol. 2",
+            "author": "Romagnoli",
+            "year": "2000"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.inffus.2009.03.001_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1016/S0167-9473(03)00177-4",
+            "article-title": "A Bayesian paradigm for designing intrusion detection systems",
+            "volume": "45",
+            "author": "Scott",
+            "year": "2004",
+            "journal-title": "Computational Statistics and Data Analysis Journal"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib46",
+            "series-title": "A Mathematical Theory of Evidence",
+            "author": "Shafer",
+            "year": "1976"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "V. Shmatikov, M.H. Wang, Security against probe-response attacks in collaborative intrusion, in: Detection Workshop on Large Scale Attack Defense, ACM, 2007, pp. 129–136.",
+            "DOI": "10.1145/1352664.1352673"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C. Siaterlis, B.S. Maglaris, Towards multisensor data fusion for DoS detection, in: Proceedings of the 2004 ACM Symposium on Applied Computing, ACM, 2004, pp. 439-446.",
+            "DOI": "10.1145/967900.967992"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib49",
+            "series-title": "Operating Systems Internal Design and Principles",
+            "author": "Stallings",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib50",
+            "doi-asserted-by": "crossref",
+            "unstructured": "A. Stotz, M. Sudit, INformation Fusion Engine for Real-time Decision-making (INFERD): a perceptual system for cyber attack tracking, in: Proceedings of the 10th IEEE International Conference on Information Fusion, 2007, pp. 1–8.",
+            "DOI": "10.1109/ICIF.2007.4408113"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "G. Vigna, Mobile agents: ten reasons for failure, in: Proceedings of the International Conference on Mobile Data Management, 2004, pp. 298–299.",
+            "DOI": "10.1109/MDM.2004.1263077"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib52",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M. Wanli, D. Tran, D. Sharma, A study on the feature selection of network traffic for intrusion detection purpose, in: Proceedings of the IEEE International Conference on Intelligence and Security Informatics, 17–20 June 2008, pp. 245–247.",
+            "DOI": "10.1109/ISI.2008.4565069"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib53",
+            "unstructured": "D. Xu, P. Ning, Correlation analysis of intrusion alerts, in: Roberto Di Pietro, Luigi V. Mancini (Eds.), Intrusion Detection Systems, Series on Advances in Information Security, vol. 38, 2008, pp. 65–92."
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "418",
+            "DOI": "10.1109/21.155943",
+            "article-title": "Methods for combining multiple classifiers and their applications to handwriting recognition",
+            "volume": "22",
+            "author": "Xu",
+            "year": "1992",
+            "journal-title": "IEEE Transactions on Systems Man and Cybernetics"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib55",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D. Yu, D. Frincke, Alert confidence fusion in intrusion detection systems with extended Dempster–Shafer theory, in: Proceedings of the 43rd Annual Southeast Regional Conference, vol. 2, ACM, 2005, pp. 142–147.",
+            "DOI": "10.1145/1167253.1167289"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.inffus.2009.03.001_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "779",
+            "DOI": "10.1016/j.patrec.2004.09.045",
+            "article-title": "Intrusion detection using hierarchical neural networks",
+            "volume": "26",
+            "author": "Zhang",
+            "year": "2005",
+            "journal-title": "Pattern Recognition Letters Journal"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.inffus.2009.03.001_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1109/TSMCB.2005.859081",
+            "article-title": "Active and dynamic information fusion for multisensor systems with dynamic bayesian networks",
+            "volume": "36",
+            "author": "Zhang",
+            "year": "2006",
+            "journal-title": "IEEE Transactions on Systems, Man, and Cybernetics Part B"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib58",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.V. Zhou, S. Karunasekera, C. Leckie, Evaluation of a decentralized architecture for large scale collaborative intrusion detection, in: Proceedings of the 10th IFIP/IEEE International Symposium on Integrated Network Management, IEEE, 2007, pp. 80–89.",
+            "DOI": "10.1109/INM.2007.374772"
+          },
+          {
+            "key": "10.1016/j.inffus.2009.03.001_bib59",
+            "doi-asserted-by": "crossref",
+            "unstructured": "C.V. Zhou, C. Leckie, S. Karunasekera, T. Peng, A self-healing, self-protecting collaborative intrusion detection architecture to trace-back fast-flux phishing domains, in: IEEE Network Operations and Management Symposium Workshop, 7–11 April 2008, pp. 321–327.",
+            "DOI": "10.1109/NOMSW.2007.50"
+          }
+        ],
+        "container-title": [
+          "Information Fusion"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S156625350900030X?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S156625350900030X?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              8
+            ]
+          ],
+          "date-time": "2025-02-08T19:15:45Z",
+          "timestamp": 1739042145000
+        },
+        "score": 28.191631,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S156625350900030X"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2009,
+              10
+            ]
+          ]
+        },
+        "references-count": 59,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                2009,
+                10
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "S156625350900030X"
+        ],
+        "URL": "https://doi.org/10.1016/j.inffus.2009.03.001",
+        "ISSN": [
+          "1566-2535"
+        ],
+        "issn-type": [
+          {
+            "value": "1566-2535",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2009,
+              10
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

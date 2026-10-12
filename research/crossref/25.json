@@ -1,0 +1,1741 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 11282921,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T00:56:22Z",
+          "timestamp": 1791334582800,
+          "version": "4.3.1"
+        },
+        "reference-count": 72,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-017"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-012"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-004"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/501100001809",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Automation in Construction"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.autcon.2025.106599",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2025-10-11T07:15:14Z",
+          "timestamp": 1760166914000
+        },
+        "page": "106599",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 8,
+        "special_numbering": "PA",
+        "title": [
+          "Automated multi-label classification of risk clauses in construction contracts using GPT-driven data augmentation"
+        ],
+        "prefix": "10.1016",
+        "volume": "181",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0000-2122-7499",
+            "authenticated-orcid": false,
+            "given": "Lanqian",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Yan",
+            "family": "Ning",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Shenghua",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b1",
+            "first-page": "196",
+            "article-title": "The standardization of contracts for construction",
+            "volume": "13",
+            "author": "Hughes",
+            "year": "1996",
+            "journal-title": "Int. Constr. Law Rev."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b2",
+            "doi-asserted-by": "crossref",
+            "first-page": "04020162",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0001975",
+            "article-title": "Critical assessment of contract administration using multidimensional fuzzy logic approach",
+            "volume": "147",
+            "author": "Gunduz",
+            "year": "2021",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "issue": "9",
+            "key": "10.1016/j.autcon.2025.106599_b3",
+            "doi-asserted-by": "crossref",
+            "first-page": "3575",
+            "DOI": "10.1108/ECAM-12-2022-1166",
+            "article-title": "Investigating the effect of risk reduction strategies on the construction of mega infrastructure project (MIP) success: a SEM-ANN approach",
+            "volume": "31",
+            "author": "Malek",
+            "year": "2024",
+            "journal-title": "Eng. Constr. Archit. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b4",
+            "series-title": "14th Annual Construction Disputes Report: Managing Construction Disputes in the Digital Age",
+            "author": "Arcadis",
+            "year": "2024"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.autcon.2025.106599_b5",
+            "doi-asserted-by": "crossref",
+            "first-page": "04016004",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0001110",
+            "article-title": "Effect of contract completeness on contractors’ opportunistic behavior and the moderating role of interdependence",
+            "volume": "142",
+            "author": "Lu",
+            "year": "2016",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b6",
+            "article-title": "Reducing contract disputes: A comparative analysis of FIDIC and GCC standard general conditions of contract for construction projects",
+            "author": "Al-Sabah",
+            "year": "2024",
+            "journal-title": "J. Eng. Res."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b7",
+            "doi-asserted-by": "crossref",
+            "first-page": "04518002",
+            "DOI": "10.1061/(ASCE)LA.1943-4170.0000253",
+            "article-title": "Semantic risk assessment for ad hoc and amended standard forms of construction contracts",
+            "volume": "10",
+            "author": "Youssef",
+            "year": "2018",
+            "journal-title": "J. Leg. Aff. Disput. Resolut. Eng. Constr."
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.autcon.2025.106599_b8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1946",
+            "DOI": "10.1108/ECAM-04-2020-0254",
+            "article-title": "Ambiguity factors in construction contracts entailing conflicts",
+            "volume": "29",
+            "author": "Koc",
+            "year": "2022",
+            "journal-title": "Eng. Constr. Archit. Manag."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b9",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.1016/j.ijproman.2007.05.007",
+            "article-title": "Risk perception and Bayesian analysis of international construction contract risks: The case of payment delays in a developing economy",
+            "volume": "26",
+            "author": "Adams",
+            "year": "2008",
+            "journal-title": "Int. J. Proj. Manage."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b10",
+            "doi-asserted-by": "crossref",
+            "first-page": "04520009",
+            "DOI": "10.1061/(ASCE)LA.1943-4170.0000379",
+            "article-title": "Automated requirements identification from construction contract documents using natural language processing",
+            "volume": "12",
+            "author": "Hassan",
+            "year": "2020",
+            "journal-title": "J. Leg. Aff. Disput. Resolut. Eng. Constr."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b11",
+            "doi-asserted-by": "crossref",
+            "first-page": "741",
+            "DOI": "10.1007/s10506-023-09366-7",
+            "article-title": "Integrating text mining and system dynamics to evaluate financial risks of construction contracts",
+            "volume": "32",
+            "author": "Bakhshayesh",
+            "year": "2024",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b12",
+            "series-title": "2020 15th International Conference on Computer Science & Education",
+            "first-page": "331",
+            "article-title": "Design of contract review system in enterprise legal department based on natural language processing",
+            "author": "Yaqin",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b13",
+            "doi-asserted-by": "crossref",
+            "first-page": "105824",
+            "DOI": "10.1016/j.autcon.2024.105824",
+            "article-title": "AI model for analyzing construction litigation precedents to support decision-making",
+            "volume": "168",
+            "author": "Seo",
+            "year": "2024",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b14",
+            "doi-asserted-by": "crossref",
+            "first-page": "125296",
+            "DOI": "10.1016/j.eswa.2024.125296",
+            "article-title": "Application of NLP-based models in automated detection of risky contract statements written in complex script system",
+            "volume": "259",
+            "author": "Kazemi",
+            "year": "2025",
+            "journal-title": "Expert Syst. Appl."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b15",
+            "doi-asserted-by": "crossref",
+            "first-page": "104082",
+            "DOI": "10.1016/j.compind.2024.104082",
+            "article-title": "Construction contract risk identification based on knowledge-augmented language models",
+            "volume": "157",
+            "author": "Wong",
+            "year": "2024",
+            "journal-title": "Comput. Ind."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b16",
+            "doi-asserted-by": "crossref",
+            "first-page": "106044",
+            "DOI": "10.1016/j.autcon.2025.106044",
+            "article-title": "Inherent risks identification in a contract document through automated rule generation",
+            "volume": "172",
+            "author": "Kim",
+            "year": "2025",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.autcon.2025.106599_b17",
+            "doi-asserted-by": "crossref",
+            "first-page": "04521035",
+            "DOI": "10.1061/(ASCE)LA.1943-4170.0000505",
+            "article-title": "Application of natural language processing to automatically identify exculpatory clauses in construction contracts",
+            "volume": "13",
+            "author": "Padhy",
+            "year": "2021",
+            "journal-title": "J. Leg. Aff. Disput. Resolut. Eng. Constr."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.autcon.2025.106599_b18",
+            "doi-asserted-by": "crossref",
+            "first-page": "04022007",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0002254",
+            "article-title": "Automated identification of vagueness in the FIDIC silver book conditions of contract",
+            "volume": "148",
+            "author": "Candaş",
+            "year": "2022",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b19",
+            "doi-asserted-by": "crossref",
+            "first-page": "104465",
+            "DOI": "10.1016/j.autcon.2022.104465",
+            "article-title": "Automated detection of contractual risk clauses from construction specifications using bidirectional encoder representations from transformers (BERT)",
+            "volume": "142",
+            "author": "Moon",
+            "year": "2022",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b20",
+            "doi-asserted-by": "crossref",
+            "first-page": "04019003",
+            "DOI": "10.1061/(ASCE)CP.1943-5487.0000807",
+            "article-title": "Development of automatic-extraction model of poisonous clauses in international construction contracts using rule-based NLP",
+            "volume": "33",
+            "author": "Lee",
+            "year": "2019",
+            "journal-title": "J. Comput. Civ. Eng."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.autcon.2025.106599_b21",
+            "doi-asserted-by": "crossref",
+            "first-page": "04023027",
+            "DOI": "10.1061/JCCEE5.CPENG-5218",
+            "article-title": "Natural language processing with multitask classification for semantic prediction of risk-handling actions in construction contracts",
+            "volume": "37",
+            "author": "Pham",
+            "year": "2023",
+            "journal-title": "J. Comput. Civ. Eng."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b22",
+            "doi-asserted-by": "crossref",
+            "first-page": "104251",
+            "DOI": "10.1016/j.compind.2025.104251",
+            "article-title": "Automated construction contract analysis for risk and responsibility assessment using natural language processing and machine learning",
+            "volume": "166",
+            "author": "Dikmen",
+            "year": "2025",
+            "journal-title": "Comput. Ind."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b23",
+            "series-title": "Computing in Civil Engineering 2023",
+            "first-page": "59",
+            "article-title": "Natural language processing (NLP)-driven classification of pre-bid request for information (RFI)",
+            "author": "Shrestha",
+            "year": "2023"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1546",
+            "DOI": "10.1108/ECAM-02-2023-0172",
+            "article-title": "Intelligent detection on construction project contract missing clauses based on deep learning and NLP",
+            "volume": "32",
+            "author": "Zhou",
+            "year": "2025",
+            "journal-title": "Eng. Constr. Archit. Manag."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.autcon.2025.106599_b25",
+            "first-page": "04021062",
+            "article-title": "Automated identification of substantial changes in construction projects of airport improvement program: Machine learning and natural language processing comparative analysis",
+            "volume": "37",
+            "author": "Khalef",
+            "year": "2021",
+            "journal-title": "J. Manag. Eng."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b26",
+            "doi-asserted-by": "crossref",
+            "first-page": "103780",
+            "DOI": "10.1016/j.autcon.2021.103780",
+            "article-title": "Semantic text-pairing for relevant provision identification in construction specification reviews",
+            "volume": "128",
+            "author": "Moon",
+            "year": "2021",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b27",
+            "doi-asserted-by": "crossref",
+            "first-page": "103940",
+            "DOI": "10.1016/j.compind.2023.103940",
+            "article-title": "A rationale-augmented NLP framework to identify unilateral contractual change risk for construction projects",
+            "volume": "149",
+            "author": "Shuai",
+            "year": "2023",
+            "journal-title": "Comput. Ind."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b28",
+            "doi-asserted-by": "crossref",
+            "first-page": "108231",
+            "DOI": "10.1016/j.engappai.2024.108231",
+            "article-title": "Neural natural language processing for long texts: A survey on classification and summarization",
+            "volume": "133",
+            "author": "Tsirmpas",
+            "year": "2024",
+            "journal-title": "Eng. Appl. Artif. Intell."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b29",
+            "first-page": "05020003",
+            "article-title": "Effective risk positioning through automated identification of missing contract conditions from the contractor’s perspective based on FIDIC contract cases",
+            "volume": "36",
+            "author": "Lee",
+            "year": "2020",
+            "journal-title": "J. Manag. Eng."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.autcon.2025.106599_b30",
+            "doi-asserted-by": "crossref",
+            "first-page": "05019003",
+            "DOI": "10.1061/(ASCE)LA.1943-4170.0000321",
+            "article-title": "Administration impairments resulting from imbalanced contract conditions: Owner payment default",
+            "volume": "11",
+            "author": "Abdul-Malak",
+            "year": "2019",
+            "journal-title": "J. Leg. Aff. Disput. Resolut. Eng. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b31",
+            "doi-asserted-by": "crossref",
+            "first-page": "103479",
+            "DOI": "10.1016/j.autcon.2020.103479",
+            "article-title": "Computer-assisted separation of design-build contract requirements to support subcontract drafting",
+            "volume": "122",
+            "author": "ul Hassan",
+            "year": "2021",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b32",
+            "doi-asserted-by": "crossref",
+            "first-page": "04517016",
+            "DOI": "10.1061/(ASCE)LA.1943-4170.0000241",
+            "article-title": "Classification and analysis of notice requirements for construction contract administration",
+            "volume": "9",
+            "author": "Abdul-Malak",
+            "year": "2017",
+            "journal-title": "J. Leg. Aff. Disput. Resolut. Eng. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b33",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1108/ECAM-05-2023-0510",
+            "article-title": "Forecasting the outcomes of construction contract disputes using machine learning techniques",
+            "author": "Un",
+            "year": "2024",
+            "journal-title": "Eng. Constr. Archit. Manag."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b34",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1108/IJMPB-11-2014-0079",
+            "article-title": "Inclusion of strategic management theories to project management",
+            "volume": "8",
+            "author": "Parker",
+            "year": "2015",
+            "journal-title": "Int. J. Manag. Proj. Bus."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b35",
+            "doi-asserted-by": "crossref",
+            "first-page": "04018125",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0001600",
+            "article-title": "Effect of BIM on rework in construction projects in Singapore: Status quo, magnitude, impact, and strategies",
+            "volume": "145",
+            "author": "Hwang",
+            "year": "2019",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b36",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1016/j.autcon.2018.11.018",
+            "article-title": "Text analytics to analyze and monitor construction project contract and correspondence",
+            "volume": "98",
+            "author": "Marzouk",
+            "year": "2019",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.autcon.2025.106599_b37",
+            "first-page": "1500",
+            "article-title": "Impact of rework on material waste in building construction projects",
+            "volume": "22",
+            "author": "Mahamid",
+            "year": "2022",
+            "journal-title": "Int. J. Constr. Manag."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b38",
+            "doi-asserted-by": "crossref",
+            "first-page": "04517011",
+            "DOI": "10.1061/(ASCE)LA.1943-4170.0000222",
+            "article-title": "Decisional uncertainties in construction projects as a cause of disputes and their formal legal interpretation by the courts: Review of legal cases in the United Kingdom",
+            "volume": "9",
+            "author": "Barman",
+            "year": "2017",
+            "journal-title": "J. Leg. Aff. Disput. Resolut. Eng. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b39",
+            "series-title": "Natural Language Processing: Python and NLTK",
+            "isbn-type": "print",
+            "author": "Hardeniya",
+            "year": "2016",
+            "ISBN": "https://id.crossref.org/isbn/9781787285101"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b40",
+            "series-title": "Fundamentals of Artificial Intelligence",
+            "isbn-type": "print",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-81-322-3972-7",
+            "author": "Chowdhary",
+            "year": "2020",
+            "ISBN": "https://id.crossref.org/isbn/9788132239727"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.autcon.2025.106599_b41",
+            "doi-asserted-by": "crossref",
+            "first-page": "04022027",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0002275",
+            "article-title": "Automating coordination efforts for reviewing construction contracts with multilabel text classification",
+            "volume": "148",
+            "author": "Candaş",
+            "year": "2022",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.autcon.2025.106599_b42",
+            "doi-asserted-by": "crossref",
+            "first-page": "04018031",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0001472",
+            "article-title": "Contract administration guidelines for public infrastructure projects in the United States and Saudi Arabia: Comparative analysis approach",
+            "volume": "144",
+            "author": "El-Adaway",
+            "year": "2018",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b43",
+            "doi-asserted-by": "crossref",
+            "first-page": "103915",
+            "DOI": "10.1016/j.autcon.2021.103915",
+            "article-title": "A critical review of text-based research in construction: Data source, analysis method, and implications",
+            "volume": "132",
+            "author": "Baek",
+            "year": "2021",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b44",
+            "doi-asserted-by": "crossref",
+            "first-page": "104169",
+            "DOI": "10.1016/j.autcon.2022.104169",
+            "article-title": "Applications of natural language processing in construction",
+            "volume": "136",
+            "author": "Ding",
+            "year": "2022",
+            "journal-title": "Autom. Constr."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b45",
+            "series-title": "Introduction to Information Retrieval",
+            "isbn-type": "print",
+            "author": "Schütze",
+            "year": "2008",
+            "ISBN": "https://id.crossref.org/isbn/0521865719"
+          },
+          {
+            "issue": "11",
+            "key": "10.1016/j.autcon.2025.106599_b46",
+            "doi-asserted-by": "crossref",
+            "first-page": "04021147",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0002172",
+            "article-title": "Natural language processing–driven model to extract contract change reasons and altered work items for advanced retrieval of change orders",
+            "volume": "147",
+            "author": "Ko",
+            "year": "2021",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b47",
+            "series-title": "Information Extraction: Algorithms and Prospects in a Retrieval Context",
+            "isbn-type": "print",
+            "author": "Moens",
+            "year": "2006",
+            "ISBN": "https://id.crossref.org/isbn/9781402049873"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.autcon.2025.106599_b48",
+            "doi-asserted-by": "crossref",
+            "first-page": "04023005",
+            "DOI": "10.1061/JCEMD4.COENG-12528",
+            "article-title": "Automated approach for digitalizing scope of work requirements to support contract management",
+            "volume": "149",
+            "author": "Hassan",
+            "year": "2023",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b49",
+            "series-title": "Artificial Intelligence: A Modern Approach",
+            "isbn-type": "print",
+            "author": "Russell",
+            "year": "2016",
+            "ISBN": "https://id.crossref.org/isbn/9780136042594"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.autcon.2025.106599_b50",
+            "doi-asserted-by": "crossref",
+            "first-page": "04015014",
+            "DOI": "10.1061/(ASCE)CP.1943-5487.0000346",
+            "article-title": "Semantic NLP-based information extraction from construction regulatory documents for automated compliance checking",
+            "volume": "30",
+            "author": "Zhang",
+            "year": "2016",
+            "journal-title": "J. Comput. Civ. Eng."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.autcon.2025.106599_b51",
+            "doi-asserted-by": "crossref",
+            "first-page": "04014106",
+            "DOI": "10.1061/(ASCE)CP.1943-5487.0000301",
+            "article-title": "Semantic text classification for supporting automated compliance checking in construction",
+            "volume": "30",
+            "author": "Salama",
+            "year": "2016",
+            "journal-title": "J. Comput. Civ. Eng."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b52",
+            "series-title": "2019 6th Swiss Conference on Data Science",
+            "first-page": "57",
+            "article-title": "Resilient combination of complementary CNN and RNN features for text classification through attention and ensembling",
+            "author": "Giannakopoulos",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b53",
+            "doi-asserted-by": "crossref",
+            "first-page": "110381",
+            "DOI": "10.1016/j.knosys.2023.110381",
+            "article-title": "CLSEP: Contrastive learning of sentence embedding with prompt",
+            "volume": "266",
+            "author": "Wang",
+            "year": "2023",
+            "journal-title": "Knowl.-Based Syst."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.autcon.2025.106599_b54",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1186/s40537-021-00492-0",
+            "article-title": "Text data augmentation for deep learning",
+            "volume": "8",
+            "author": "Shorten",
+            "year": "2021",
+            "journal-title": "J. Big Data"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b55",
+            "series-title": "Text Generation",
+            "isbn-type": "print",
+            "author": "McKeown",
+            "year": "1992",
+            "ISBN": "https://id.crossref.org/isbn/0521301165"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b56",
+            "series-title": "EDA: Easy data augmentation techniques for boosting performance on text classification tasks",
+            "author": "Wei",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b57",
+            "series-title": "Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing",
+            "first-page": "2557",
+            "article-title": "That’s so annoying!!!: A lexical and frame-semantic embedding based data augmentation approach to automatic categorization of annoying behaviors using# petpeeve tweets",
+            "author": "Wang",
+            "year": "2015"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b58",
+            "series-title": "Augmenting data with mixup for sentence classification: An empirical study",
+            "author": "Guo",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b59",
+            "series-title": "QANet: Combining local convolution with global self-attention for reading comprehension",
+            "author": "Yu",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b60",
+            "series-title": "Proceedings of the 34th International Conference on Neural Information Processing Systems",
+            "article-title": "Unsupervised data augmentation for consistency training",
+            "author": "Xie",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b61",
+            "series-title": "Proceedings of the 31st International Conference on Neural Information Processing Systems",
+            "first-page": "6000",
+            "article-title": "Attention is all you need",
+            "author": "Vaswani",
+            "year": "2017"
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.autcon.2025.106599_b62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1735",
+            "DOI": "10.1162/neco.1997.9.8.1735",
+            "article-title": "Long short-term memory",
+            "volume": "9",
+            "author": "Hochreiter",
+            "year": "1997",
+            "journal-title": "Neural Comput."
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b63",
+            "series-title": "Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 2",
+            "first-page": "3104",
+            "article-title": "Sequence to sequence learning with neural networks",
+            "author": "Sutskever",
+            "year": "2014"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b64",
+            "series-title": "Improving language understanding by generative pre-training",
+            "author": "Radford",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b65",
+            "series-title": "Llama: Open and efficient foundation language models",
+            "author": "Touvron",
+            "year": "2023"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.autcon.2025.106599_b66",
+            "doi-asserted-by": "crossref",
+            "first-page": "04020147",
+            "DOI": "10.1061/(ASCE)CO.1943-7862.0001953",
+            "article-title": "Automated construction specification review with named entity recognition using natural language processing",
+            "volume": "147",
+            "author": "Moon",
+            "year": "2021",
+            "journal-title": "J. Constr. Eng. Manag."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.autcon.2025.106599_b67",
+            "first-page": "04023040",
+            "article-title": "Uncertainties prevailing in construction bid documents and their impact on project pricing through the analysis of prebid requests for information",
+            "volume": "39",
+            "author": "Shrestha",
+            "year": "2023",
+            "journal-title": "J. Manag. Eng."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.autcon.2025.106599_b68",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1016/j.gltp.2022.04.020",
+            "article-title": "A review: Data pre-processing and data augmentation techniques",
+            "volume": "3",
+            "author": "Maharana",
+            "year": "2022",
+            "journal-title": "Glob. Transitions Proc."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.autcon.2025.106599_b69",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.1109/TBDATA.2025.3536934",
+            "article-title": "AugGPT: Leveraging chatgpt for text data augmentation",
+            "volume": "11",
+            "author": "Dai",
+            "year": "2025",
+            "journal-title": "IEEE Trans. Big Data"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b70",
+            "series-title": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+            "first-page": "4171",
+            "article-title": "Bert: Pre-training of deep bidirectional transformers for language understanding",
+            "author": "Devlin",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.autcon.2025.106599_b71",
+            "series-title": "Language models are unsupervised multitask learners",
+            "author": "Radford",
+            "year": "2019"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.autcon.2025.106599_b72",
+            "doi-asserted-by": "crossref",
+            "first-page": "04015057",
+            "DOI": "10.1061/(ASCE)CP.1943-5487.0000513",
+            "article-title": "Domain-specific hierarchical text classification for supporting automated environmental compliance checking",
+            "volume": "30",
+            "author": "Zhou",
+            "year": "2016",
+            "journal-title": "J. Comput. Civ. Eng."
+          }
+        ],
+        "container-title": [
+          "Automation in Construction"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0926580525006399?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0926580525006399?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              31
+            ]
+          ],
+          "date-time": "2026-01-31T15:53:16Z",
+          "timestamp": 1769874796000
+        },
+        "score": 75.76655,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0926580525006399"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        },
+        "references-count": 72,
+        "alternative-id": [
+          "S0926580525006399"
+        ],
+        "URL": "https://doi.org/10.1016/j.autcon.2025.106599",
+        "ISSN": [
+          "0926-5805"
+        ],
+        "issn-type": [
+          {
+            "value": "0926-5805",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              1
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Automated multi-label classification of risk clauses in construction contracts using GPT-driven data augmentation",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Automation in Construction",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.autcon.2025.106599",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2025 Elsevier B.V. All rights are reserved, including those for text and data mining, AI training, and similar technologies.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "106599"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              4
+            ]
+          ],
+          "date-time": "2026-01-04T16:26:45Z",
+          "timestamp": 1767544005372,
+          "version": "3.48.0"
+        },
+        "reference-count": 0,
+        "publisher": "GSC Online Press",
+        "issue": "3",
+        "content-domain": {
+          "domain": [
+            "www.wjaets.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "World J. Adv. Eng. Technol. Sci."
+        ],
+        "abstract": "<jats:p>Web content moderation faces increasingly diverse threats ranging from phishing and malware to clickbait and fraud. This project, Surf Shelter, proposes a unified risk assessment system that utilizes multi-label classification to detect multiple types of website threats simultaneously. By leveraging big data from sources such as Common Crawl, OpenPageRank, GitHub, VirusTotal, PhishTank, and Google Safe Browsing, we compile a comprehensive dataset of websites and threat intelligence. We extract rich features using natural language processing (DistilBERT embeddings), static code analysis, and security heuristics, and apply an ensemble soft-voting strategy to label websites across threat categories. Preliminary results on 11,500 collected webpages (with 1,000 labeled) show that our model can achieve high overall accuracy (around 84%) in identifying malicious content, though calibration is needed to reduce false positives. An XGBoost classifier outperformed other models in consistency, and a Gaussian Mixture Model (GMM) helped adjust decision thresholds when soft-vote scores indicated misclassifications. The evolving cloud-deployed system demonstrates the feasibility of a one-stop, continuously updating platform for web risk detection. We conclude that a multi-label, data-driven approach can significantly enhance web content safety, and we outline future steps to integrate graph neural networks and deploy a user-facing extension for real-time protection.</jats:p>",
+        "DOI": "10.30574/wjaets.2025.16.3.1349",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              23
+            ]
+          ],
+          "date-time": "2025-09-23T05:09:16Z",
+          "timestamp": 1758604156000
+        },
+        "page": "373-385",
+        "update-policy": "https://doi.org/10.30574/wjaets.ourcrossmarkpolicy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Surf Shelter: A Big Data-driven Risk Assessment System Using Multi-label Classification"
+        ],
+        "prefix": "10.30574",
+        "volume": "16",
+        "author": [
+          {
+            "family": "Aditya Karki",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "Ayesha Imam",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "family": "Navaraj Pandey",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "12033",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ]
+        },
+        "container-title": [
+          "World Journal of Advanced Engineering Technology and Sciences"
+        ],
+        "link": [
+          {
+            "URL": "https://journalwjaets.com/node/1368",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              4
+            ]
+          ],
+          "date-time": "2026-01-04T16:21:37Z",
+          "timestamp": 1767543697000
+        },
+        "score": 34.663837,
+        "resource": {
+          "primary": {
+            "URL": "https://wjaets.com/node/1368"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "3",
+          "published-online": {
+            "date-parts": [
+              [
+                2025,
+                9,
+                30
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.30574/wjaets.2025.16.3.1349",
+        "ISSN": [
+          "2582-8266"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "2582-8266"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              30
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              11
+            ]
+          ],
+          "date-time": "2025-12-11T21:07:26Z",
+          "timestamp": 1765487246180,
+          "version": "build-2065373602"
+        },
+        "reference-count": 27,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "10",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  7,
+                  21
+                ]
+              ],
+              "date-time": "2025-07-21T00:00:00Z",
+              "timestamp": 1753056000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  7,
+                  21
+                ]
+              ],
+              "date-time": "2025-07-21T00:00:00Z",
+              "timestamp": 1753056000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Knowl Inf Syst"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              10
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10115-025-02480-9",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              21
+            ]
+          ],
+          "date-time": "2025-07-21T18:14:29Z",
+          "timestamp": 1753121669000
+        },
+        "page": "8751-8766",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Graph data augmentation using multi-label mixup"
+        ],
+        "prefix": "10.1007",
+        "volume": "67",
+        "author": [
+          {
+            "given": "Luong",
+            "family": "Pham",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Tuyen Ho Thi",
+            "family": "Thanh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Duy-Minh",
+            "family": "Nguyen-Tran",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Bac",
+            "family": "Le",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              21
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "2480_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "3663",
+            "DOI": "10.1145/3442381.3449796",
+            "volume": "2021",
+            "author": "Y Wang",
+            "year": "2021",
+            "unstructured": "Wang Y, Wang W, Liang Y, Cai Y, Hooi B (2021) Mixup for node and graph classification. In: Proceedings of the Web Conference 2021:3663–3674. https://doi.org/10.1145/3442381.3449796",
+            "journal-title": "In: Proceedings of the Web Conference"
+          },
+          {
+            "key": "2480_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "8230",
+            "DOI": "10.1145/3340531.3412086",
+            "volume": "162",
+            "author": "X Han",
+            "year": "2022",
+            "unstructured": "Han X, Jiang Z, Liu N, Hu X (2022) G-mixup: Graph data augmentation for graph classification. In: International Conference on Machine Learning. Proceedings of Machine Learning Research 162:8230–8248. https://doi.org/10.1145/3340531.3412086",
+            "journal-title": "In: International Conference on Machine Learning. Proceedings of Machine Learning Research"
+          },
+          {
+            "key": "2480_CR3",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Guo H, Mao Y (2023) Interpolating graph pair to regularize graph classification. In: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence. AAAI’23/IAAI’23/EAAI’23. https://doi.org/10.1609/aaai.v37i6.25941",
+            "DOI": "10.1609/aaai.v37i6.25941"
+          },
+          {
+            "key": "2480_CR4",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Ling H, Jiang Z, Liu M, Ji S, Zou N (2023) Graph mixup with soft alignments. In: Proceedings of the 40th International Conference on Machine Learning. Proceedings of Machine Learning Research 202:21335–21349. https://doi.org/10.48550/ARXIV.2306.06788",
+            "DOI": "10.48550/ARXIV.2306.06788"
+          },
+          {
+            "key": "2480_CR5",
+            "unstructured": "Zhang H, Cisse M, Dauphin YN, Lopez-Paz D (2018) mixup: Beyond empirical risk minimization. In: International Conference on Learning Representations"
+          },
+          {
+            "key": "2480_CR6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICASSP49357.2023.10095561",
+            "author": "M Navarro",
+            "year": "2023",
+            "unstructured": "Navarro M, Segarra S (2023) Graphmad: Graph mixup for data augmentation using data-driven convex clustering. Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing. https://doi.org/10.1109/ICASSP49357.2023.10095561",
+            "journal-title": "Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing"
+          },
+          {
+            "key": "2480_CR7",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Yoo J, Shim S, Kang U (2022) Model-agnostic augmentation for accurate graph classification. In: Proceedings of the ACM Web Conference. WWW ’22, pp. 1281–1291. https://doi.org/10.1145/3485447.3512175",
+            "DOI": "10.1145/3485447.3512175"
+          },
+          {
+            "key": "2480_CR8",
+            "unstructured": "Zhao T, Jin W, Liu Y, Wang Y, Liu G, Günneman S, Shah N, Jiang M (2023) Graph data augmentation for graph machine learning: A survey. IEEE Data Engineering Bulletin"
+          },
+          {
+            "key": "2480_CR9",
+            "unstructured": "Rong Y, Huang W, Xu T, Huang J (2020) Dropedge: Towards deep graph convolutional networks on node classification. In: 8th International Conference on Learning Representations"
+          },
+          {
+            "key": "2480_CR10",
+            "unstructured": "Feng W, Zhang J, Dong Y, Han Y, Luan H, Xu Q, Yang Q, Kharlamov E, Tang J (2020) Graph random neural networks for semi-supervised learning on graphs. In: NeurIPS"
+          },
+          {
+            "key": "2480_CR11",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Zhao T, Liu Y, Neves L, Woodford OJ, Jiang M, Shah N (2021) Data augmentation for graph neural networks, vol. 35, pp. 11015–11023. https://doi.org/10.1609/aaai.v35i12.17315",
+            "DOI": "10.1609/aaai.v35i12.17315"
+          },
+          {
+            "key": "2480_CR12",
+            "unstructured": "Zhao T, Tang X, Zhang D, Jiang H, Rao N, Song Y, Agrawal P, Subbian K, Yin B, Jiang M (2022) Autogda: Automated graph data augmentation for node classification. In: Learning on Graphs Conference. Proceedings of Machine Learning Research, vol. 198, p. 32. https://proceedings.mlr.press/v198/zhao22a.html"
+          },
+          {
+            "key": "2480_CR13",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Ju W, Wang Y, Qin Y, Mao Z, Xiao Z, Luo J, Yang J, Gu Y, Wang D, Long Q, Yi S, Luo X, Zhang M (2024) Towards graph contrastive learning: A survey and beyond. CoRR. https://doi.org/10.48550/ARXIV.2405.11868arxiv:2405.11868",
+            "DOI": "10.48550/ARXIV.2405.11868"
+          },
+          {
+            "key": "2480_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hu Z, Dong Y, Wang K, Chang K-W, Sun Y (2020) Gpt-gnn: Generative pre-training of graph neural networks. In: Proceedings of the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+            "DOI": "10.1145/3394486.3403237"
+          },
+          {
+            "issue": "04",
+            "key": "2480_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "4215",
+            "DOI": "10.1609/aaai.v34i04.5843",
+            "volume": "34",
+            "author": "B Hui",
+            "year": "2020",
+            "unstructured": "Hui B, Zhu P, Hu Q (2020) Collaborative graph convolutional networks: Unsupervised learning meets semi-supervised learning. Proceedings of the AAAI Conference on Artificial Intelligence 34(04):4215–4222. https://doi.org/10.1609/aaai.v34i04.5843",
+            "journal-title": "Proceedings of the AAAI Conference on Artificial Intelligence"
+          },
+          {
+            "issue": "11",
+            "key": "2480_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "10024",
+            "DOI": "10.1609/aaai.v35i11.17203",
+            "volume": "35",
+            "author": "V Verma",
+            "year": "2021",
+            "unstructured": "Verma V, Qu M, Kawaguchi K, Lamb A, Bengio Y, Kannala J, Tang J (2021) Graphmix: Improved training of gnns for semi-supervised learning. Proceedings of the AAAI Conference on Artificial Intelligence 35(11):10024–10032. https://doi.org/10.1609/aaai.v35i11.17203",
+            "journal-title": "Proceedings of the AAAI Conference on Artificial Intelligence"
+          },
+          {
+            "key": "2480_CR17",
+            "unstructured": "Kipf TN, Welling M (2017) Semi-supervised classification with graph convolutional networks. In: International Conference on Learning Representations (ICLR)"
+          },
+          {
+            "key": "2480_CR18",
+            "unstructured": "Gilmer J, Schoenholz SS, Riley PF, Vinyals O, Dahl GE (2017) Neural message passing for quantum chemistry. In: Proceedings of International Conference on Machine Learning, ICML, vol. 70. Sydney, NSW, Australia, pp. 1263–1272"
+          },
+          {
+            "key": "2480_CR19",
+            "unstructured": "Xu K, Hu W, Leskovec J, Jegelka S (2019) How Powerful are Graph Neural Networks? In: the 7th International Conference on Learning Representations (ICLR), USA"
+          },
+          {
+            "key": "2480_CR20",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Shanmugam D, Blalock D, Balakrishnan G, Guttag J (2021) Better aggregation in test-time augmentation. In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 1214–1223. https://doi.org/10.1109/ICCV48922.2021.00125",
+            "DOI": "10.1109/ICCV48922.2021.00125"
+          },
+          {
+            "issue": "2",
+            "key": "2480_CR21",
+            "doi-asserted-by": "publisher",
+            "first-page": "786",
+            "DOI": "10.1021/jm00106a046",
+            "volume": "34",
+            "author": "AK Debnath",
+            "year": "1991",
+            "unstructured": "Debnath AK, Compadre RL, Debnath G, Shusterman AJ, Hansch C (1991) Structure-activity relationship of mutagenic aromatic and heteroaromatic nitro compounds. correlation with molecular orbital energies and hydrophobicity. Journal of Medicinal Chemistry 34(2):786–797. https://doi.org/10.1021/jm00106a046",
+            "journal-title": "Journal of Medicinal Chemistry"
+          },
+          {
+            "issue": "4",
+            "key": "2480_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "771",
+            "DOI": "10.1016/S0022-2836(03)00628-4",
+            "volume": "330",
+            "author": "P Dobson",
+            "year": "2003",
+            "unstructured": "Dobson P, Doig A (2003) Distinguishing enzyme structures from non-enzymes without alignments. Journal of molecular biology 330(4):771–783. https://doi.org/10.1016/S0022-2836(03)00628-4",
+            "journal-title": "Journal of molecular biology"
+          },
+          {
+            "issue": "10",
+            "key": "2480_CR23",
+            "doi-asserted-by": "publisher",
+            "first-page": "1183",
+            "DOI": "10.1093/bioinformatics/btg130",
+            "volume": "19",
+            "author": "H Toivonen",
+            "year": "2003",
+            "unstructured": "Toivonen H, Srinivasan A, King RD, Kramer S, Helma C (2003) Statistical evaluation of the predictive toxicology challenge 2000–2001. Bioinform. 19(10):1183–1193. https://doi.org/10.1093/bioinformatics/btg130",
+            "journal-title": "Bioinform."
+          },
+          {
+            "key": "2480_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "431",
+            "DOI": "10.1093/nar/gkh081",
+            "volume": "32",
+            "author": "I Schomburg",
+            "year": "2004",
+            "unstructured": "Schomburg I, Chang A, Ebeling C, Gremse M, Heldt C, Huhn G, Schomburg D (2004) BRENDA, the enzyme database: updates and major new developments. Nucleic Acids Research 32:431–433",
+            "journal-title": "Nucleic Acids Research"
+          },
+          {
+            "key": "2480_CR25",
+            "unstructured": "Wang Y, Wang W, Liang Y, Cai Y, Hooi B (2020) Graphcrop: Subgraph cropping for graph classification. CoRR arxiv:2009.10564"
+          },
+          {
+            "key": "2480_CR26",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Wang Y, Wang W, Liang Y, Cai Y, Liu J, Hooi B (2020) Nodeaug: Semi-supervised node classification with data augmentation. In: Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 207–217. https://doi.org/10.1145/3394486.3403063",
+            "DOI": "10.1145/3394486.3403063"
+          },
+          {
+            "key": "2480_CR27",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Zhou J, Shen J, Xuan Q (2020) Data augmentation for graph classification. In: Proceedings of the 29th ACM International Conference on Information & Knowledge Management. CIKM ’20. https://doi.org/10.1145/3340531.3412086",
+            "DOI": "10.1145/3340531.3412086"
+          }
+        ],
+        "container-title": [
+          "Knowledge and Information Systems"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10115-025-02480-9.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10115-025-02480-9/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10115-025-02480-9.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              15
+            ]
+          ],
+          "date-time": "2025-10-15T10:58:59Z",
+          "timestamp": 1760525939000
+        },
+        "score": 33.58062,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10115-025-02480-9"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              21
+            ]
+          ]
+        },
+        "references-count": 27,
+        "journal-issue": {
+          "issue": "10",
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                10
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "2480"
+        ],
+        "URL": "https://doi.org/10.1007/s10115-025-02480-9",
+        "ISSN": [
+          "0219-1377",
+          "0219-3116"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "0219-1377"
+          },
+          {
+            "type": "electronic",
+            "value": "0219-3116"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              7,
+              21
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "15 October 2024",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "16 April 2025",
+            "order": 2,
+            "name": "revised",
+            "label": "Revised",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "8 May 2025",
+            "order": 3,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "21 July 2025",
+            "order": 4,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Declarations"
+            }
+          },
+          {
+            "value": "We declare that we have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "order": 2,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Competing interests"
+            }
+          },
+          {
+            "value": "Informed consent was obtained from all of the subjects involved in this study.",
+            "order": 3,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Informed consent"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

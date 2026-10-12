@@ -1,0 +1,924 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3743515,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              28
+            ]
+          ],
+          "date-time": "2026-09-28T23:09:43Z",
+          "timestamp": 1790636983743,
+          "version": "4.1.0"
+        },
+        "reference-count": 28,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "5",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  1
+                ]
+              ],
+              "date-time": "2022-05-01T00:00:00Z",
+              "timestamp": 1651363200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  11,
+                  30
+                ]
+              ],
+              "date-time": "2019-11-30T00:00:00Z",
+              "timestamp": 1575072000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Journal of King Saud University - Computer and Information Sciences"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.jksuci.2019.11.015",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              12,
+              7
+            ]
+          ],
+          "date-time": "2019-12-07T02:29:05Z",
+          "timestamp": 1575685745000
+        },
+        "page": "2141-2150",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 102,
+        "title": [
+          "Effective deep learning approaches for summarization of legal texts"
+        ],
+        "prefix": "10.1007",
+        "volume": "34",
+        "author": [
+          {
+            "given": "Deepa",
+            "family": "Anand",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rupali",
+            "family": "Wagh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "reference": [
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0005",
+            "unstructured": "A full Python Implementation of the ROUGE Metric (not a wrapper). Retrieved from https://github.com/pltrdy/rouge/."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.jksuci.2019.11.015_b0010",
+            "first-page": "278",
+            "article-title": "Experimental investigating the F-measure as similarity measure for automatic text summarization",
+            "volume": "6",
+            "author": "Alguliev",
+            "year": "2007",
+            "journal-title": "Appl. Comput. Math."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0015",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Allahyari, M., Pouriyeh, S., Assefi, M., Safaei, S., Trippe, E.D., Gutierrez, J.B., Kochut, K., 2017. Text summarization techniques: a brief survey. arXiv preprint arXiv:1707.02268.",
+            "DOI": "10.14569/IJACSA.2017.081052"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, Y.C., Bansal, M., 2018. Fast abstractive summarization with reinforce-selected sentence rewriting. arXiv preprint arXiv:1805.11080.",
+            "DOI": "10.18653/v1/P18-1063"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Conneau, A., Kiela, D., Schwenk, H., Barrault, L., Bordes, A., 2017. Supervised learning of universal sentence representations from natural language inference data. arXiv preprint arXiv:1705.02364.",
+            "DOI": "10.18653/v1/D17-1070"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0030",
+            "unstructured": "General purpose unsupervised sentence representations. Retrieved from https://github.com/epfml/sent2vec."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0035",
+            "unstructured": "Infersent Sentence Embedding. Retrieved from https://github.com/facebookresearch/InferSent."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.jksuci.2019.11.015_b0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1007/s10462-017-9566-2",
+            "article-title": "Text summarization from legal documents: a survey",
+            "volume": "51",
+            "author": "Kanapala",
+            "year": "2019",
+            "journal-title": "Artif. Intell. Rev."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.jksuci.2019.11.015_b0045",
+            "first-page": "53",
+            "article-title": "A survey on methods of abstractive text summarization",
+            "volume": "1",
+            "author": "Kasture",
+            "year": "2014",
+            "journal-title": "Int. J. Res. Merg. Sci. Technol"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0050",
+            "series-title": "Proceedings of the International Conference on Frontiers of Intelligent Computing: Theory and Applications (FICTA)",
+            "first-page": "229",
+            "article-title": "An automatic legal document summarization and search using hybrid system",
+            "author": "Kavila",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0055",
+            "unstructured": "Keras: The Python Deep Learning library. Retrieved from https://keras.io/."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0060",
+            "series-title": "JSAI International Symposium on Artificial Intelligence",
+            "first-page": "190",
+            "article-title": "Summarization of legal texts with high cohesion and automatic compression rate",
+            "author": "Kim",
+            "year": "2012"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0065",
+            "unstructured": "Lin, C.Y., 2004. Rouge: A package for automatic evaluation of summaries. InText summarization branches out. pp. 74–81."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0070",
+            "unstructured": "Long Short Term Memory. Retrieved from http://primo.ai/index.php?title=Long_Short-Term_Memory_(LSTM)."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.jksuci.2019.11.015_b0075",
+            "first-page": "450",
+            "article-title": "Minimum redundancy and maximum relevance for single and multi-document Arabic text summarization",
+            "volume": "26",
+            "author": "Oufaida",
+            "year": "2014",
+            "journal-title": "J. King Saud Univ. Comput. Inf. Sci."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0080",
+            "series-title": "Proceedings of the Tenth International Conference on Language Resources and Evaluation (LREC'16)",
+            "first-page": "2833",
+            "article-title": "Sentence similarity based on dependency tree kernels for multi-document summarization",
+            "author": "Özateş",
+            "year": "2016"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0085",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pagliardini, M., Gupta, P., Jaggi, M., 2017. Unsupervised learning of sentence embeddings using compositional n-gram features. arXiv preprint arXiv:1703.02507.",
+            "DOI": "10.18653/v1/N18-1049"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0090",
+            "series-title": "Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: System Demonstrations",
+            "first-page": "258",
+            "article-title": "Casesummarizer: a system for automated summarization of legal texts",
+            "author": "Polsley",
+            "year": "2016"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0095",
+            "series-title": "Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-I",
+            "article-title": "Automatic identification of rhetorical roles using conditional random fields for legal document summarization",
+            "author": "Saravanan",
+            "year": "2008"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0100",
+            "unstructured": "Sinha, A., Yadav, A., Gahlot, A., 2018. Extractive text summarization using neural networks. arXiv preprint arXiv:1802.10137."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0105",
+            "article-title": "A literature review on question answering techniques, paradigms and systems",
+            "author": "Soares",
+            "year": "2018",
+            "journal-title": "J. King Saud Univ. Comput. Inf. Sci."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.jksuci.2019.11.015_b0110",
+            "first-page": "251",
+            "article-title": "Evaluation measures for text summarization",
+            "volume": "28",
+            "author": "Steinberger",
+            "year": "2012",
+            "journal-title": "Comput. Inf."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0115",
+            "unstructured": "Tokenizer spaCy API Documentation. Retrieved from https://spacy.io/api/tokenizer."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0120",
+            "unstructured": "Understanding LSTM Networks. Retrieved from https://colah.github.io/posts/2015-08-Understanding-LSTMs."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.jksuci.2019.11.015_b0125",
+            "article-title": "Legal documents clustering and summarization using hierarchical latent Dirichlet allocation",
+            "volume": "2",
+            "author": "Venkatesh",
+            "year": "2013",
+            "journal-title": "IAES Int. J. Artif. Intell."
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0130",
+            "series-title": "Intelligent Systems, Technologies and Applications",
+            "first-page": "53",
+            "article-title": "A novel approach of augmenting training data for legal text segmentation by leveraging domain knowledge",
+            "author": "Wagh",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.jksuci.2019.11.015_b0135",
+            "series-title": "2017 9th International Conference on Knowledge and Systems Engineering (KSE)",
+            "first-page": "275",
+            "article-title": "Designing an annotation scheme for summarizing Japanese judgment documents",
+            "author": "Yamada",
+            "year": "2017"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.jksuci.2019.11.015_b0140",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1109/MCI.2018.2840738",
+            "article-title": "Recent trends in deep learning based natural language processing",
+            "volume": "13",
+            "author": "Young",
+            "year": "2018",
+            "journal-title": "IEEE Comput. Intell. Mag."
+          }
+        ],
+        "container-title": [
+          "Journal of King Saud University - Computer and Information Sciences"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1319157819301259?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S1319157819301259?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              1,
+              6
+            ]
+          ],
+          "date-time": "2025-01-06T17:24:04Z",
+          "timestamp": 1736184244000
+        },
+        "score": 50.366196,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S1319157819301259"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5
+            ]
+          ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+          "issue": "5",
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                5
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "S1319157819301259"
+        ],
+        "URL": "https://doi.org/10.1016/j.jksuci.2019.11.015",
+        "ISSN": [
+          "1319-1578"
+        ],
+        "issn-type": [
+          {
+            "value": "1319-1578",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Effective deep learning approaches for summarization of legal texts",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Journal of King Saud University - Computer and Information Sciences",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.jksuci.2019.11.015",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2019 The Authors. Published by Elsevier B.V. on behalf of King Saud University.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              24
+            ]
+          ],
+          "date-time": "2026-06-24T15:04:55Z",
+          "timestamp": 1782313495235,
+          "version": "3.54.5"
+        },
+        "publisher-location": "London",
+        "edition-number": "1",
+        "reference-count": 0,
+        "publisher": "CRC Press",
+        "isbn-type": [
+          {
+            "value": "9781003529231",
+            "type": "electronic"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1201/9781003529231-46",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              12
+            ]
+          ],
+          "date-time": "2024-06-12T10:35:53Z",
+          "timestamp": 1718188553000
+        },
+        "page": "299-310",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Summarization of Legal Texts by Using Deep Learning Approaches"
+        ],
+        "prefix": "10.1201",
+        "author": [
+          {
+            "given": "Nilambar",
+            "family": "Sethi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "V. Sivarama Raju",
+            "family": "Vetukuri",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R. Shiva",
+            "family": "Shankar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Rajender",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "301",
+        "container-title": [
+          "Algorithms in Advanced Artificial Intelligence"
+        ],
+        "language": "en",
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              12
+            ]
+          ],
+          "date-time": "2024-06-12T10:37:07Z",
+          "timestamp": 1718188627000
+        },
+        "score": 43.493263,
+        "resource": {
+          "primary": {
+            "URL": "https://www.taylorfrancis.com/books/9781003529231/chapters/10.1201/9781003529231-46"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              12
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781003529231"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.1201/9781003529231-46",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              2
+            ]
+          ],
+          "date-time": "2026-09-02T04:44:25Z",
+          "timestamp": 1788324265518,
+          "version": "build-2803163510"
+        },
+        "reference-count": 23,
+        "publisher": "IEEE",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2021-11-11T00:00:00Z",
+              "timestamp": 1636588800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2021-11-11T00:00:00Z",
+              "timestamp": 1636588800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2021-11-11T00:00:00Z",
+              "timestamp": 1636588800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1109/upcon52273.2021.9667640",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              1,
+              10
+            ]
+          ],
+          "date-time": "2022-01-10T16:14:27Z",
+          "timestamp": 1641831267000
+        },
+        "page": "1-5",
+        "source": "Crossref",
+        "is-referenced-by-count": 26,
+        "title": [
+          "Deep Learning Techniques for Legal Text Summarization"
+        ],
+        "prefix": "10.1109",
+        "author": [
+          {
+            "given": "Reshma",
+            "family": "Sheik",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "S. Jaya",
+            "family": "Nirmala",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/K16-1028"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/D15-1166"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3411763.3443441"
+          },
+          {
+            "key": "ref13",
+            "first-page": "258",
+            "article-title": "CaseSummarizer: A System for Automated Summarization of Legal Texts",
+            "author": "polsley",
+            "year": "2016",
+            "journal-title": "Proceedings of COLING 2016 the 26th International Conference on Computational Linguistics System Demonstrations"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/D15-1044"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/P17-1099"
+          },
+          {
+            "key": "ref16",
+            "article-title": "Sequence to Sequence Learning with Neural Networks",
+            "author": "sutskever",
+            "year": "2014",
+            "journal-title": "Advances in neural information processing systems"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.15439/2018F227"
+          },
+          {
+            "key": "ref18",
+            "author": "cheng",
+            "year": "2016",
+            "journal-title": "Neural Summarization by Extracting Sentences and Words"
+          },
+          {
+            "key": "ref19",
+            "article-title": "Attention Is All You Need",
+            "author": "vaswani",
+            "year": "2017",
+            "journal-title": "Advances in neural information processing systems"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/D17-1070"
+          },
+          {
+            "key": "ref3",
+            "first-page": "13",
+            "article-title": "Improving the processing of question-answer based legal documents",
+            "author": "chakravarty",
+            "year": "2019",
+            "journal-title": "Frontiers in Artificial Intelligence and Applications"
+          },
+          {
+            "key": "ref6",
+            "author": "keymanesh",
+            "year": "2020",
+            "journal-title": "Toward Domain-Guided Controllable Summarization of Privacy Policies"
+          },
+          {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.26615/978-954-452-056-4_036"
+          },
+          {
+            "key": "ref8",
+            "first-page": "74",
+            "article-title": "ROUGE: A Package for Automatic Evaluation of Summaries",
+            "author": "lin",
+            "year": "2004",
+            "journal-title": "Association for Computational Linguistics"
+          },
+          {
+            "key": "ref7",
+            "first-page": "177",
+            "article-title": "OpenNMT: Neural Machine Translation Toolkit",
+            "author": "klein",
+            "year": "2018",
+            "journal-title": "Proceedings of the 13th Conference of the Association for Machine Translation in the Americas"
+          },
+          {
+            "key": "ref2",
+            "author": "bahdanau",
+            "year": "2014",
+            "journal-title": "Neural machine translation by jointly learning to align and translate"
+          },
+          {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jksuci.2019.11.015"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/P18-1253"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.18653/v1/P18-1166"
+          },
+          {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3115/v1/D14-1162"
+          },
+          {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2021/3591894"
+          },
+          {
+            "key": "ref23",
+            "article-title": "Efficient Estimation of Word Representations in Vector Space, Computing Research Repository",
+            "author": "mikolov",
+            "year": "2013"
+          }
+        ],
+        "event": {
+          "name": "2021 IEEE 8th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)",
+          "location": "Dehradun, India",
+          "start": {
+            "date-parts": [
+              [
+                2021,
+                11,
+                11
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2021,
+                11,
+                13
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "2021 IEEE 8th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering (UPCON)"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/9667472/9667553/09667640.pdf?arnumber=9667640",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              10
+            ]
+          ],
+          "date-time": "2022-05-10T12:56:56Z",
+          "timestamp": 1652187416000
+        },
+        "score": 30.523647,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/9667640/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              11
+            ]
+          ]
+        },
+        "references-count": 23,
+        "URL": "https://doi.org/10.1109/upcon52273.2021.9667640",
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              11
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

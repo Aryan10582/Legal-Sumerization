@@ -1,0 +1,82 @@
+{
+  "count": 20,
+  "scale": "0 to 1",
+  "aggregation": "arithmetic document mean of F1",
+  "configuration": "rouge-score 0.1.2; default English alphanumeric tokenizer; Porter stemming; ROUGE-L (not Lsum); full reference",
+  "rouge1": 0.14946777228044272,
+  "rouge2": 0.07973912636398864,
+  "rougeL": 0.10456319851510354,
+  "inference_seconds": 36.52435780000087,
+  "hardware": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+    "ram_bytes": 16415322112,
+    "torch": "2.14.1+cpu",
+    "device": "cpu",
+    "gpu": null,
+    "cpu_threads": 4
+  },
+  "training_run": {
+    "task": "summarization",
+    "fine_tuned": true,
+    "model": "google-t5/t5-small",
+    "revision": "df1b051c49625cf57a3d0d8d3863ed4d13564fe4",
+    "settings": {
+      "model": "google-t5/t5-small",
+      "revision": "df1b051c49625cf57a3d0d8d3863ed4d13564fe4",
+      "max_source_tokens": 512,
+      "max_target_tokens": 128,
+      "epochs": 1,
+      "batch_size": 2,
+      "learning_rate": 0.0001,
+      "weight_decay": 0.01,
+      "accumulation_steps": 2,
+      "num_beams": 2,
+      "train_documents": 64,
+      "validation_documents": 12,
+      "test_documents": 20
+    },
+    "seed": 42,
+    "hardware": {
+      "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+      "ram_bytes": 16415322112,
+      "torch": "2.14.1+cpu",
+      "device": "cpu",
+      "gpu": null,
+      "cpu_threads": 4
+    },
+    "best_epoch": 1,
+    "validation_selection": {
+      "teacher_forced_loss": 3.9043382008870444
+    },
+    "threshold": null,
+    "data_fingerprint": {
+      "train": "419e958d09971260405c2630362d9e37e997a070344d64329954f99a57430520",
+      "validation": "68b0ca79ecebfbf95c785668cf8668fdebb5e4c73dd2027982401cb84f51dd54",
+      "test": "cbce406be461b97668f36e2b97a7c264f55a10d0db142fc6e14eddad15a84bb1"
+    },
+    "train_rows": 64,
+    "validation_rows": 12,
+    "parameter_count": 60506624,
+    "target_shortened_train": 64,
+    "target_shortened_validation": 12,
+    "mean_training_source_character_coverage": 0.1600584974200705,
+    "positive_loss_weights": null,
+    "optimizer": "AdamW",
+    "gradient_clip_norm": 1.0,
+    "scheduler": "linear 10% warmup",
+    "mixed_precision": false,
+    "resume_support": "saved checkpoint for inference / warm start; optimizer state is not saved",
+    "training_seconds": 152.01790149999943,
+    "epochs_completed": 1
+  },
+  "data_fingerprint": {
+    "train": "419e958d09971260405c2630362d9e37e997a070344d64329954f99a57430520",
+    "validation": "68b0ca79ecebfbf95c785668cf8668fdebb5e4c73dd2027982401cb84f51dd54",
+    "test": "cbce406be461b97668f36e2b97a7c264f55a10d0db142fc6e14eddad15a84bb1"
+  },
+  "dataset": "IN-Abs English Indian Supreme Court judgments"
+}

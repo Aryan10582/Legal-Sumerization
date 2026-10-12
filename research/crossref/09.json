@@ -1,0 +1,1979 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 10258486,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              8
+            ]
+          ],
+          "date-time": "2026-10-08T20:24:34Z",
+          "timestamp": 1791491074016,
+          "version": "4.3.4"
+        },
+        "reference-count": 70,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  6,
+                  26
+                ]
+              ],
+              "date-time": "2019-06-26T00:00:00Z",
+              "timestamp": 1561507200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  6,
+                  26
+                ]
+              ],
+              "date-time": "2019-06-26T00:00:00Z",
+              "timestamp": 1561507200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2020,
+              6
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10506-019-09255-y",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              26
+            ]
+          ],
+          "date-time": "2019-06-26T15:03:25Z",
+          "timestamp": 1561561405000
+        },
+        "page": "237-266",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 292,
+        "title": [
+          "Using machine learning to predict decisions of the European Court of Human Rights"
+        ],
+        "prefix": "10.1007",
+        "volume": "28",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-2972-8447",
+            "authenticated-orcid": false,
+            "given": "Masha",
+            "family": "Medvedeva",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michel",
+            "family": "Vols",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Martijn",
+            "family": "Wieling",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              26
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9255_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "e93",
+            "DOI": "10.7717/peerj-cs.93",
+            "volume": "2",
+            "author": "N Aletras",
+            "year": "2016",
+            "unstructured": "Aletras N, Tsarapatsanis D, Preoţiuc-Pietro D, Lampos V (2016) Predicting judicial decisions of the European Court of Human Rights: a natural language processing perspective. PeerJ Comput Sci 2:e93",
+            "journal-title": "PeerJ Comput Sci"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "125",
+            "DOI": "10.1007/s10506-009-9077-9",
+            "volume": "17",
+            "author": "KD Ashley",
+            "year": "2009",
+            "unstructured": "Ashley KD, Brüninghaus S (2009) Automatically classifying case texts and predicting outcomes. Artif Intell Law 17(2):125–165",
+            "journal-title": "Artif Intell Law"
+          },
+          {
+            "key": "9255_CR3",
+            "unstructured": "Basile A, Dwyer G, Medvedeva M, Rawee J, Haagsma H, Nissim M (2017) N-gram: new groningen author-profiling model. CLEF (Working Notes) 2017"
+          },
+          {
+            "issue": "1",
+            "key": "9255_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "14",
+            "DOI": "10.1163/22119000-12340030",
+            "volume": "18",
+            "author": "D Behn",
+            "year": "2017",
+            "unstructured": "Behn D, Langford M (2017) Trumping the environment? An empirical perspective on the legitimacy of investment treaty arbitration. J World Invest Trade 18(1):14–61",
+            "journal-title": "J World Invest Trade"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "170",
+            "DOI": "10.1111/lapo.12072",
+            "volume": "39",
+            "author": "B Bricker",
+            "year": "2017",
+            "unstructured": "Bricker B (2017) Breaking the principle of secrecy: an examination of judicial dissent in the European constitutional courts. Law Policy 39(2):170–191",
+            "journal-title": "Law Policy"
+          },
+          {
+            "key": "9255_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "137",
+            "DOI": "10.1016/j.drugpo.2017.08.003",
+            "volume": "51",
+            "author": "LM Bruijn",
+            "year": "2018",
+            "unstructured": "Bruijn LM, Vols M, Brouwer JG (2018) Home closure as a weapon in the dutch war on drugs: does judicial review function as a safety net? Int J Drug Policy 51:137–147",
+            "journal-title": "Int J Drug Policy"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR7",
+            "first-page": "7",
+            "volume": "2007",
+            "author": "FJ Bruinsma",
+            "year": "2007",
+            "unstructured": "Bruinsma FJ (2007) The room at the top: separate opinions in the grand chambers of the ECHR (1998–2006). Recht der werkelijkheid 2007(2):7–24",
+            "journal-title": "Recht der werkelijkheid"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "175",
+            "DOI": "10.1177/092405199701500204",
+            "volume": "15",
+            "author": "FJ Bruinsma",
+            "year": "1997",
+            "unstructured": "Bruinsma FJ, De Blois M (1997) Rules of law from westport to wladiwostok. Separate opinions in the European Court of Human Rights. Neth Q Hum Rights 15(2):175–186",
+            "journal-title": "Neth Q Hum Rights"
+          },
+          {
+            "key": "9255_CR9",
+            "first-page": "283",
+            "volume": "90",
+            "author": "CV Chien",
+            "year": "2011",
+            "unstructured": "Chien CV (2011) Predicting patent litigation. Tex Law Rev 90:283",
+            "journal-title": "Tex Law Rev"
+          },
+          {
+            "key": "9255_CR10",
+            "first-page": "53",
+            "volume": "2016",
+            "author": "ML Christensen",
+            "year": "2016",
+            "unstructured": "Christensen ML, Olsen HP, Tarissan F (2016) Identification of case content with quantitative network analysis: an example from the ECtHR. Proc JURIX 2016:53–62",
+            "journal-title": "Proc JURIX"
+          },
+          {
+            "key": "9255_CR11",
+            "first-page": "2449",
+            "volume": "34",
+            "author": "B Custers",
+            "year": "2017",
+            "unstructured": "Custers B, Leeuw F (2017) Quantitative approaches to empirical legal research. J Empir Leg Stud 34:2449–2456",
+            "journal-title": "J Empir Leg Stud"
+          },
+          {
+            "key": "9255_CR12",
+            "unstructured": "De Jaeger T (2017) Gerechtelijke achterstand: de piñata van de wetgever. NJW 2017, afl. 361, pp 290–307"
+          },
+          {
+            "issue": "5",
+            "key": "9255_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "667",
+            "DOI": "10.1111/eulj.12077",
+            "volume": "20",
+            "author": "M Derlén",
+            "year": "2014",
+            "unstructured": "Derlén M, Lindholm J (2014) Goodbye van Gend en Loos, Hello Bosman? Using network analysis to measure the importance of individual CJEU judgments. Eur Law J 20(5):667–687",
+            "journal-title": "Eur Law J"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "257",
+            "DOI": "10.1093/jiel/jgx011",
+            "volume": "20",
+            "author": "M Derlén",
+            "year": "2017",
+            "unstructured": "Derlén M, Lindholm J (2017a) Is it good law? Network analysis and the CJEU’s internal market jurisprudence. J Int Econ Law 20(2):257–277",
+            "journal-title": "J Int Econ Law"
+          },
+          {
+            "key": "9255_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "647",
+            "DOI": "10.1017/S2071832200022100",
+            "volume": "18",
+            "author": "M Derlén",
+            "year": "2017",
+            "unstructured": "Derlén M, Lindholm J (2017b) Peek-A-Boo, it’s a case law system: comparing the European Court of Justice and the United States Supreme Court from a network perspective. Ger Law J 18:647",
+            "journal-title": "Ger Law J"
+          },
+          {
+            "key": "9255_CR16",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Derlén M, Lindholm J (2018) Serving two masters: CJEU case law in swedish first instance courts and national courts of precedence as gatekeepers. Available at SSRN: \n                  https://ssrn.com/abstract=2952783\n                  \n                 or \n                  https://doi.org/10.2139/ssrn.2952783",
+            "DOI": "10.2139/ssrn.2952783"
+          },
+          {
+            "key": "9255_CR17",
+            "first-page": "247",
+            "volume": "10",
+            "author": "MK Dhami",
+            "year": "2016",
+            "unstructured": "Dhami MK, Belton I (2016) Statistical analyses of court decisions: an example of multilevel models of sentencing. Law Method 10:247–266",
+            "journal-title": "Law Method"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "145",
+            "DOI": "10.1017/S0021223715000047",
+            "volume": "48",
+            "author": "II Doron",
+            "year": "2015",
+            "unstructured": "Doron II, Totry-Jubran M, Enosh G, Regev T (2015) An american friend in an Israeli Court: an empirical perspective. Isr Law Rev 48(2):145–164",
+            "journal-title": "Isr Law Rev"
+          },
+          {
+            "key": "9255_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dyevre A (2015) The promise and pitfalls of automated text-scaling techniques for the analysis of judicial opinions. Available at SSRN: \n                  https://ssrn.com/abstract=2626370\n                  \n                 or \n                  https://doi.org/10.2139/ssrn.2626370",
+            "DOI": "10.2139/ssrn.2626370"
+          },
+          {
+            "key": "9255_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Epstein L, Martin A (2010) Quantitative approaches to empirical legal research. In: The Oxford handbook of empirical legal research. Oxford University Press",
+            "DOI": "10.1093/oxfordhb/9780199542475.013.0038"
+          },
+          {
+            "key": "9255_CR22",
+            "volume-title": "The behavior of federal judges: a theoretical and empirical study of rational choice",
+            "author": "L Epstein",
+            "year": "2013",
+            "unstructured": "Epstein L, Landes WM, Posner RA (2013) The behavior of federal judges: a theoretical and empirical study of rational choice. Harvard University Press, Harvard"
+          },
+          {
+            "issue": "4",
+            "key": "9255_CR23",
+            "doi-asserted-by": "publisher",
+            "first-page": "1007",
+            "DOI": "10.1111/j.1740-1461.2007.00113.x",
+            "volume": "4",
+            "author": "M Evans",
+            "year": "2007",
+            "unstructured": "Evans M, McIntosh W, Lin J, Cates C (2007) Recounting the courts? Applying automated content analysis to enhance empirical legal research. J Empir Leg Stud 4(4):1007–1039",
+            "journal-title": "J Empir Leg Stud"
+          },
+          {
+            "key": "9255_CR24",
+            "first-page": "351",
+            "volume": "10",
+            "author": "M Evans",
+            "year": "2017",
+            "unstructured": "Evans M, McIntosh W, Lin J, Cates C (2017) Kruisbestuiving tussen straf- en bestuursrecht: de ontwikkeling van de verwijtbaarheid in het bestuursrecht. Nederlands Tijdschrift voor Bestuursrecht 10:351–357",
+            "journal-title": "Nederlands Tijdschrift voor Bestuursrecht"
+          },
+          {
+            "key": "9255_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "687",
+            "DOI": "10.1017/S2071832200022112",
+            "volume": "18",
+            "author": "J Frankenreiter",
+            "year": "2017",
+            "unstructured": "Frankenreiter J (2017a) Network analysis and the use of precedent in the case law of the CJEU—a reply to Derlen and Lindholm. Ger Law J 18:687",
+            "journal-title": "Ger Law J"
+          },
+          {
+            "issue": "4",
+            "key": "9255_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "813",
+            "DOI": "10.1111/jels.12165",
+            "volume": "14",
+            "author": "J Frankenreiter",
+            "year": "2017",
+            "unstructured": "Frankenreiter J (2017b) The politics of citations at the ECJ—policy preferences of EU member state governments and the citation behavior of judges at the European Court of Justice. J Empir Leg Stud 14(4):813–857",
+            "journal-title": "J Empir Leg Stud"
+          },
+          {
+            "issue": "1",
+            "key": "9255_CR27",
+            "first-page": "1",
+            "volume": "14",
+            "author": "J Frankenreiter",
+            "year": "2018",
+            "unstructured": "Frankenreiter J (2018) Are advocates general political? Policy preferences of eu member state governments and the voting behavior of members of the European Court of Justice. Rev Law Econ, De Gruyter 14(1):1–43",
+            "journal-title": "Rev Law Econ, De Gruyter"
+          },
+          {
+            "issue": "4",
+            "key": "9255_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "795",
+            "DOI": "10.1111/j.1740-1461.2012.01270.x",
+            "volume": "9",
+            "author": "N Garoupa",
+            "year": "2012",
+            "unstructured": "Garoupa N, Gili M, Gómez-Pomar F (2012) Political influence and career judges: an empirical analysis of administrative review by the Spanish Supreme Court. J Empir Leg Stud 9(4):795–826",
+            "journal-title": "J Empir Leg Stud"
+          },
+          {
+            "key": "9255_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goanta C (2017) Big law, big data. Available at SSRN: \n                  https://ssrn.com/abstract=3166290\n                  \n                . Accessed 24 June 2019",
+            "DOI": "10.5553/REM/.000029"
+          },
+          {
+            "key": "9255_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Golbeck J, Robles C, Edmondson M, Turner K (2011) Predicting personality from twitter. In: Privacy, security, risk and trust (passat) and 2011 IEEE third inernational conference on social computing (SocialCom). IEEE, pp 149–156",
+            "DOI": "10.1109/PASSAT/SocialCom.2011.33"
+          },
+          {
+            "key": "9255_CR31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grabmair M (2017) Predicting trade secret case outcomes using argument schemes and learned quantitative value effect tradeoffs. In: Proceedings of the 16th edition of the international conference on artificial intelligence and law. ACM, pp 89–98",
+            "DOI": "10.1145/3086512.3086521"
+          },
+          {
+            "issue": "5",
+            "key": "9255_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "539",
+            "DOI": "10.1177/1477370812453112",
+            "volume": "9",
+            "author": "B Holá",
+            "year": "2012",
+            "unstructured": "Holá B, Bijleveld C, Smeulers A (2012) Consistency of international sentencing: ICTY and ICTR case study. Eur J Criminol 9(5):539–552",
+            "journal-title": "Eur J Criminol"
+          },
+          {
+            "issue": "s1",
+            "key": "9255_CR33",
+            "doi-asserted-by": "publisher",
+            "first-page": "76",
+            "DOI": "10.1111/j.1467-6478.2008.00426.x",
+            "volume": "35",
+            "author": "C Hunter",
+            "year": "2008",
+            "unstructured": "Hunter C, Nixon J, Blandy S (2008) Researching the judiciary: exploring the invisible in judicial decision making. J Law Soc 35(s1):76–90",
+            "journal-title": "J Law Soc"
+          },
+          {
+            "key": "9255_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "83",
+            "DOI": "10.21153/dlr2012vol17no1art70",
+            "volume": "17",
+            "author": "T Hutchinson",
+            "year": "2012",
+            "unstructured": "Hutchinson T, Duncan N (2012) Defining and describing what we do: Doctrinal legal research. Deakin Law Rev 17:83",
+            "journal-title": "Deakin Law Rev"
+          },
+          {
+            "key": "9255_CR35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4615-0907-3",
+            "volume-title": "Learning to classify text using support vector machines: methods, theory and algorithms",
+            "author": "T Joachims",
+            "year": "2002",
+            "unstructured": "Joachims T (2002) Learning to classify text using support vector machines: methods, theory and algorithms, vol 186. Kluwer Academic Publishers, Norwell"
+          },
+          {
+            "key": "9255_CR36",
+            "first-page": "909",
+            "volume": "62",
+            "author": "DM Katz",
+            "year": "2012",
+            "unstructured": "Katz DM (2012) Quantitative legal prediction-or-how i learned to stop worrying and start preparing for the data-driven future of the legal services industry. Emory Law J 62:909",
+            "journal-title": "Emory Law J"
+          },
+          {
+            "issue": "4",
+            "key": "9255_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "e0174698",
+            "DOI": "10.1371/journal.pone.0174698",
+            "volume": "12",
+            "author": "DM Katz",
+            "year": "2017",
+            "unstructured": "Katz DM, Bommarito MJ II, Blackman J (2017) A general approach for predicting the behavior of the Supreme Court of the United States. PloS ONE 12(4):e0174698",
+            "journal-title": "PloS ONE"
+          },
+          {
+            "key": "9255_CR38",
+            "unstructured": "Law DS (2017) The global language of human rights: a computational linguistic analysis. Available at SSRN: \n                  https://ssrn.com/abstract=3049625\n                  \n                . Accessed 24 June 2019"
+          },
+          {
+            "key": "9255_CR39",
+            "first-page": "462",
+            "volume": "3",
+            "author": "J Lindholm",
+            "year": "2012",
+            "unstructured": "Lindholm J, Derlén M (2012) The Court of Justice and the Ankara agreement: exploring the empirical approach. Europarättslig tidskrift 3:462–481",
+            "journal-title": "Europarättslig tidskrift"
+          },
+          {
+            "key": "9255_CR40",
+            "first-page": "837",
+            "volume": "59",
+            "author": "MA Livermore",
+            "year": "2017",
+            "unstructured": "Livermore MA, Riddell AB, Rockmore DN (2017) The Supreme Court and the judicial genre. Ariz Law Rev 59:837",
+            "journal-title": "Ariz Law Rev"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR41",
+            "doi-asserted-by": "publisher",
+            "first-page": "413",
+            "DOI": "10.1017/S0007123411000433",
+            "volume": "42",
+            "author": "Y Lupu",
+            "year": "2012",
+            "unstructured": "Lupu Y, Voeten E (2012) Precedent in international courts: a network analysis of case citations by the European Court of Human Rights. Br J Polit Sci 42(2):413–439",
+            "journal-title": "Br J Polit Sci"
+          },
+          {
+            "key": "9255_CR42",
+            "doi-asserted-by": "publisher",
+            "first-page": "199",
+            "DOI": "10.1093/jnlids/idx016",
+            "volume": "9",
+            "author": "MR Madsen",
+            "year": "2018",
+            "unstructured": "Madsen MR (2018) Rebalancing European human rights: has the Brighton Declaration engendered a new deal on human rights in Europe? J Int Dispute Settl 9:199–222",
+            "journal-title": "J Int Dispute Settl"
+          },
+          {
+            "key": "9255_CR43",
+            "unstructured": "Matthews AA (2017) Connected courts: the diffusion of precedent across state supreme courts. PhD thesis, The University of Iowa"
+          },
+          {
+            "key": "9255_CR44",
+            "unstructured": "Mikolov T, Sutskever I, Chen K, Corrado GS, Dean J (2013) Distributed representations of words and phrases and their compositionality. In: Advances in neural information processing systems 26 (NIPS 2013), pp 3111–3119"
+          },
+          {
+            "key": "9255_CR45",
+            "unstructured": "Mochales R, Moens MF (2008) Study on the structure of argumentation in case law. In: Proceedings of the 2008 conference on legal knowledge and information systems, pp 11–20"
+          },
+          {
+            "issue": "1",
+            "key": "9255_CR46",
+            "doi-asserted-by": "publisher",
+            "first-page": "4",
+            "DOI": "10.1177/1358229117693715",
+            "volume": "17",
+            "author": "HP Olsen",
+            "year": "2017",
+            "unstructured": "Olsen HP, Küçüksu A (2017) Finding hidden patterns in ECtHR’s case law: On how citation network analysis can improve our knowledge of ECtHR’s Article 14 practice. Int J Discrim Law 17(1):4–22",
+            "journal-title": "Int J Discrim Law"
+          },
+          {
+            "key": "9255_CR62",
+            "unstructured": "op Vollenbroek MB, Carlotto T, Kreutz T, Medvedeva M, Pool C, Bjerva J, Haagsma H, Nissim M (2016) Gronup: Groningen user profiling. CLEF (Working Notes) 2016:846–857"
+          },
+          {
+            "key": "9255_CR47",
+            "first-page": "161",
+            "volume": "2016",
+            "author": "Y Panagis",
+            "year": "2016",
+            "unstructured": "Panagis Y, Christensen ML, Sadl U (2016) On top of topics: leveraging topic modeling to study the dynamic case-law of international courts. Proc JURIX 2016:161–166",
+            "journal-title": "Proc JURIX"
+          },
+          {
+            "key": "9255_CR48",
+            "first-page": "2825",
+            "volume": "12",
+            "author": "F Pedregosa",
+            "year": "2011",
+            "unstructured": "Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Prettenhofer P, Weiss R, Dubourg V, VanderPlas J, Passos A, Cournapeau D, Brucher M, Perrot M, Duchesnay E (2011) Scikit-learn: machine learning in Python. J Mach Learn Res 12:2825–2830",
+            "journal-title": "J Mach Learn Res"
+          },
+          {
+            "key": "9255_CR49",
+            "doi-asserted-by": "publisher",
+            "first-page": "203",
+            "DOI": "10.1146/annurev-lawsocsci-110615-085032",
+            "volume": "13",
+            "author": "JJ Rachlinski",
+            "year": "2017",
+            "unstructured": "Rachlinski JJ, Wistrich AJ (2017) Judging the judiciary by the numbers: empirical research on judges. Annu Rev Law Soc Sci 13:203–229",
+            "journal-title": "Annu Rev Law Soc Sci"
+          },
+          {
+            "key": "9255_CR50",
+            "first-page": "117",
+            "volume": "177",
+            "author": "F Rangel",
+            "year": "2013",
+            "unstructured": "Rangel F, Rosso P (2013) Use of language and author profiling: identification of gender and age. Nat Lang Process Cogn Sci 177:117–186",
+            "journal-title": "Nat Lang Process Cogn Sci"
+          },
+          {
+            "key": "9255_CR51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ruppert E, Hartung D, Sittig P, Gschwander T, Rönneburg L, Killing T, Biemann C (2018) Lawstats—large-scale German Court decision evaluation using web service classifiers. In: International cross-domain conference for machine learning and knowledge extraction. Springer, pp 212–222",
+            "DOI": "10.1007/978-3-319-99740-7_14"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR52",
+            "doi-asserted-by": "publisher",
+            "first-page": "327",
+            "DOI": "10.1017/S0922156517000085",
+            "volume": "30",
+            "author": "U Šadl",
+            "year": "2017",
+            "unstructured": "Šadl U, Olsen HP (2017) Can quantitative methods complement doctrinal legal studies? Using citation network and corpus linguistic analysis to understand international courts. Leiden J Int Law 30(2):327–349",
+            "journal-title": "Leiden J Int Law"
+          },
+          {
+            "issue": "9",
+            "key": "9255_CR53",
+            "doi-asserted-by": "publisher",
+            "first-page": "e73791",
+            "DOI": "10.1371/journal.pone.0073791",
+            "volume": "8",
+            "author": "HA Schwartz",
+            "year": "2013",
+            "unstructured": "Schwartz HA, Eichstaedt JC, Kern ML, Dziurzynski L, Ramones SM, Agrawal M, Shah A, Kosinski M, Stillwell D, Seligman ME et al (2013) Personality, gender, and age in the language of social media: the open-vocabulary approach. PloS ONE 8(9):e73791",
+            "journal-title": "PloS ONE"
+          },
+          {
+            "issue": "1",
+            "key": "9255_CR54",
+            "doi-asserted-by": "publisher",
+            "first-page": "107",
+            "DOI": "10.1007/s10506-017-9197-6",
+            "volume": "25",
+            "author": "O Shulayeva",
+            "year": "2017",
+            "unstructured": "Shulayeva O, Siddharthan A, Wyner A (2017) Recognizing cited facts and principles in legal judgements. Artif Intell Law 25(1):107–126",
+            "journal-title": "Artif Intell Law"
+          },
+          {
+            "key": "9255_CR55",
+            "unstructured": "Sulea OM, Zampieri M, Malmasi S, Vela M, Dinu LP, van Genabith J (2017a) Exploring the use of text classification in the legal domain. arXiv preprint \n                  arXiv:171009306"
+          },
+          {
+            "key": "9255_CR56",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sulea OM, Zampieri M, Vela M, van Genabith J (2017b) Predicting the law area and decisions of French Supreme Court cases. arXiv preprint \n                  arXiv:170801681",
+            "DOI": "10.26615/978-954-452-049-6_092"
+          },
+          {
+            "key": "9255_CR57",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tarissan F, Nollez-Goldbach R (2014) The network of the international criminal court decisions as a complex system. In: Iscs 2013: Interdisciplinary symposium on complex systems. Springer, pp 255–264",
+            "DOI": "10.1007/978-3-642-45438-7_25"
+          },
+          {
+            "key": "9255_CR58",
+            "unstructured": "Tarissan F, Nollez-Goldbach R (2015) Temporal properties of legal decision networks: a case study from the international criminal court. In: 28th International conference on legal knowledge and information systems (JURIX’2015)"
+          },
+          {
+            "issue": "4",
+            "key": "9255_CR59",
+            "first-page": "616",
+            "volume": "4",
+            "author": "F Tarissan",
+            "year": "2016",
+            "unstructured": "Tarissan F, Nollez-Goldbach R (2016) Analysing the first case of the international criminal court from a network-science perspective. J Complex Netw 4(4):616–634",
+            "journal-title": "J Complex Netw"
+          },
+          {
+            "key": "9255_CR60",
+            "unstructured": "Trompper M, Winkels R (2016) Automatic assignment of section structure to texts of Dutch court judgments. In: Legal knowledge and information systems"
+          },
+          {
+            "issue": "1",
+            "key": "9255_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "126",
+            "DOI": "10.1111/jels.12175",
+            "volume": "15",
+            "author": "G van Dijck",
+            "year": "2018",
+            "unstructured": "van Dijck G (2018) Victim-oriented tort law in action: an empirical examination of catholic church sexual abuse cases. J Empir Leg Stud 15(1):126–164",
+            "journal-title": "J Empir Leg Stud"
+          },
+          {
+            "key": "9255_CR61",
+            "first-page": "I",
+            "volume-title": "Foreword in ’methodologies of legal research’. European Academy of Legal Theory Series",
+            "author": "M Van Hoecke",
+            "year": "2011",
+            "unstructured": "Van Hoecke M (2011) Foreword in ’methodologies of legal research’. European Academy of Legal Theory Series. Hart Publishing, Oxford, pp I–IX"
+          },
+          {
+            "key": "9255_CR63",
+            "first-page": "89",
+            "volume-title": "In dienst van het recht: Opstellen aangeboden aan prof. mr. J.G. Brouwer ter gelegenheid van zijn afscheid als hoogleraar Algemene Rechtswetenschap aan de Rijksuniversiteit Groningen (Brouwer bundel)",
+            "author": "M Vols",
+            "year": "2017",
+            "unstructured": "Vols M, Jacobs J (2017) Juristen als rekenmeesters: Over de kwantitatieve analyse van jurisprudentie. In: van den Berg PAJ, Molier G (eds) In dienst van het recht: Opstellen aangeboden aan prof. mr. J.G. Brouwer ter gelegenheid van zijn afscheid als hoogleraar Algemene Rechtswetenschap aan de Rijksuniversiteit Groningen (Brouwer bundel). Boom Juridisch, Den Haag, pp 89–104"
+          },
+          {
+            "issue": "2",
+            "key": "9255_CR64",
+            "doi-asserted-by": "publisher",
+            "first-page": "148",
+            "DOI": "10.1108/IJLBE-08-2014-0021",
+            "volume": "7",
+            "author": "M Vols",
+            "year": "2015",
+            "unstructured": "Vols M, Tassenaar P, Jacobs J (2015) Anti-social behaviour and European protection against eviction. Int J Law Built Environ 7(2):148–161",
+            "journal-title": "Int J Law Built Environ"
+          },
+          {
+            "key": "9255_CR65",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Waltl B, Bonczek G, Scepankova E, Landthaler J, Matthes F (2017) Predicting the outcome of appeal decisions in Germany’s tax law. In: International conference on electronic participation. Springer, pp 89–99",
+            "DOI": "10.1007/978-3-319-64322-9_8"
+          },
+          {
+            "key": "9255_CR66",
+            "unstructured": "Whalen R (2016) Legal networks: the promises and challenges of legal network analysis. Mich State Law Rev 2016(539)"
+          },
+          {
+            "issue": "1",
+            "key": "9255_CR67",
+            "doi-asserted-by": "publisher",
+            "first-page": "37",
+            "DOI": "10.1093/hrlr/ngn033",
+            "volume": "9",
+            "author": "RC White",
+            "year": "2009",
+            "unstructured": "White RC, Boussiakou I (2009) Separate opinions in the European Court of Human Rights. Hum Rights Law Rev 9(1):37–60",
+            "journal-title": "Hum Rights Law Rev"
+          },
+          {
+            "key": "9255_CR68",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wongchaisuwat P, Klabjan D, McGinnis JO (2017) Predicting litigation likelihood and time to litigation for patents. In: Proceedings of the 16th edition of the international conference on articial intelligence and law. ACM, pp 257–260",
+            "DOI": "10.1145/3086512.3086545"
+          },
+          {
+            "key": "9255_CR69",
+            "doi-asserted-by": "publisher",
+            "first-page": "60",
+            "DOI": "10.1007/978-3-642-12837-0_4",
+            "volume-title": "Semantic processing of legal texts. Lecture notes in computer science",
+            "author": "A Wyner",
+            "year": "2010",
+            "unstructured": "Wyner A, Mochales-Palau R, Moens MF, Milward D (2010) Approaches to text mining arguments from legal cases. In: Francesconi E, Montemagni S, Peters W, Tiscornia D (eds) Semantic processing of legal texts. Lecture notes in computer science, vol 6036. Springer, Berlin, pp 60–79"
+          },
+          {
+            "key": "9255_CR70",
+            "unstructured": "Zhang AH, Liu J, Garoupa N (2017) Judging in Europe: do legal traditions matter? Available at SSRN: \n                  https://ssrn.com/abstract=3082854\n                  \n                . Accessed 24 June 2019"
+          }
+        ],
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s10506-019-09255-y.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/article/10.1007/s10506-019-09255-y/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/s10506-019-09255-y.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2020,
+              6,
+              26
+            ]
+          ],
+          "date-time": "2020-06-26T12:57:40Z",
+          "timestamp": 1593176260000
+        },
+        "score": 49.456352,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/s10506-019-09255-y"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              26
+            ]
+          ]
+        },
+        "references-count": 70,
+        "journal-issue": {
+          "issue": "2",
+          "published-print": {
+            "date-parts": [
+              [
+                2020,
+                6
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9255"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-019-09255-y",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              26
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "26 June 2019",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              6,
+              13
+            ]
+          ],
+          "date-time": "2026-06-13T19:35:32Z",
+          "timestamp": 1781379332897,
+          "version": "3.54.1"
+        },
+        "reference-count": 78,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-017"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-012"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  12,
+                  1
+                ]
+              ],
+              "date-time": "2023-12-01T00:00:00Z",
+              "timestamp": 1701388800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-004"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "International Review of Law and Economics"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.irle.2023.106167",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              10,
+              21
+            ]
+          ],
+          "date-time": "2023-10-21T07:15:30Z",
+          "timestamp": 1697872530000
+        },
+        "page": "106167",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "special_numbering": "C",
+        "title": [
+          "Non-compliance of the European Court of Human Rights decisions: A machine learning analysis"
+        ],
+        "prefix": "10.1016",
+        "volume": "76",
+        "author": [
+          {
+            "given": "Engin",
+            "family": "Yıldırım",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mehmet Fatih",
+            "family": "Sert",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Burcu",
+            "family": "Kartal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Şuayyip",
+            "family": "Çalış",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib1",
+            "article-title": "Predicting judicial decisions of the European Court of Human Rights: a natural language processing perspective",
+            "volume": "93",
+            "author": "Aletras",
+            "year": "2016",
+            "journal-title": "PeerJ Comput. Sci."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.irle.2023.106167_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1093/ejil/chu001",
+            "article-title": "Domestic implementation of human rights judgments in Europe: legal infrastructure and government effectiveness matter",
+            "volume": "25",
+            "author": "Anagnostou",
+            "year": "2014",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib3",
+            "series-title": "Grouping Multidimensional Data",
+            "article-title": "A Survey of Clustering Data Mining Techniques",
+            "author": "Berkhin",
+            "year": "2006"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Boser B.E., Guyon I.M., Vapnik V.N. (1992) A training algorithm for optimal margin classifiers. In: Haussler D (ed) Proceedings of the Annual Conference on Computational Learning Theory. ACM Press, Pittsburgh, PA, pp. 144–152.",
+            "DOI": "10.1145/130385.130401"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cali B., Wyss A. (2009) Why do democracies comply with human rights judgments? A comparative analysis of the UK, Ireland and Germany. 〈https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1462281〉.",
+            "DOI": "10.2139/ssrn.1462281"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib6",
+            "unstructured": "Council of Europe Committee of Ministers (2021). Supervision of the Execution of Judgments and Decisions of the European Court of Human Rights 2021 15th Annual Report of the Committee of Ministers, p.43. 〈https://rm.coe.int/2021-cm-annual-report-en/1680a60140〉."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1023/A:1022627411411",
+            "article-title": "Support vector networks",
+            "volume": "20",
+            "author": "Cortes",
+            "year": "1995",
+            "journal-title": "Mach. Learn."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1017/S002058931700001X",
+            "article-title": "Mission Impossible? Addressing Non-Execution Through Infringement Proceedings in The European Court of Human Rights",
+            "volume": "66",
+            "author": "De Londras",
+            "year": "2017",
+            "journal-title": "Int. Comp. Law Q."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib9",
+            "article-title": "The promise and pitfall of automated text-scaling techniques for the analysis of jurisprudential change",
+            "author": "Dyevre",
+            "year": "2020",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib10",
+            "unstructured": "European Court of Human Rights, Annual Report 2021, 〈https://www.echr.coe.int/Documents/Annual_report_2021_ENG.pdf〉. Accessed 02 April 2022."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1091",
+            "DOI": "10.1093/ejil/chy064",
+            "article-title": "Changing state behaviour: damages before the European Court of Human Rights",
+            "volume": "29",
+            "author": "Fikfak",
+            "year": "2018",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1007/s10506-013-9140-4",
+            "article-title": "Automatic deception detection in Italian court cases",
+            "volume": "21",
+            "author": "Fornaciari",
+            "year": "2013",
+            "journal-title": "Artif. İntell. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib13",
+            "series-title": "The Performance of International Courts and Tribunals",
+            "first-page": "324",
+            "article-title": "What Happens after a Judgment is Given? Judgment Compliance and the Performance of International Courts and Tribunals",
+            "author": "Giorgetti",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grewal S., Voeten E. (2012) The Politics of Implementing European Court of Human Rights Judgements. https://ssrn.com/abstract=1988258 or http://dx.doi.org/10.2139/ssrn.1988258. Accessed 19 January 2012.",
+            "DOI": "10.2139/ssrn.1988258"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1017/S0020818314000435",
+            "article-title": "Are new democracies better human rights compliers?",
+            "volume": "69",
+            "author": "Grewal",
+            "year": "2015",
+            "journal-title": "Int. Organ."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib16",
+            "series-title": "Research Handbook on Compliance in International Human Rights Law",
+            "first-page": "449",
+            "article-title": "A dialogue with the deaf? The political branches as compliance partners",
+            "author": "Grote",
+            "year": "2021"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib17",
+            "series-title": "Research Handbook on Compliance in International Human Rights Law",
+            "first-page": "510",
+            "article-title": "Conclusion: moving beyond compliance without neglecting compliance in international human rights law",
+            "author": "Grote",
+            "year": "2021"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib18",
+            "series-title": "Research Handbook on Compliance in International Human Rights Law",
+            "first-page": "1",
+            "article-title": "Compliance in international human rights law: issues, concept, methodology",
+            "author": "Grote",
+            "year": "2021"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib19",
+            "series-title": "Advances in Neural Information Processing Systems",
+            "first-page": "147",
+            "article-title": "Automatic capacity tuning of very large VC-dimension classifiers",
+            "volume": "5",
+            "author": "Guyon",
+            "year": "1993"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib20",
+            "series-title": "Multivariate data analysis: Pearson new international edition",
+            "author": "Hair",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib21",
+            "series-title": "Data mining: concepts and techniques",
+            "author": "Han",
+            "year": "2011"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "588",
+            "DOI": "10.1177/0022002707303046",
+            "article-title": "Why do countries commit to human rights treaties?",
+            "volume": "51",
+            "author": "Hathaway",
+            "year": "2007",
+            "journal-title": "J. Confl. Resolut."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib23",
+            "first-page": "62",
+            "article-title": "Text classification of ideological direction in judicial opinions",
+            "author": "Hausladen",
+            "year": "2020",
+            "journal-title": "Int. Rev. Law Econ."
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.irle.2023.106167_bib24",
+            "first-page": "35",
+            "article-title": "Partial compliance: a comparison of the European and Inter-American Courts of Human Rights",
+            "volume": "6",
+            "author": "Hawkins",
+            "year": "2010",
+            "journal-title": "J. Int. Law Int. Relat."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.irle.2023.106167_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.1093/ejil/chaa071",
+            "article-title": "Walking back Human Rights in Europe?",
+            "volume": "31",
+            "author": "Helfer",
+            "year": "2020",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.irle.2023.106167_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "881",
+            "DOI": "10.1016/j.cageo.2004.07.003",
+            "article-title": "A program to perform Ward's clustering method on several regionalized variables",
+            "volume": "30",
+            "author": "Hervada-Sala",
+            "year": "2004",
+            "journal-title": "Comput. Geosci."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.1007/s12142-012-0227-1",
+            "article-title": "Implementing International Human Rights Law at Home: domestic Politics and the European Court of Human Rights",
+            "volume": "13",
+            "author": "Hillebrecht",
+            "year": "2012",
+            "journal-title": "Hum. Rights Rev."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib28",
+            "first-page": "114",
+            "volume": "Vol. 104",
+            "author": "Hillebrecht",
+            "year": "2014"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1100",
+            "DOI": "10.1177/1354066113508591",
+            "article-title": "The power of human rights tribunals: compliance with the European Court of Human Rights and domestic policy change",
+            "volume": "20",
+            "author": "Hillebrecht",
+            "year": "2014",
+            "journal-title": "Eur. J. Int. Relat."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib30",
+            "series-title": "Research Handbook on the Politics of International Law",
+            "first-page": "27",
+            "article-title": "Compliance: actors, context and causal processes",
+            "author": "Hillebrecht",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib31",
+            "series-title": "The Oxford Handbook of International Adjudication",
+            "first-page": "438",
+            "article-title": "Compliance with judgments and decisions",
+            "author": "Huneeus",
+            "year": "2014"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "803",
+            "DOI": "10.1111/j.1747-4469.2012.01320.x",
+            "article-title": "Compliance: conceptualizing, measuring, and explaining adherence to judicial rulings",
+            "volume": "38",
+            "author": "Kapiszewski",
+            "year": "2013",
+            "journal-title": "Law Soc. Inq."
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib33",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0174698",
+            "article-title": "A general approach for predicting the behavior of the Supreme Court of the United States",
+            "volume": "12",
+            "author": "Katz",
+            "year": "2017",
+            "journal-title": "PLoS ONE"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1093/ejil/chv056",
+            "article-title": "Reconceptualizing implementation: the Judicialization of the Execution of the European Court of Human Rights’ Judgments",
+            "volume": "26",
+            "author": "Keller",
+            "year": "2015",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib35",
+            "first-page": "585",
+            "article-title": "The architecture of the Strasbourg System of Human Rights: The Crucial Role of the Domestic Level and the Constitutional Courts in Particular. Max-Planck-Institut für ausländisches öffentliches Recht und Völkerrecht",
+            "author": "Kosař",
+            "year": "2017",
+            "journal-title": "77 Heidelb. J. Int. Law (HJİL)"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "397",
+            "DOI": "10.1093/ejil/chy028",
+            "article-title": "Determinants of compliance difficulties among ‘Good Compliers’: implementation of International Human Rights Rulings in the Czech Republic",
+            "volume": "29",
+            "author": "Kosař",
+            "year": "2018",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib37",
+            "series-title": "How International Law Works in Times of Crisis",
+            "first-page": "255",
+            "article-title": "The Domestic Judiciary in the Architecture of the Strasbourg System of Human Rights",
+            "author": "Kosař",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib38",
+            "series-title": "Applied Predictive Modeling",
+            "author": "Kuhn",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib39",
+            "series-title": "Feature engineering and selection: A Practical Approach for Predictive Models",
+            "author": "Kuhn",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kuhn, H.W., Tucker, A.W. (1951) Nonlinear Programming. Proceedings of the 2nd Berkeley Symposium on Mathematics, Statistics and Probability, University of California Press, Berkeley, 481–492.",
+            "DOI": "10.1525/9780520411586-036"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1129",
+            "DOI": "10.1093/ejil/chz063",
+            "article-title": "Judging International Judgments Anew? The Human Rights Courts before Domestic Courts",
+            "volume": "30",
+            "author": "Kunz",
+            "year": "2019",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib42",
+            "series-title": "Research Handbook on Compliance in International Human Rights Law",
+            "first-page": "12",
+            "article-title": "Securing the survival of the system: the legal and institutional architecture to supervise compliance with the ECtHR’s judgments",
+            "author": "Kunz",
+            "year": "2021"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib43",
+            "unstructured": "Lage-Freitas, A., Allende-Cid, H., Santana, O., Oliveira-Lage, L. (2019). Predicting Brazilian court decisions. arXiv:1905.10348v1. https://arxiv.org/abs/1905.10348."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.irle.2023.106167_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "228",
+            "DOI": "10.1177/0924051919861844",
+            "article-title": "The European Court of Human Rights supervising the execution of its judgments",
+            "volume": "37",
+            "author": "Lize",
+            "year": "2019",
+            "journal-title": "Neth. Q. Hum. Rights"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.irle.2023.106167_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "719",
+            "DOI": "10.9790/3021-0204719725",
+            "article-title": "An overview on clustering methods",
+            "volume": "2",
+            "author": "Madhulatha",
+            "year": "2012",
+            "journal-title": "IOSR J. Eng."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1017/S1744552318000034",
+            "article-title": "Backlash against international courts: explaining the forms and patterns of resistance to international courts",
+            "volume": "14",
+            "author": "Madsen",
+            "year": "2018",
+            "journal-title": "Int. J. Law Context"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Maldonado, S., Weber, R. (2010). Feature selection for support vector regression via Kernel penalization. The 2010 International Joint Conference on Neural Networks (IJCNN), 1–7.",
+            "DOI": "10.1109/IJCNN.2010.5596488"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib48",
+            "first-page": "73",
+            "article-title": "National courts and judicial disobedience to the ECHR: a comparative overview",
+            "volume": "59",
+            "author": "Martinico",
+            "year": "2016",
+            "journal-title": "Shifting Cent. Gravity Hum. Rights Prot."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib49",
+            "article-title": "Feature selection for support vector regression using a genetic algorithm",
+            "author": "Mckearnan",
+            "year": "2021",
+            "journal-title": "Biostatistics"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "237",
+            "DOI": "10.1007/s10506-019-09255-y",
+            "article-title": "Using machine learning to predict decisions of the European Court of Human Rights",
+            "volume": "28",
+            "author": "Medvedeva",
+            "year": "2020",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "issue": "441–458",
+            "key": "10.1016/j.irle.2023.106167_bib51",
+            "first-page": "415",
+            "article-title": "Functions of positive and negative type and their connection with the theory of integral equations",
+            "volume": "209",
+            "author": "Mercer",
+            "year": "1909",
+            "journal-title": "Philos. Trans. R. Soc. A"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.irle.2023.106167_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/jhuman/huaa005",
+            "article-title": "Addressing the implementation crisis: securing reparation and righting wrongs",
+            "volume": "12",
+            "author": "Murray",
+            "year": "2020",
+            "journal-title": "J. Hum. Rights Pract."
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.irle.2023.106167_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "959",
+            "DOI": "10.1177/0010414019879944",
+            "article-title": "The dilemma of dissent: split judicial decisions and compliance with judgments from the international human rights judiciary",
+            "volume": "53",
+            "author": "Naurin",
+            "year": "2020",
+            "journal-title": "Comp. Political Stud."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib54",
+            "series-title": "Introduction to HPC with MPI for Data Science",
+            "first-page": "195",
+            "article-title": "Hierarchical Clustering",
+            "author": "Nielsen",
+            "year": "2016"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib55",
+            "unstructured": "O’Sullivan, C., Beel, J. (2019). Predicting the outcome of judicial decisions made by the European Court of Human Rights. In E. Curry, M. Keane, A. Ojo, & D. Salwala (Eds.), 27th AIAI Irish conference on artificial intelligence and cognitive science. Retrieved August 12, 2020, from 〈https://arxiv.org/ftp/arxiv/papers/1912/〉 1912.10819.pdf."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib56",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pernstein D., Kyle L. Marquardt, Eitan Tzelgov, Yi-ting Wang, Juraj Medzihorsky, Joshua Krusell, Farhad Miri, Johannes von Römer (2022), The V–Dem Measurement Model: Latent Variable Analysis for Cross-National and Cross-Temporal Expert-Coded Data, 〈https://v-dem.net/media/publications/Working_Paper_21.pdf〉.",
+            "DOI": "10.2139/ssrn.3799967"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.irle.2023.106167_bib57",
+            "first-page": "499",
+            "article-title": "Unpacking the Partnership: Typology of Constitutional Courts’ Roles in Implementation of the European Court of Human Rights’ Case Law",
+            "volume": "14",
+            "author": "Petrov",
+            "year": "2018",
+            "journal-title": "Eur. Const. Law Rev."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib58",
+            "unstructured": "Poertner M. (2013) Institutional Capacity for Compliance: Domestic Compliance with the Inter-American Court of Human Rights. In APSA 2013 Annual Meeting Paper, American Political Science Association 2013 Annual Meeting. SSRN: 〈https://ssrn.com/abstract=229976〉3."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib59",
+            "unstructured": "Schölkopf B., Burges C., Vapnik V. (1995) Extracting support data for a given task. In: Fayyad U M, Uthurusamy R (eds) Proceedings First İnternational Conference on Knowledge Discovery & Data Mining, Menlo Park, AAAI Press."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib60",
+            "series-title": "Assessing the Effectiveness of International Courts",
+            "author": "Shany",
+            "year": "2014"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib61",
+            "series-title": "The Performance of International courts and Tribunals",
+            "first-page": "114",
+            "article-title": "Performance of Regional Human Rights Courts",
+            "author": "Shelton",
+            "year": "2018"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.irle.2023.106167_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "753",
+            "DOI": "10.1093/ejil/chz047",
+            "article-title": "Implementing Decisions of International Human Rights Institutions – Evidence from the United Nations Human Rights Committee",
+            "volume": "30",
+            "author": "Shikhelman",
+            "year": "2019",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib63",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1023/B:STCO.0000035301.49549.88",
+            "article-title": "A tutorial on support vector regression",
+            "volume": "14",
+            "author": "Smola",
+            "year": "2004",
+            "journal-title": "Stat. Comput."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib64",
+            "series-title": "Essentials of Multivariate Data Analysis",
+            "author": "Spencer",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib65",
+            "unstructured": "Stafford G. (2019a) The Implementation of Judgments of the European Court of Human Rights: Worse Than You Think – Part 1: Grade Inflation. 〈https://www.ejiltalk.org/the-implementation-of-judgments-of-the-european-court-of-human-rights-worse-than-you-think-part-1-grade-inflation〉. Accessed 7 October 2019."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib66",
+            "unstructured": "Stafford G. (2019b) The Implementation of Judgments of the European Court of Human Rights: Worse Than You Think – Part 2: The Hole in the Roof. 〈https://www.ejiltalk.org/the-implementation-of-judgments-of-the-european-court-of-human-rights-worse-than-you-think-part-2-the-hole-in-the-roof〉. Accessed 8 October 2019."
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.irle.2023.106167_bib67",
+            "doi-asserted-by": "crossref",
+            "first-page": "504",
+            "DOI": "10.1111/j.1540-5907.2008.00326.x",
+            "article-title": "The Value of Vagueness: Delegation, Defiance, and Judicial Opinions",
+            "volume": "52",
+            "author": "Staton",
+            "year": "2008",
+            "journal-title": "Am. J. Political Sci."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.irle.2023.106167_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "899",
+            "DOI": "10.1017/S0007123419000292",
+            "article-title": "Directing Compliance? Remedial Approach and Compliance with European Court of Human Rights Judgments",
+            "volume": "51",
+            "author": "Stiansen",
+            "year": "2021",
+            "journal-title": "Br. J. Political Sci."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "770",
+            "DOI": "10.1093/isq/sqaa047",
+            "article-title": "Backlash and Judicial Restraint: Evidence from the European Court of Human Rights",
+            "volume": "64",
+            "author": "Stiansen",
+            "year": "2020",
+            "journal-title": "Int. Stud. Q."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib70",
+            "series-title": "A Europe of Rights: The Impact of the ECHR on National Legal Systems",
+            "first-page": "3",
+            "article-title": "The Reception of the ECHR in National Legal Orders",
+            "author": "Stone Sweet",
+            "year": "2008"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib71",
+            "unstructured": "Sulea, O.M., Zampieri, M.,Malmasi, S., Vela, M., Dinu, L.P., Genabith, J. (2017). Exploring the use of text classification in the legal domain. In K. D. Ashley, K. Atkinson, L. K. Branting, E. Francesconi, M. Grabmair, M. Lauritsen, V. R. Walker, & A. Z. Wyner (Eds.), Proceedings of 2nd workshop on automated semantic analysis of information in legal texts (ASAIL). Retrieved August 15, 2020, from https://arxiv.org/ pdf/1710.09306.pdf."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib72",
+            "series-title": "The Nature of Statistical Learning Theory",
+            "author": "Vapnik",
+            "year": "1995"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib73",
+            "series-title": "Advances in Neural Information Processing Systems 9",
+            "first-page": "281",
+            "article-title": "Support vector method for function approximation, regression estimation, and signal processing",
+            "author": "Vapnik",
+            "year": "1997"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.irle.2023.106167_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1093/ejil/chu004",
+            "article-title": "Domestic Implementation of European Court of Human Rights Judgments: Legal Infrastructure and Government Effectiveness Matter: A Reply to Dia Anagnostou and Alina Mungiu-Pippidi",
+            "volume": "25",
+            "author": "Voeten",
+            "year": "2014",
+            "journal-title": "Eur. J. Int. Law"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib75",
+            "series-title": "Strategies of Compliance with the European Court of Human Rights: Rational Choice within Normative Constraints",
+            "author": "Von Staden",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib76",
+            "series-title": "Clustering",
+            "author": "Xu",
+            "year": "2009"
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1023/A:1009783824328",
+            "article-title": "BIRCH: a new data clustering algorithm and its applications",
+            "volume": "1",
+            "author": "Zhang",
+            "year": "1997",
+            "journal-title": "Data Min. Knowl. Discov."
+          },
+          {
+            "key": "10.1016/j.irle.2023.106167_bib78",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhao H.X., Magoules F. (2011) Feature selection for support vector regression in the application of building energy prediction. 9th IEEE İnternational Symposium on Applied Machine İntelligence and Informatics (SAMI 2011), Jan 2011, Smolenice, Slovakia. hal-00617937.",
+            "DOI": "10.1109/SAMI.2011.5738878"
+          }
+        ],
+        "container-title": [
+          "International Review of Law and Economics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0144818823000455?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0144818823000455?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              9,
+              26
+            ]
+          ],
+          "date-time": "2025-09-26T23:14:48Z",
+          "timestamp": 1758928488000
+        },
+        "score": 38.312057,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0144818823000455"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        },
+        "references-count": 78,
+        "alternative-id": [
+          "S0144818823000455"
+        ],
+        "URL": "https://doi.org/10.1016/j.irle.2023.106167",
+        "ISSN": [
+          "0144-8188"
+        ],
+        "issn-type": [
+          {
+            "value": "0144-8188",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              12
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Non-compliance of the European Court of Human Rights decisions: A machine learning analysis",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "International Review of Law and Economics",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.irle.2023.106167",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2023 Elsevier Inc. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "106167"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              6
+            ]
+          ],
+          "date-time": "2025-03-06T22:51:26Z",
+          "timestamp": 1741301486748,
+          "version": "3.38.0"
+        },
+        "reference-count": 0,
+        "publisher": "Walter de Gruyter GmbH",
+        "issue": "7-8",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Hum Rights Case Dig"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "DOI": "10.1163/157181302129671808",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2004,
+              3,
+              22
+            ]
+          ],
+          "date-time": "2004-03-22T17:18:12Z",
+          "timestamp": 1079975892000
+        },
+        "page": "685-841",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "European Court of Human Rights: Summaries of Decisions"
+        ],
+        "prefix": "10.1163",
+        "volume": "13",
+        "member": "374",
+        "container-title": [
+          "Human Rights Case Digest"
+        ],
+        "link": [
+          {
+            "URL": "https://brill.com/view/journals/hudi/13/7-8/article-p685.xml",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              6,
+              5
+            ]
+          ],
+          "date-time": "2019-06-05T03:47:09Z",
+          "timestamp": 1559706429000
+        },
+        "score": 36.338085,
+        "resource": {
+          "primary": {
+            "URL": "https://brill.com/view/journals/hudi/13/7-8/article-p685.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "7-8"
+        },
+        "URL": "https://doi.org/10.1163/157181302129671808",
+        "ISSN": [
+          "0965-934X",
+          "1571-8131"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "0965-934X"
+          },
+          {
+            "type": "electronic",
+            "value": "1571-8131"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

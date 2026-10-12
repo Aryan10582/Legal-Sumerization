@@ -1,0 +1,20 @@
+{
+  "Final_Report": {
+    "docx_bytes": 195430,
+    "pdf_bytes": 356359,
+    "docx_sha256": "2e535c62866854f16b5a165f5cb37345c3b65b583785e24a6d6896d91235f116",
+    "pdf_sha256": "b103f76fbd53bd2fdcf1b1045ab5778d0c530c9fb39daf7c4cdde36d25c7c170",
+    "pages": 5,
+    "cover_student_rows": 3,
+    "page_size": "US Letter 612 x 792 pt"
+  },
+  "Initial_Problem_Statement": {
+    "docx_bytes": 93120,
+    "pdf_bytes": 195288,
+    "docx_sha256": "498ecff7606d4a4e38dcb9d8c4df8d9618c779738590785a71bcd5ffb177dbbd",
+    "pdf_sha256": "474297f244fd952fd178cd6255b1dd1a298f7dc4d8f81e1ec040e70a6454a97d",
+    "pages": 2,
+    "cover_student_rows": 3,
+    "page_size": "US Letter 612 x 792 pt"
+  }
+}

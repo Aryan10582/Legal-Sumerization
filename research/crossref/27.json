@@ -1,0 +1,1307 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5188510,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2026-09-17T18:43:38Z",
+          "timestamp": 1789670618815,
+          "version": "4.0.1"
+        },
+        "reference-count": 71,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  6,
+                  26
+                ]
+              ],
+              "date-time": "2024-06-26T00:00:00Z",
+              "timestamp": 1719360000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  6,
+                  26
+                ]
+              ],
+              "date-time": "2024-06-26T00:00:00Z",
+              "timestamp": 1719360000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Many countries employ systemic methods of protecting consumers from unfair business practices. One such practice is the use of abusive clauses in business-to-consumer (B2C) contracts, which unfairly impose additional obligations on the consumer or deprive them of their due rights. This article presents an information system that utilizes artificial intelligence methods to automate contract analysis and to detect abusive clauses. The goal of the system is to support the entire administrative process, from contract acquisition, through text extraction and the recommendation of potentially abusive clauses, to the generation of official administrative documents that can be sent to court or to the owners of firms. This article focuses on the components that use machine learning methods. The first is an intelligent crawler that is responsible for automatically detecting contract templates on websites and retrieving them into the system. The second is a document analysis module that implements a clause recommendation algorithm. The algorithm employs transformer-based language models and information retrieval methods to identify abusive passages in text. Our solution achieved first place in a competition on the automatic analysis of B2C contracts organized by the Polish Office of Competition and Consumer Protection (UOKiK), and has since been implemented as an official tool to support the contract analysis process in Poland.</jats:p>",
+        "DOI": "10.1007/s10506-024-09408-8",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              26
+            ]
+          ],
+          "date-time": "2024-06-26T06:06:56Z",
+          "timestamp": 1719382016000
+        },
+        "page": "913-951",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "A support system for the detection of abusive clauses in B2C contracts"
+        ],
+        "prefix": "10.1007",
+        "volume": "33",
+        "author": [
+          {
+            "given": "Sławomir",
+            "family": "Dadas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Marek",
+            "family": "Kozłowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rafał",
+            "family": "Poświata",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michał",
+            "family": "Perełkiewicz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Marcin",
+            "family": "Białas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Małgorzata",
+            "family": "Grębowiec",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              26
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9408_CR1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/app122010200",
+            "author": "OA Alcántara Francia",
+            "year": "2022",
+            "unstructured": "Alcántara Francia OA, Nunez-del-Prado M, Alatrista-Salas H (2022) Survey of text mining techniques applied to judicial decisions prediction. Appl Sci. https://doi.org/10.3390/app122010200",
+            "journal-title": "Appl Sci"
+          },
+          {
+            "key": "9408_CR2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/math10050683",
+            "author": "D Alghazzawi",
+            "year": "2022",
+            "unstructured": "Alghazzawi D, Bamasag O, Albeshri A, Sana I, Ullah H, Asghar MZ (2022) Efficient prediction of court judgments using an lstm+cnn neural network model with an optimal feature set. Mathematics. https://doi.org/10.3390/math10050683",
+            "journal-title": "Mathematics"
+          },
+          {
+            "issue": "5",
+            "key": "9408_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "2141",
+            "DOI": "10.1016/j.jksuci.2019.11.015",
+            "volume": "34",
+            "author": "D Anand",
+            "year": "2022",
+            "unstructured": "Anand D, Wagh R (2022) Effective deep learning approaches for summarization of legal texts. J King Saud Univ Comput Inf Sci 34(5):2141–2150. https://doi.org/10.1016/j.jksuci.2019.11.015",
+            "journal-title": "J King Saud Univ Comput Inf Sci"
+          },
+          {
+            "key": "9408_CR4",
+            "unstructured": "Apache PDFBox, a Java PDF Library (2002). https://pdfbox.apache.org/"
+          },
+          {
+            "key": "9408_CR5",
+            "unstructured": "Apache Tika (2007) Apache Software Foundation. https://tika.apache.org/"
+          },
+          {
+            "key": "9408_CR6",
+            "unstructured": "Ustawa z dnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. z 2023 r. poz. 1610 t.j.)"
+          },
+          {
+            "issue": "1",
+            "key": "9408_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1086/674424",
+            "volume": "43",
+            "author": "Y Bakos",
+            "year": "2014",
+            "unstructured": "Bakos Y, Marotta-Wurgler F, Trossen DR (2014) Does anyone read the fine print? Consumer attention to standard-form contracts. J Legal Stud 43(1):1–35",
+            "journal-title": "J Legal Stud"
+          },
+          {
+            "key": "9408_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Hiware K, Rajgaria S, Pochhi N, Ghosh K, Ghosh S (2019) A comparative study of summarization algorithms applied to legal case judgments. In: European conference on information retrieval. Springer, pp 413–428",
+            "DOI": "10.1007/978-3-030-15712-8_27"
+          },
+          {
+            "key": "9408_CR9",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Bhattacharya P, Poddar S, Rudra K, Ghosh K, Ghosh S (2021) Incorporating domain knowledge for extractive summarization of legal case documents, pp 22–31. https://doi.org/10.1145/3462757.3466092",
+            "DOI": "10.1145/3462757.3466092"
+          },
+          {
+            "key": "9408_CR10",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Bowman SR, Angeli G, Potts C, Manning CD (2015) A large annotated corpus for learning natural language inference. In: Proceedings of the 2015 conference on empirical methods in natural language processing. Association for Computational Linguistics, Lisbon, Portugal, pp 632–642. https://doi.org/10.18653/v1/D15-1075",
+            "DOI": "10.18653/v1/D15-1075"
+          },
+          {
+            "key": "9408_CR11",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Chalkidis I, Fergadiotis M, Malakasiotis P, Aletras N, Androutsopoulos I (2020) LEGAL-BERT: the muppets straight out of law school. In: Findings of the association for computational linguistics: EMNLP 2020. Association for Computational Linguistics, Online, pp 2898–2904. https://doi.org/10.18653/v1/2020.findings-emnlp.261",
+            "DOI": "10.18653/v1/2020.findings-emnlp.261"
+          },
+          {
+            "key": "9408_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dadas S (2022) Training effective neural sentence encoders from automatically mined paraphrases. In: 2022 IEEE international conference on systems, man, and cybernetics (SMC). IEEE, pp 371–378",
+            "DOI": "10.1109/SMC53654.2022.9945218"
+          },
+          {
+            "key": "9408_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dadas S, Perełkiewicz M, Poświata R (2020) Pre-training polish transformer-based language models at scale. In: Artificial intelligence and soft computing: 19th international conference, ICAISC 2020, Zakopane, Poland, Oct 12–14, 2020, proceedings, Part II 19. Springer, pp 301–314",
+            "DOI": "10.1007/978-3-030-61534-5_27"
+          },
+          {
+            "issue": "1",
+            "key": "9408_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "211",
+            "DOI": "10.1017/S1351324918000475",
+            "volume": "25",
+            "author": "R Dale",
+            "year": "2019",
+            "unstructured": "Dale R (2019) Law and word order: NLP in legal tech. Nat Lang Eng 25(1):211–217. https://doi.org/10.1017/S1351324918000475",
+            "journal-title": "Nat Lang Eng"
+          },
+          {
+            "key": "9408_CR15",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Devlin J, Chang M-W, Lee K, Toutanova K (2019) BERT: pre-training of deep bidirectional transformers for language understanding. In: Proceedings of the 2019 conference of the North American chapter of the association for computational linguistics: human language technologies, vol 1 (long and short papers). Association for Computational Linguistics, Minneapolis, Minnesota, pp 4171–4186. https://doi.org/10.18653/v1/N19-1423",
+            "DOI": "10.18653/v1/N19-1423"
+          },
+          {
+            "key": "9408_CR16",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Douka S, Abdine H, Vazirgiannis M, El Hamdani R, Restrepo Amariles D (2021) JuriBERT: a masked-language model adaptation for French legal text. In: Proceedings of the natural legal language processing workshop 2021. Association for Computational Linguistics, Punta Cana, Dominican Republic, pp 95–101. https://doi.org/10.18653/v1/2021.nllp-1.9",
+            "DOI": "10.18653/v1/2021.nllp-1.9"
+          },
+          {
+            "key": "9408_CR17",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Drawzeski K, Galassi A, Jablonowska A, Lagioia F, Lippi M, Micklitz HW, Sartor G, Tagiuri G, Torroni P (2021) A corpus for multilingual analysis of online terms of service. In: Proceedings of the natural legal language processing workshop 2021. Association for Computational Linguistics, Punta Cana, Dominican Republic, pp 1–8. https://doi.org/10.18653/v1/2021.nllp-1.1",
+            "DOI": "10.18653/v1/2021.nllp-1.1"
+          },
+          {
+            "key": "9408_CR18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10506-021-09305-4",
+            "author": "D Feijo",
+            "year": "2021",
+            "unstructured": "Feijo D, Moreira V (2021) Improving abstractive summarization of legal rulings through textual entailment. Artif Intell Law. https://doi.org/10.1007/s10506-021-09305-4",
+            "journal-title": "Artif Intell Law"
+          },
+          {
+            "key": "9408_CR19",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Galassi A, Drazewski K, Lippi M, Torroni P (2020) Cross-lingual annotation projection in legal texts. In: Proceedings of the 28th international conference on computational linguistics. International Committee on Computational Linguistics, Barcelona, Spain (Online), pp 915–926. https://doi.org/10.18653/v1/2020.coling-main.79",
+            "DOI": "10.18653/v1/2020.coling-main.79"
+          },
+          {
+            "key": "9408_CR20",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Gao T, Yao X, Chen D (2021) SimCSE: simple contrastive learning of sentence embeddings. In: Moens M-F, Huang X, Specia L, Yih SW (eds) Proceedings of the 2021 conference on empirical methods in natural language processing. Association for Computational Linguistics, Online and Punta Cana, Dominican Republic, pp 6894–6910. https://doi.org/10.18653/v1/2021.emnlp-main.552. https://aclanthology.org/2021.emnlp-main.552",
+            "DOI": "10.18653/v1/2021.emnlp-main.552"
+          },
+          {
+            "key": "9408_CR21",
+            "unstructured": "Henderson M, Al-Rfou R, Strope B, Sung Y-H, Lukács L, Guo R, Kumar S, Miklos B, Kurzweil R (2017) Efficient natural language response suggestion for smart reply. arXiv:1705.00652"
+          },
+          {
+            "key": "9408_CR22",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Jablonowska A, Lagioia F, Lippi M, Micklitz H, Sartor G, Tagiuri G (2021) Assessing the cross-market generalization capability of the CLAUDETTE system. In: Schweighofer E (ed) Legal knowledge and information systems—JURIX 2021: the thirty-fourth annual conference, Vilnius, Lithuania, 8–10 December. Frontiers in artificial intelligence and applications, vol 346. IOS Press, Lithuania, pp 62–67. https://doi.org/10.3233/FAIA210318",
+            "DOI": "10.3233/FAIA210318"
+          },
+          {
+            "issue": "2021",
+            "key": "9408_CR23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cosrev.2021.100388",
+            "volume": "40",
+            "author": "D Jain",
+            "year": "2021",
+            "unstructured": "Jain D, Borah M, Biswas A (2021) Summarization of legal documents: where are we now and the way forward. Comput Sci Rev 40(2021):100388. https://doi.org/10.1016/j.cosrev.2021.100388",
+            "journal-title": "Comput Sci Rev"
+          },
+          {
+            "issue": "3",
+            "key": "9408_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "535",
+            "DOI": "10.1109/TBDATA.2019.2921572",
+            "volume": "7",
+            "author": "J Johnson",
+            "year": "2019",
+            "unstructured": "Johnson J, Douze M, Jégou H (2019) Billion-scale similarity search with gpus. IEEE Trans Big Data 7(3):535–547",
+            "journal-title": "IEEE Trans Big Data"
+          },
+          {
+            "key": "9408_CR25",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Klaus S, Van Hecke R, Djafari Naini K, Altingovde IS, Bernabé-Moreno J, Herrera-Viedma E (2022) Summarizing legal regulatory documents using transformers. In: Proceedings of the 45th international ACM SIGIR conference on research and development in information retrieval. SIGIR ’22. Association for Computing Machinery, New York, NY, USA, pp 2426–2430. https://doi.org/10.1145/3477495.3531872",
+            "DOI": "10.1145/3477495.3531872"
+          },
+          {
+            "issue": "3",
+            "key": "9408_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "481",
+            "DOI": "10.1007/s10603-022-09520-9",
+            "volume": "45",
+            "author": "F Lagioia",
+            "year": "2022",
+            "unstructured": "Lagioia F, Jabłonowska A, Liepina R, Drazewski K (2022) AI in search of unfairness in consumer contracts: the terms of service landscape. J Consum Policy 45(3):481–536. https://doi.org/10.1007/s10603-022-09520-9",
+            "journal-title": "J Consum Policy"
+          },
+          {
+            "key": "9408_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lewis M, Liu Y, Goyal N, Ghazvininejad M, Mohamed A, Levy O, Stoyanov V, Zettlemoyer L (2019) BART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. CoRR arXiv:1910.13461",
+            "DOI": "10.18653/v1/2020.acl-main.703"
+          },
+          {
+            "key": "9408_CR28",
+            "unstructured": "Liepina R, Contissa G, Drazewski K, Lagioia F, Lippi M, Micklitz H, Palka P, Sartor G, Torroni P (2019) GDPR privacy policies in CLAUDETTE: challenges of omission, context and multilingualism. In: Ashley KD, Atkinson K, Branting LK, Francesconi E, Grabmair M, Waltl B, Walker VR, Wyner AZ (eds) Proceedings of the third workshop on automated semantic analysis of information in legal texts co-located with the 17th international conference on artificial intelligence and law (ICAIL 2019), Montreal, QC, Canada, June 21, 2019. CEUR workshop proceedings, vol 2385. CEUR-WS.org, Canada. https://ceur-ws.org/Vol-2385/paper9.pdf"
+          },
+          {
+            "key": "9408_CR29",
+            "unstructured": "Liepiņa R, Ruggeri F, Lagioia F, Lippi M, Drazewski K, Torroni P (2020) Explaining potentially unfair clauses to the consumer with the Claudette tool. In: NLLP@KDD"
+          },
+          {
+            "key": "9408_CR30",
+            "unstructured": "Lin C-Y (2004) ROUGE: a package for automatic evaluation of summaries. In: Text summarization branches out. Association for Computational Linguistics, Barcelona, Spain, pp 74–81. https://aclanthology.org/W04-1013"
+          },
+          {
+            "key": "9408_CR31",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Lippi M, Palka P, Contissa G, Lagioia F, Micklitz HW, Panagis Y, Sartor G, Torroni P (2017) Automated detection of unfair clauses in online consumer contracts, vol 302, pp 145–154. https://doi.org/10.3233/978-1-61499-838-9-145",
+            "DOI": "10.3233/978-1-61499-838-9-145"
+          },
+          {
+            "issue": "2",
+            "key": "9408_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "117",
+            "DOI": "10.1007/s10506-019-09243-2",
+            "volume": "27",
+            "author": "M Lippi",
+            "year": "2019",
+            "unstructured": "Lippi M, Pałka P, Contissa G, Lagioia F, Micklitz H-W, Sartor G, Torroni P (2019a) CLAUDETTE: an automated detector of potentially unfair clauses in online terms of service. Artif Intell Law 27(2):117–139. https://doi.org/10.1007/s10506-019-09243-2",
+            "journal-title": "Artif Intell Law"
+          },
+          {
+            "key": "9408_CR33",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1038/s42256-019-0042-3",
+            "volume": "1",
+            "author": "M Lippi",
+            "year": "2019",
+            "unstructured": "Lippi M, Contissa G, Lagioia F, Micklitz H-W, Palka P, Sartor G, Torroni P (2019b) Consumer protection requires artificial intelligence. Nat Mach Intell 1:1. https://doi.org/10.1038/s42256-019-0042-3",
+            "journal-title": "Nat Mach Intell"
+          },
+          {
+            "key": "9408_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "169",
+            "DOI": "10.1613/jair.1.11519",
+            "volume": "67",
+            "author": "M Lippi",
+            "year": "2020",
+            "unstructured": "Lippi M, Contissa G, Jablonowska A, Lagioia F, Micklitz H-W, Palka P, Sartor G, Torroni P (2020) The force awakens: artificial intelligence for consumer law. J Artif Intell Res 67:169–190. https://doi.org/10.1613/jair.1.11519",
+            "journal-title": "J Artif Intell Res"
+          },
+          {
+            "issue": "5",
+            "key": "9408_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "594",
+            "DOI": "10.1177/0165551517722741",
+            "volume": "44",
+            "author": "Y-H Liu",
+            "year": "2018",
+            "unstructured": "Liu Y-H, Chen Y-L (2018) A two-phase sentiment analysis approach for judgement prediction. J Inf Sci 44(5):594–607. https://doi.org/10.1177/0165551517722741",
+            "journal-title": "J Inf Sci"
+          },
+          {
+            "key": "9408_CR36",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Liu C-L, Chen K-C (2019) Extracting the gist of Chinese judgments of the supreme court. In: Proceedings of the seventeenth international conference on artificial intelligence and law. ICAIL ’19. Association for Computing Machinery, New York, NY, USA, pp 73–82. https://doi.org/10.1145/3322640.3326715",
+            "DOI": "10.1145/3322640.3326715"
+          },
+          {
+            "key": "9408_CR37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu Y, Lapata M (2019) Text summarization with pretrained encoders. CoRR arXiv:1908.08345",
+            "DOI": "10.18653/v1/D19-1387"
+          },
+          {
+            "key": "9408_CR38",
+            "unstructured": "Liu Y, Ott M, Goyal N, Du J, Joshi M, Chen D, Levy O, Lewis M, Zettlemoyer L, Stoyanov V (2019) Roberta: a robustly optimized bert pretraining approach. arXiv:1907.11692"
+          },
+          {
+            "key": "9408_CR39",
+            "unstructured": "Loshchilov I, Hutter F (2017) Decoupled weight decay regularization. In: International conference on learning representations"
+          },
+          {
+            "issue": "3",
+            "key": "9408_CR40",
+            "doi-asserted-by": "publisher",
+            "first-page": "367",
+            "DOI": "10.1007/s10603-017-9353-0",
+            "volume": "40",
+            "author": "H-W Micklitz",
+            "year": "2017",
+            "unstructured": "Micklitz H-W, Pałka P, Panagis Y (2017) The empire strikes back: digital control of unfair terms of online services. J Consum Policy 40(3):367–388. https://doi.org/10.1007/s10603-017-9353-0",
+            "journal-title": "J Consum Policy"
+          },
+          {
+            "key": "9408_CR41",
+            "unstructured": "Mills M, Uebergang J (2017) Precedent (Sydney, N.S.W.) (139), pp 35–38"
+          },
+          {
+            "key": "9408_CR42",
+            "unstructured": "Min B, Ross H, Sulem E, Veyseh APB, Nguyen TH, Sainz O, Agirre E, Heintz I, Roth D (2021) Recent advances in natural language processing via large pre-trained language models: a survey. ACM Computing Surveys"
+          },
+          {
+            "key": "9408_CR43",
+            "doi-asserted-by": "publisher",
+            "first-page": "99",
+            "DOI": "10.1017/9781316529683.011",
+            "volume-title": "Legal informatics",
+            "author": "JJ Nay",
+            "year": "2021",
+            "unstructured": "Nay JJ (2021) Natural language processing for legal texts. In: Katz DM, Dolin R, Bommarito MJE (eds) Legal informatics. Cambridge University Press, Cambridge, pp 99–113. https://doi.org/10.1017/9781316529683.011"
+          },
+          {
+            "issue": "1",
+            "key": "9408_CR44",
+            "doi-asserted-by": "publisher",
+            "first-page": "128",
+            "DOI": "10.1080/1369118X.2018.1486870",
+            "volume": "23",
+            "author": "JA Obar",
+            "year": "2020",
+            "unstructured": "Obar JA, Oeldorf-Hirsch A (2020) The biggest lie on the internet: ignoring the privacy policies and terms of service policies of social networking services. Inf Commun Soc 23(1):128–147",
+            "journal-title": "Inf Commun Soc"
+          },
+          {
+            "key": "9408_CR45",
+            "unstructured": "Oord Avd, Li Y, Vinyals O (2018) Representation learning with contrastive predictive coding. arXiv preprint arXiv:1807.03748"
+          },
+          {
+            "key": "9408_CR46",
+            "unstructured": "OpenAI R (2023) Gpt-4 technical report. arXiv:2303-08774"
+          },
+          {
+            "key": "9408_CR47",
+            "volume-title": "Research handbook on big data law",
+            "author": "P Pałka",
+            "year": "2020",
+            "unstructured": "Pałka P, Lippi M (2020) Big data analytics, online terms of service and privacy policies. In: Vogl R (ed) Research handbook on big data law. Edward Elgar Publishing, London"
+          },
+          {
+            "issue": "14",
+            "key": "9408_CR48",
+            "doi-asserted-by": "publisher",
+            "first-page": "8085",
+            "DOI": "10.3390/su13148085",
+            "volume": "13",
+            "author": "S-H Park",
+            "year": "2021",
+            "unstructured": "Park S-H, Lee D-G, Park J-S, Kim J-W (2021) A survey of research on data analytics-based legal tech. Sustainability 13(14):8085. https://doi.org/10.3390/su13148085",
+            "journal-title": "Sustainability"
+          },
+          {
+            "key": "9408_CR49",
+            "first-page": "2825",
+            "volume": "12",
+            "author": "F Pedregosa",
+            "year": "2011",
+            "unstructured": "Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, Blondel M, Prettenhofer P, Weiss R, Dubourg V, Vanderplas J, Passos A, Cournapeau D, Brucher M, Perrot M, Duchesnay E (2011) Scikit-learn: machine learning in Python. J Mach Learn Res 12:2825–2830",
+            "journal-title": "J Mach Learn Res"
+          },
+          {
+            "key": "9408_CR50",
+            "unstructured": "Polsley S, Jhunjhunwala P, Huang R (2016) CaseSummarizer: a system for automated summarization of legal texts. In: Proceedings of COLING 2016, the 26th international conference on computational linguistics: system demonstrations. The COLING 2016 Organizing Committee, Osaka, Japan, pp 258–262"
+          },
+          {
+            "issue": "10",
+            "key": "9408_CR51",
+            "doi-asserted-by": "publisher",
+            "first-page": "1872",
+            "DOI": "10.1007/s11431-020-1647-3",
+            "volume": "63",
+            "author": "X Qiu",
+            "year": "2020",
+            "unstructured": "Qiu X, Sun T, Xu Y, Shao Y, Dai N, Huang X (2020) Pre-trained models for natural language processing: A survey. Science China Technological Sciences 63(10):1872–1897",
+            "journal-title": "Science China Technological Sciences"
+          },
+          {
+            "key": "9408_CR52",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Rajapaksha I, Ruchini C, Karunarathna D, de Silva N, Perera A, Ratnayaka G (2021) Sigmalaw PBSA: a deep learning model for aspect-based sentiment analysis for the legal domain, pp 125–137. https://doi.org/10.1007/978-3-030-86472-9_12",
+            "DOI": "10.1007/978-3-030-86472-9_12"
+          },
+          {
+            "key": "9408_CR53",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Reimers N, Gurevych I (2019) Sentence-BERT: sentence embeddings using Siamese BERT-networks. In: Proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language processing (EMNLP-IJCNLP). Association for Computational Linguistics, Hong Kong, China, pp 3982–3992. https://doi.org/10.18653/v1/D19-1410",
+            "DOI": "10.18653/v1/D19-1410"
+          },
+          {
+            "key": "9408_CR54",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Reimers N, Gurevych I (2020) Making monolingual sentence embeddings multilingual using knowledge distillation. In: Proceedings of the 2020 conference on empirical methods in natural language processing (EMNLP), pp 4512–4525. Association for Computational Linguistics, Online. https://doi.org/10.18653/v1/2020.emnlp-main.365",
+            "DOI": "10.18653/v1/2020.emnlp-main.365"
+          },
+          {
+            "key": "9408_CR55",
+            "unstructured": "Rodriguez-Yong CA (2011) The doctrines of unconscionability and abusive clauses: a common point between civil and common law legal traditions. In: Oxford University comparative law forum. Oxford University Comparative Law Forum"
+          },
+          {
+            "key": "9408_CR56",
+            "doi-asserted-by": "publisher",
+            "first-page": "1091",
+            "DOI": "10.11591/ijai.v10.i4.pp1091-1102",
+            "volume": "10",
+            "author": "N Rosili",
+            "year": "2021",
+            "unstructured": "Rosili N, Hassan R, Zakaria N, Kasim S, Rose F, Sutikno T (2021) A systematic literature review of machine learning methods in predicting court decisions. IAES Int J Artif Intell 10:1091. https://doi.org/10.11591/ijai.v10.i4.pp1091-1102",
+            "journal-title": "IAES Int J Artif Intell"
+          },
+          {
+            "key": "9408_CR57",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Ruchini C, Karunarathna D, Rajapaksha I, de Silva N, Ratnayaka G, Perera A, Pathirana R (2020) SigmaLaw-ABSA: dataset for aspect-based sentiment analysis in legal opinion texts, pp 488–493. https://doi.org/10.1109/ICIIS51140.2020.9342650",
+            "DOI": "10.1109/ICIIS51140.2020.9342650"
+          },
+          {
+            "issue": "1",
+            "key": "9408_CR58",
+            "doi-asserted-by": "publisher",
+            "first-page": "59",
+            "DOI": "10.1007/s10506-021-09288-2",
+            "volume": "30",
+            "author": "F Ruggeri",
+            "year": "2022",
+            "unstructured": "Ruggeri F, Lagioia F, Lippi M, Torroni P (2022) Detecting and explaining unfairness in consumer contracts through memory networks. Artif Intell Law 30(1):59–92. https://doi.org/10.1007/s10506-021-09288-2",
+            "journal-title": "Artif Intell Law"
+          },
+          {
+            "key": "9408_CR59",
+            "doi-asserted-by": "publisher",
+            "first-page": "5795189",
+            "DOI": "10.1155/2022/5795189",
+            "volume": "2022",
+            "author": "X Shang",
+            "year": "2022",
+            "unstructured": "Shang X (2022) A computational intelligence model for legal prediction and decision support. Comput Intell Neurosci 2022:5795189",
+            "journal-title": "Comput Intell Neurosci"
+          },
+          {
+            "key": "9408_CR60",
+            "doi-asserted-by": "publisher",
+            "first-page": "475",
+            "DOI": "10.1007/978-3-319-26535-3_54",
+            "volume-title": "Neural information processing",
+            "author": "RD Sharma",
+            "year": "2015",
+            "unstructured": "Sharma RD, Mittal S, Tripathi S, Acharya S (2015) Using modern neural networks to predict the decisions of supreme court of the united states with state-of-the-art accuracy. In: Arik S, Huang T, Lai WK, Liu Q (eds) Neural information processing. Springer, Cham, pp 475–483"
+          },
+          {
+            "key": "9408_CR61",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shukla A, Bhattacharya P, Poddar S, Mukherjee R, Ghosh K, Goyal P, Ghosh S (2022) Legal case document summarization: extractive and abstractive methods and their evaluation. In: The 2nd conference of the Asia-Pacific chapter of the association for computational linguistics and the 12th international joint conference on natural language processing",
+            "DOI": "10.18653/v1/2022.aacl-main.77"
+          },
+          {
+            "key": "9408_CR62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10772-021-09820-4",
+            "author": "N Sivaranjani",
+            "year": "2021",
+            "unstructured": "Sivaranjani N, Jayabharathy J, Teja P (2021) Predicting the supreme court decision on appeal cases using hierarchical convolutional neural network. Int J Speech Technol. https://doi.org/10.1007/s10772-021-09820-4",
+            "journal-title": "Int J Speech Technol"
+          },
+          {
+            "key": "9408_CR63",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Smith R (2007) An overview of the tesseract ocr engine. In: Ninth international conference on document analysis and recognition (ICDAR 2007), vol 2. IEEE, pp 629–633",
+            "DOI": "10.1109/ICDAR.2007.4376991"
+          },
+          {
+            "key": "9408_CR64",
+            "unstructured": "Tiedemann J (2012) Parallel data, tools and interfaces in opus. In: Proceedings of the eighth international conference on language resources and evaluation (LREC’12), pp 2214–2218"
+          },
+          {
+            "key": "9408_CR65",
+            "unstructured": "Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez AN, Kaiser Ł, Polosukhin I (2017) Attention is all you need. In: Advances in neural information processing systems, vol 30"
+          },
+          {
+            "key": "9408_CR66",
+            "doi-asserted-by": "publisher",
+            "first-page": "51",
+            "DOI": "10.1016/j.eng.2022.04.024",
+            "volume": "25",
+            "author": "H Wang",
+            "year": "2022",
+            "unstructured": "Wang H, Li J, Wu H, Hovy E, Sun Y (2022) Pre-trained language models and their applications. Engineering 25:51–65",
+            "journal-title": "Engineering"
+          },
+          {
+            "key": "9408_CR67",
+            "volume-title": "Fairness in consumer contracts: the case of unfair terms",
+            "author": "C Willett",
+            "year": "2007",
+            "unstructured": "Willett C (2007) Fairness in consumer contracts: the case of unfair terms. Ashgate Publishing, Ltd., London"
+          },
+          {
+            "key": "9408_CR68",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Williams A, Nangia N, Bowman S (2018) A broad-coverage challenge corpus for sentence understanding through inference. In: Proceedings of the 2018 conference of the North American chapter of the association for computational linguistics: human language technologies, volume 1 (long papers). Association for Computational Linguistics, New Orleans, Louisiana, pp 1112–1122. https://doi.org/10.18653/v1/N18-1101",
+            "DOI": "10.18653/v1/N18-1101"
+          },
+          {
+            "key": "9408_CR69",
+            "doi-asserted-by": "publisher",
+            "first-page": "5450",
+            "DOI": "10.11591/ijece.v11i6.pp5450-5457",
+            "volume": "11",
+            "author": "A Zadgaonkar",
+            "year": "2021",
+            "unstructured": "Zadgaonkar A, Agrawal A (2021) An overview of information extraction techniques for legal document analysis and processing. Int J Electr Comput Eng 11:5450. https://doi.org/10.11591/ijece.v11i6.pp5450-5457",
+            "journal-title": "Int J Electr Comput Eng"
+          },
+          {
+            "key": "9408_CR70",
+            "unstructured": "Zhang J, Zhao Y, Saleh M, Liu PJ (2019) PEGASUS: pre-training with extracted gap-sentences for abstractive summarization. CoRR arXiv:1912.08777"
+          },
+          {
+            "key": "9408_CR71",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Zhong L, Zhong Z, Zhao Z, Wang S, Ashley KD, Grabmair M (2019) Automatic summarization of legal decisions using iterative masking of predictive sentences. In: Proceedings of the seventeenth international conference on artificial intelligence and law. ICAIL ’19. Association for Computing Machinery, New York, NY, USA, pp 163–172. https://doi.org/10.1145/3322640.3326728",
+            "DOI": "10.1145/3322640.3326728"
+          }
+        ],
+        "updated-by": [
+          {
+            "DOI": "10.1007/s10506-024-09413-x",
+            "type": "correction",
+            "label": "Correction",
+            "source": "publisher",
+            "updated": {
+              "date-parts": [
+                [
+                  2024,
+                  7,
+                  24
+                ]
+              ],
+              "date-time": "2024-07-24T00:00:00Z",
+              "timestamp": 1721779200000
+            }
+          }
+        ],
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09408-8.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10506-024-09408-8/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09408-8.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2025-11-12T12:28:07Z",
+          "timestamp": 1762950487000
+        },
+        "score": 53.676876,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10506-024-09408-8"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              26
+            ]
+          ]
+        },
+        "references-count": 71,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                12
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9408"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-024-09408-8",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              26
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "27 May 2024",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "26 June 2024",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "24 July 2024",
+            "order": 4,
+            "name": "change_date",
+            "label": "Change Date",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "Correction",
+            "order": 5,
+            "name": "change_type",
+            "label": "Change Type",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "A Correction to this paper has been published:",
+            "order": 6,
+            "name": "change_details",
+            "label": "Change Details",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "https://doi.org/10.1007/s10506-024-09413-x",
+            "URL": "https://doi.org/10.1007/s10506-024-09413-x",
+            "order": 7,
+            "name": "change_details",
+            "label": "Change Details",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              12,
+              31
+            ]
+          ],
+          "date-time": "2025-12-31T00:28:30Z",
+          "timestamp": 1767140910777,
+          "version": "build-2238731810"
+        },
+        "update-to": [
+          {
+            "DOI": "10.1007/s10506-024-09408-8",
+            "type": "correction",
+            "label": "Correction",
+            "source": "publisher",
+            "updated": {
+              "date-parts": [
+                [
+                  2024,
+                  7,
+                  24
+                ]
+              ],
+              "date-time": "2024-07-24T00:00:00Z",
+              "timestamp": 1721779200000
+            }
+          }
+        ],
+        "reference-count": 0,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  7,
+                  24
+                ]
+              ],
+              "date-time": "2024-07-24T00:00:00Z",
+              "timestamp": 1721779200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  7,
+                  24
+                ]
+              ],
+              "date-time": "2024-07-24T00:00:00Z",
+              "timestamp": 1721779200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              12
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10506-024-09413-x",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              24
+            ]
+          ],
+          "date-time": "2024-07-24T02:02:25Z",
+          "timestamp": 1721786545000
+        },
+        "page": "953-954",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Correction: A support system for the detection of abusive clauses in B2C contracts"
+        ],
+        "prefix": "10.1007",
+        "volume": "33",
+        "author": [
+          {
+            "given": "Sławomir",
+            "family": "Dadas",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Marek",
+            "family": "Kozłowski",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Rafał",
+            "family": "Poświata",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Michał",
+            "family": "Perełkiewicz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Marcin",
+            "family": "Białas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Małgorzata",
+            "family": "Grębowiec",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              24
+            ]
+          ]
+        },
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09413-x.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10506-024-09413-x/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-024-09413-x.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              12
+            ]
+          ],
+          "date-time": "2025-11-12T12:28:09Z",
+          "timestamp": 1762950489000
+        },
+        "score": 51.642315,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10506-024-09413-x"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              24
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "4",
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                12
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9413"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-024-09413-x",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              7,
+              24
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "24 July 2024",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2024-10-11T04:21:53Z",
+          "timestamp": 1728620513943
+        },
+        "reference-count": 0,
+        "publisher": "Centre for Evaluation in Education and Science (CEON/CEES)",
+        "issue": "1",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.5937/erpo1401021t",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              3,
+              14
+            ]
+          ],
+          "date-time": "2014-03-14T09:24:11Z",
+          "timestamp": 1394789051000
+        },
+        "page": "21-40",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Abusive clauses in consumer and insurance contracts: Recent developments in Europe"
+        ],
+        "prefix": "10.5937",
+        "volume": "13",
+        "author": [
+          {
+            "given": "Anna",
+            "family": "Tarasiuk-Flodrowska",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "3964",
+        "container-title": [
+          "Evropska revija za pravo osiguranja"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://scindeks-clanci.ceon.rs/data/pdf/2334-7597/2014/2334-75971401021T.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              10,
+              10
+            ]
+          ],
+          "date-time": "2024-10-10T15:18:35Z",
+          "timestamp": 1728573515000
+        },
+        "score": 29.141426,
+        "resource": {
+          "primary": {
+            "URL": "https://scindeks.ceon.rs/Article.aspx?artid=2334-75971401021T"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2014
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.5937/erpo1401021t",
+        "ISSN": [
+          "2334-7597"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "2334-7597"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

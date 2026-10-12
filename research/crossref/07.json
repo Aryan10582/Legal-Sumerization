@@ -1,0 +1,1282 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4391465,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              21
+            ]
+          ],
+          "date-time": "2026-09-21T19:32:34Z",
+          "timestamp": 1790019154667,
+          "version": "4.0.1"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "group-title": "SSRN",
+        "reference-count": 42,
+        "publisher": "Elsevier BV",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>Building on developments in machine learning and prior work in the science of judicial prediction, we construct a model designed to predict the behavior of the Supreme Court of the United States in a generalized, out-of-sample context.  To do so, we develop a time evolving random forest classifier which leverages some unique feature engineering to predict more than 240,000 justice votes and 28,000 cases outcomes over nearly two centuries (1816-2015). Using only data available prior to decision, our model outperforms null (baseline) models at both the justice and case level under both parametric and non-parametric tests.  Over nearly two centuries, we achieve 70.2% accuracy at the case outcome level and 71.9% at the justice vote level. More recently, over the past century, we outperform an in-sample optimized null model by nearly 5%.  Our performance is consistent with, and improves on the general level of prediction demonstrated by prior work;  however, our model is distinctive because it can be applied out-of-sample to the entire past and future of the Court, not a single term.  Our results represent an important advance for the science of quantitative legal prediction and portend a range of other potential applications.</jats:p>",
+        "DOI": "10.2139/ssrn.2463244",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2014,
+              7,
+              23
+            ]
+          ],
+          "date-time": "2014-07-23T11:27:48Z",
+          "timestamp": 1406114868000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 46,
+        "title": [
+          "A General Approach for Predicting the Behavior of the Supreme Court of the United States"
+        ],
+        "prefix": "10.2139",
+        "author": [
+          {
+            "given": "Daniel Martin",
+            "family": "Katz",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2236-1187",
+            "authenticated-orcid": true,
+            "given": "Michael James",
+            "family": "Bommarito",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Josh",
+            "family": "Blackman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "issue": "4",
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "first-page": "761",
+            "DOI": "10.1017/s1537592704040502",
+            "article-title": "Competing approaches to predicting supreme court decision making",
+            "volume": "2",
+            "author": "A D Martin",
+            "year": "2004",
+            "journal-title": "Perspectives on Politics"
+          },
+          {
+            "issue": "11",
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0027188",
+            "article-title": "Justice blocks and predictability of us supreme court votes",
+            "volume": "6",
+            "author": "R Guimer�",
+            "year": "2011",
+            "journal-title": "PloS One"
+          },
+          {
+            "issue": "4",
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "first-page": "1150",
+            "DOI": "10.2307/4099370",
+            "article-title": "The supreme court forecasting project: Legal and political science approaches to predicting supreme court decisionmaking",
+            "volume": "104",
+            "author": "T W Ruger",
+            "year": "2004",
+            "journal-title": "Columbia Law Review"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "L Breiman",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+          },
+          {
+            "issue": "4",
+            "key": "ref5",
+            "first-page": "909",
+            "article-title": "Quantitative legal prediction -or -how i learned to stop worrying and start preparing for the data driven future of the legal services industry",
+            "volume": "62",
+            "author": "D M Katz",
+            "year": "2013",
+            "journal-title": "Emory Law Journal"
+          },
+          {
+            "key": "ref6",
+            "volume": "358",
+            "author": "L Breiman",
+            "year": "1984",
+            "journal-title": "Classification and regression trees"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/cbo9780511569920",
+            "volume": "398",
+            "author": "D Saad",
+            "year": "1999",
+            "journal-title": "On-line learning in neural networks"
+          },
+          {
+            "key": "ref8",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1561/2200000018",
+            "volume": "4",
+            "author": "S Shalev-Shwartz",
+            "year": "2011",
+            "journal-title": "Online learning and online convex optimization. Foundations and Trends in Machine Learning"
+          },
+          {
+            "issue": "1",
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "first-page": "74",
+            "DOI": "10.1111/j.1540-5907.2010.00485.x",
+            "article-title": "How public opinion constrains the US Supreme Court",
+            "volume": "55",
+            "author": "C J Casillas",
+            "year": "2011",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "issue": "1",
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "first-page": "28",
+            "DOI": "10.2307/2952257",
+            "article-title": "Separation-of-powers games in the positive theory of congress and courts",
+            "volume": "91",
+            "author": "J A Segal",
+            "year": "1997",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "issue": "4",
+            "key": "ref11",
+            "first-page": "1483",
+            "article-title": "Ideological drift among supreme court justices: Who, when, and how important",
+            "volume": "101",
+            "author": "L Epstein",
+            "year": "2007",
+            "journal-title": "Northwestern University Law Review"
+          },
+          {
+            "issue": "2",
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "first-page": "365",
+            "DOI": "10.1093/jleo/ewm028",
+            "article-title": "Assessing preference change on the us supreme court",
+            "volume": "23",
+            "author": "A D Martin",
+            "year": "2007",
+            "journal-title": "Economics, and Organization"
+          },
+          {
+            "issue": "3",
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "first-page": "874",
+            "DOI": "10.2307/2991733",
+            "article-title": "Of time and consensual norms in the Supreme Court",
+            "volume": "42",
+            "author": "G A Calderia",
+            "year": "1998",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "issue": "1",
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "first-page": "69",
+            "DOI": "10.1093/jla/2.1.69",
+            "article-title": "Did a Switch in Time Save Nine",
+            "volume": "2",
+            "author": "D E Ho",
+            "year": "2010",
+            "journal-title": "Journal of Legal Analysis"
+          },
+          {
+            "issue": "1",
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "first-page": "75",
+            "DOI": "10.1140/epjb/e2007-00271-7",
+            "article-title": "Large-scale structure of time evolving citation networks",
+            "volume": "59",
+            "author": "E A Leicht",
+            "year": "2007",
+            "journal-title": "The European Physical Journal B"
+          },
+          {
+            "key": "ref16",
+            "author": "H J Spaeth",
+            "year": "2016"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/cbo9780511615696",
+            "volume": "480",
+            "author": "J A Segal",
+            "year": "2002",
+            "journal-title": "The Supreme Court and the attitudinal model revisited"
+          },
+          {
+            "issue": "3",
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "first-page": "369",
+            "DOI": "10.1017/s0003055408080283",
+            "article-title": "Does legal doctrine matter? unpacking law and policy preferences on the us supreme court",
+            "volume": "102",
+            "author": "M A Bailey",
+            "year": "2008",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "issue": "2",
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "first-page": "445",
+            "DOI": "10.1093/jla/las016",
+            "article-title": "Standing the test of time: The breadth of majority coalitions and the fate of us supreme court precedents",
+            "volume": "4",
+            "author": "S M Benjamin",
+            "year": "2012",
+            "journal-title": "Journal of Legal Analysis"
+          },
+          {
+            "issue": "2",
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "first-page": "134",
+            "DOI": "10.1093/pan/10.2.134",
+            "article-title": "Dynamic ideal point estimation via markov chain monte carlo for the US Supreme Court",
+            "volume": "10",
+            "author": "A D Martin",
+            "year": "2002",
+            "journal-title": "Political Analysis"
+          },
+          {
+            "issue": "3",
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "first-page": "812",
+            "DOI": "10.2307/2960194",
+            "article-title": "Ideological values and the votes of US Supreme Court justices revisited",
+            "volume": "57",
+            "author": "J A Segal",
+            "year": "1995",
+            "journal-title": "The Journal of Politics"
+          },
+          {
+            "issue": "2",
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "first-page": "275",
+            "DOI": "10.1007/s10955-015-1253-6",
+            "article-title": "Statistical Mechanics of the US Supreme Court",
+            "volume": "160",
+            "author": "E D Lee",
+            "year": "2015",
+            "journal-title": "Journal of Statistical Physics"
+          },
+          {
+            "issue": "4",
+            "key": "ref23",
+            "doi-asserted-by": "publisher",
+            "first-page": "971",
+            "DOI": "10.2307/2111738",
+            "article-title": "The influence of stare decisis on the votes of united states supreme court justices",
+            "volume": "40",
+            "author": "J A Segal",
+            "year": "1996",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "issue": "2",
+            "key": "ref24",
+            "article-title": "Coding complexity: Bringing law to the empirical analysis of the supreme court",
+            "volume": "160",
+            "author": "C Shapiro",
+            "year": "2008",
+            "journal-title": "Hastings Law Journal"
+          },
+          {
+            "key": "ref25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.2463244",
+            "author": "D M Katz",
+            "year": "2014",
+            "journal-title": "Predicting the Behavior of the Supreme Court of the United States: A General Approach"
+          },
+          {
+            "key": "ref26",
+            "article-title": "Supreme Court Prediction Model v2",
+            "author": "M J Bommarito",
+            "journal-title": "GitHub Repository"
+          },
+          {
+            "key": "ref27",
+            "first-page": "8",
+            "volume": "2",
+            "author": "R E Hofer",
+            "year": "2010",
+            "journal-title": "Supreme Court Reversal Rates: Evaluating the Federal Courts of Appeals. American Bar Association -Landslide"
+          },
+          {
+            "key": "ref28",
+            "first-page": "2825",
+            "article-title": "Scikit-learn: Machine learning in Python",
+            "volume": "12",
+            "author": "F Pedregosa",
+            "year": "2011",
+            "journal-title": "Journal of Machine Learning Research"
+          },
+          {
+            "key": "ref29",
+            "doi-asserted-by": "publisher",
+            "first-page": "161",
+            "DOI": "10.1145/1143844.1143865",
+            "article-title": "An empirical comparison of supervised learning algorithms",
+            "author": "R Caruana",
+            "year": "2006",
+            "journal-title": "Proceedings of the 23rd international conference on Machine learning"
+          },
+          {
+            "key": "ref30",
+            "author": "F Chollet",
+            "year": "2015",
+            "journal-title": "Deep Learning library for TensorFlow and Theano"
+          },
+          {
+            "key": "ref31",
+            "author": "G Louppe",
+            "year": "2014",
+            "journal-title": "Understanding Random Forests: From Theory to Practice Dissertation"
+          },
+          {
+            "key": "ref32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.2649726",
+            "article-title": "Law on the Market? Evaluating the Securities Market Impact of Supreme Court",
+            "author": "D M Katz",
+            "year": "2015",
+            "journal-title": "Decisions"
+          },
+          {
+            "key": "ref33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.7717/peerj-cs.93",
+            "article-title": "Predicting judicial decisions of the European Court of Human Rights: A natural language processing perspective",
+            "volume": "2",
+            "author": "N Aletras",
+            "year": "2016",
+            "journal-title": "PeerJ Computer Science"
+          },
+          {
+            "issue": "11",
+            "key": "ref34",
+            "doi-asserted-by": "publisher",
+            "first-page": "31",
+            "DOI": "10.1109/mspec.2013.6655836",
+            "article-title": "The Law Machine",
+            "volume": "50",
+            "author": "T Harbert",
+            "year": "2013",
+            "journal-title": "IEEE Spectrum"
+          },
+          {
+            "issue": "2",
+            "key": "ref35",
+            "doi-asserted-by": "publisher",
+            "first-page": "125",
+            "DOI": "10.1007/s10506-009-9077-9",
+            "article-title": "Automatically Classifying Case Texts and Predicting Outcomes",
+            "volume": "17",
+            "author": "K D Ashley",
+            "year": "2009",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "issue": "3",
+            "key": "ref36",
+            "doi-asserted-by": "publisher",
+            "first-page": "482",
+            "DOI": "10.1111/j.1740-1461.2012.01260.x",
+            "article-title": "Predicting securities fraud settlements and amounts: a hierarchical Bayesian model of federal securities class action lawsuits",
+            "volume": "9",
+            "author": "B B Mcshane",
+            "year": "2012",
+            "journal-title": "Journal of Empirical Legal Studies"
+          },
+          {
+            "key": "ref37",
+            "doi-asserted-by": "publisher",
+            "first-page": "153",
+            "DOI": "10.1145/2600428.2609601",
+            "article-title": "Evaluation of machine-learning protocols for technology-assisted review in electronic discovery",
+            "author": "G V Cormack",
+            "year": "2014",
+            "journal-title": "Proceedings of the 37th International ACM SIGIR conference on Research & development in information retrieval ACM"
+          },
+          {
+            "issue": "1",
+            "key": "ref38",
+            "first-page": "87",
+            "article-title": "Machine learning and law",
+            "volume": "89",
+            "author": "H Surden",
+            "year": "2014",
+            "journal-title": "Washington Law Review"
+          },
+          {
+            "issue": "4",
+            "key": "ref39",
+            "doi-asserted-by": "publisher",
+            "first-page": "894",
+            "DOI": "10.1111/jels.12059",
+            "article-title": "Choice of law: an empirical analysis",
+            "volume": "11",
+            "author": "S Sanga",
+            "year": "2014",
+            "journal-title": "Journal of Empirical Legal Studies"
+          },
+          {
+            "issue": "1",
+            "key": "ref40",
+            "doi-asserted-by": "publisher",
+            "first-page": "181",
+            "DOI": "10.1628/093245612799440177",
+            "article-title": "The measure of a MAC: A machine-learning protocol for analyzing force majeure clauses in M&A agreements",
+            "volume": "168",
+            "author": "E Talley",
+            "year": "2012",
+            "journal-title": "Journal of Institutional and Theoretical Economics"
+          },
+          {
+            "issue": "3",
+            "key": "ref41",
+            "first-page": "125",
+            "article-title": "Fantasyscotus: Crowdsourcing a prediction market for the supreme court",
+            "volume": "10",
+            "author": "J Blackman",
+            "year": "2012",
+            "journal-title": "Northwestern Journal of Technology and Intellectual Property"
+          },
+          {
+            "key": "ref42",
+            "article-title": "The Three Forms of (Legal) Prediction -Experts",
+            "author": "D M Katz",
+            "year": "2016",
+            "journal-title": "Crowds and Algorithms. Lecture presented at the Vanderbilt Conference on Artificial Intelligence and Law"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              12
+            ]
+          ],
+          "date-time": "2026-08-12T08:24:10Z",
+          "timestamp": 1786523050000
+        },
+        "score": 44.399593,
+        "resource": {
+          "primary": {
+            "URL": "https://www.ssrn.com/abstract=2463244"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "references-count": 42,
+        "URL": "https://doi.org/10.2139/ssrn.2463244",
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              10
+            ]
+          ],
+          "date-time": "2026-10-10T01:02:37Z",
+          "timestamp": 1791594157810,
+          "version": "4.3.4"
+        },
+        "reference-count": 42,
+        "publisher": "Public Library of Science (PLoS)",
+        "issue": "4",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  12
+                ]
+              ],
+              "date-time": "2017-04-12T00:00:00Z",
+              "timestamp": 1491955200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "www.plosone.org"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "PLoS ONE"
+        ],
+        "DOI": "10.1371/journal.pone.0174698",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ],
+          "date-time": "2017-04-12T14:39:22Z",
+          "timestamp": 1492007962000
+        },
+        "page": "e0174698",
+        "update-policy": "https://doi.org/10.1371/journal.pone.corrections_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 319,
+        "title": [
+          "A general approach for predicting the behavior of the Supreme Court of the United States"
+        ],
+        "prefix": "10.1371",
+        "volume": "12",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-2720-0339",
+            "authenticated-orcid": true,
+            "given": "Daniel Martin",
+            "family": "Katz",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Michael J.",
+            "family": "Bommarito",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Josh",
+            "family": "Blackman",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "340",
+        "published-online": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "4",
+            "key": "ref1",
+            "doi-asserted-by": "crossref",
+            "first-page": "761",
+            "DOI": "10.1017/S1537592704040502",
+            "article-title": "Competing approaches to predicting supreme court decision making",
+            "volume": "2",
+            "author": "AD Martin",
+            "year": "2004",
+            "journal-title": "Perspectives on Politics"
+          },
+          {
+            "issue": "11",
+            "key": "ref2",
+            "doi-asserted-by": "crossref",
+            "first-page": "e27188",
+            "DOI": "10.1371/journal.pone.0027188",
+            "article-title": "Justice blocks and predictability of us supreme court votes",
+            "volume": "6",
+            "author": "R. Guimerà",
+            "year": "2011",
+            "journal-title": "PloS One"
+          },
+          {
+            "issue": "4",
+            "key": "ref3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1150",
+            "DOI": "10.2307/4099370",
+            "article-title": "The supreme court forecasting project: Legal and political science approaches to predicting supreme court decisionmaking",
+            "volume": "104",
+            "author": "TW Ruger",
+            "year": "2004",
+            "journal-title": "Columbia Law Review"
+          },
+          {
+            "issue": "1",
+            "key": "ref4",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "L Breiman",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+          },
+          {
+            "issue": "4",
+            "key": "ref5",
+            "first-page": "909",
+            "article-title": "Quantitative legal prediction—or—how i learned to stop worrying and start preparing for the data driven future of the legal services industry",
+            "volume": "62",
+            "author": "DM Katz",
+            "year": "2013",
+            "journal-title": "Emory Law Journal"
+          },
+          {
+            "key": "ref6",
+            "first-page": "358",
+            "article-title": "Classification and regression trees",
+            "author": "L Breiman",
+            "year": "1984"
+          },
+          {
+            "key": "ref7",
+            "first-page": "398",
+            "article-title": "On-line learning in neural networks",
+            "author": "D Saad",
+            "year": "1999"
+          },
+          {
+            "issue": "2",
+            "key": "ref8",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1561/2200000018",
+            "article-title": "Online learning and online convex optimization",
+            "volume": "4",
+            "author": "S Shalev-Shwartz",
+            "year": "2011",
+            "journal-title": "Foundations and Trends in Machine Learning"
+          },
+          {
+            "issue": "1",
+            "key": "ref9",
+            "doi-asserted-by": "crossref",
+            "first-page": "74",
+            "DOI": "10.1111/j.1540-5907.2010.00485.x",
+            "article-title": "How public opinion constrains the US Supreme Court",
+            "volume": "55",
+            "author": "CJ Casillas",
+            "year": "2011",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "issue": "1",
+            "key": "ref10",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.2307/2952257",
+            "article-title": "Separation-of-powers games in the positive theory of congress and courts",
+            "volume": "91",
+            "author": "JA Segal",
+            "year": "1997",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "issue": "4",
+            "key": "ref11",
+            "first-page": "1483",
+            "article-title": "Ideological drift among supreme court justices: Who, when, and how important",
+            "volume": "101",
+            "author": "L Epstein",
+            "year": "2007",
+            "journal-title": "Northwestern University Law Review"
+          },
+          {
+            "issue": "2",
+            "key": "ref12",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1093/jleo/ewm028",
+            "article-title": "Assessing preference change on the us supreme court",
+            "volume": "23",
+            "author": "AD Martin",
+            "year": "2007",
+            "journal-title": "Journal of Law, Economics, and Organization"
+          },
+          {
+            "issue": "3",
+            "key": "ref13",
+            "doi-asserted-by": "crossref",
+            "first-page": "874",
+            "DOI": "10.2307/2991733",
+            "article-title": "Of time and consensual norms in the Supreme Court",
+            "volume": "42",
+            "author": "GA Calderia",
+            "year": "1998",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "issue": "1",
+            "key": "ref14",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1093/jla/2.1.69",
+            "article-title": "Did a Switch in Time Save Nine?",
+            "volume": "2",
+            "author": "DE Ho",
+            "year": "2010",
+            "journal-title": "Journal of Legal Analysis"
+          },
+          {
+            "issue": "1",
+            "key": "ref15",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.1140/epjb/e2007-00271-7",
+            "article-title": "Large-scale structure of time evolving citation networks",
+            "volume": "59",
+            "author": "EA Leicht",
+            "year": "2007",
+            "journal-title": "The European Physical Journal B"
+          },
+          {
+            "key": "ref16",
+            "unstructured": "Spaeth HJ, Epstein L, Martin AD, Segal JA, Ruger TJ, Benesh SC. 2016 Supreme Court Database, Version 2016 Legacy Release v01. (SCDB_Legacy_01) <comment><ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://Supremecourtdatabase.org\" xlink:type=\"simple\">http://Supremecourtdatabase.org</ext-link></comment>"
+          },
+          {
+            "key": "ref17",
+            "first-page": "480",
+            "article-title": "The Supreme Court and the attitudinal model revisited",
+            "author": "JA Segal",
+            "year": "2002"
+          },
+          {
+            "issue": "3",
+            "key": "ref18",
+            "doi-asserted-by": "crossref",
+            "first-page": "369",
+            "DOI": "10.1017/S0003055408080283",
+            "article-title": "Does legal doctrine matter? unpacking law and policy preferences on the us supreme court",
+            "volume": "102",
+            "author": "MA Bailey",
+            "year": "2008",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "issue": "2",
+            "key": "ref19",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1093/jla/las016",
+            "article-title": "Standing the test of time: The breadth of majority coalitions and the fate of us supreme court precedents",
+            "volume": "4",
+            "author": "SM Benjamin",
+            "year": "2012",
+            "journal-title": "Journal of Legal Analysis"
+          },
+          {
+            "issue": "2",
+            "key": "ref20",
+            "doi-asserted-by": "crossref",
+            "first-page": "134",
+            "DOI": "10.1093/pan/10.2.134",
+            "article-title": "Dynamic ideal point estimation via markov chain monte carlo for the US Supreme Court, 1953–1999",
+            "volume": "10",
+            "author": "AD Martin",
+            "year": "2002",
+            "journal-title": "Political Analysis"
+          },
+          {
+            "issue": "3",
+            "key": "ref21",
+            "doi-asserted-by": "crossref",
+            "first-page": "812",
+            "DOI": "10.2307/2960194",
+            "article-title": "Ideological values and the votes of US Supreme Court justices revisited",
+            "volume": "57",
+            "author": "JA Segal",
+            "year": "1995",
+            "journal-title": "The Journal of Politics"
+          },
+          {
+            "issue": "2",
+            "key": "ref22",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1007/s10955-015-1253-6",
+            "article-title": "Statistical Mechanics of the US Supreme Court",
+            "volume": "160",
+            "author": "ED Lee",
+            "year": "2015",
+            "journal-title": "Journal of Statistical Physics"
+          },
+          {
+            "issue": "4",
+            "key": "ref23",
+            "doi-asserted-by": "crossref",
+            "first-page": "971",
+            "DOI": "10.2307/2111738",
+            "article-title": "The influence of stare decisis on the votes of united states supreme court justices",
+            "volume": "40",
+            "author": "JA Segal",
+            "year": "1996",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "issue": "2",
+            "key": "ref24",
+            "first-page": "60:477",
+            "article-title": "Coding complexity: Bringing law to the empirical analysis of the supreme court",
+            "volume": "160",
+            "author": "C Shapiro",
+            "year": "2008",
+            "journal-title": "Hastings Law Journal"
+          },
+          {
+            "key": "ref25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Katz DM, Bommarito MJ, Blackman J. Predicting the Behavior of the Supreme Court of the United States: A General Approach. 2014; arXiv:1407.6333",
+            "DOI": "10.2139/ssrn.2463244"
+          },
+          {
+            "key": "ref26",
+            "unstructured": "Bommarito MJ. Supreme Court Prediction Model v2. GitHub Repository, <comment><ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/mjbommar/scotus-predict-v2\" xlink:type=\"simple\">https://github.com/mjbommar/scotus-predict-v2</ext-link></comment>"
+          },
+          {
+            "issue": "3",
+            "key": "ref27",
+            "first-page": "8",
+            "article-title": "Supreme Court Reversal Rates: Evaluating the Federal Courts of Appeals",
+            "volume": "2",
+            "author": "RE Hofer",
+            "year": "2010",
+            "journal-title": "American Bar Association—Landslide"
+          },
+          {
+            "key": "ref28",
+            "first-page": "2825",
+            "article-title": "Scikit-learn: Machine learning in Python",
+            "volume": "12",
+            "author": "F Pedregosa",
+            "year": "2011",
+            "journal-title": "Journal of Machine Learning Research"
+          },
+          {
+            "key": "ref29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Caruana R, Niculescu-Mizil A. An empirical comparison of supervised learning algorithms. In: Proceedings of the 23rd international conference on Machine learning. ACM; 2006 p. 161–168.",
+            "DOI": "10.1145/1143844.1143865"
+          },
+          {
+            "key": "ref30",
+            "unstructured": "Chollet F. Keras: Deep Learning library for TensorFlow and Theano, Github, 2015; <comment><ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"https://github.com/fchollet/keras\" xlink:type=\"simple\">https://github.com/fchollet/keras</ext-link></comment>"
+          },
+          {
+            "key": "ref31",
+            "article-title": "Understanding Random Forests: From Theory to Practice Dissertation",
+            "author": "G Louppe",
+            "year": "2014"
+          },
+          {
+            "key": "ref32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Katz DM, Bommarito MJ, Soellinger T, Chen JM. Law on the Market? Evaluating the Securities Market Impact of Supreme Court Decisions 2015; arXiv:1508.05751",
+            "DOI": "10.2139/ssrn.2649726"
+          },
+          {
+            "key": "ref33",
+            "doi-asserted-by": "crossref",
+            "first-page": "e93",
+            "DOI": "10.7717/peerj-cs.93",
+            "article-title": "Predicting judicial decisions of the European Court of Human Rights: A natural language processing perspective",
+            "volume": "2",
+            "author": "N Aletras",
+            "year": "2016",
+            "journal-title": "PeerJ Computer Science"
+          },
+          {
+            "issue": "11",
+            "key": "ref34",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1109/MSPEC.2013.6655836",
+            "article-title": "The Law Machine",
+            "volume": "50",
+            "author": "T Harbert",
+            "year": "2013",
+            "journal-title": "IEEE Spectrum"
+          },
+          {
+            "issue": "2",
+            "key": "ref35",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1007/s10506-009-9077-9",
+            "article-title": "Automatically Classifying Case Texts and Predicting Outcomes",
+            "volume": "17",
+            "author": "KD Ashley",
+            "year": "2009",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "issue": "3",
+            "key": "ref36",
+            "doi-asserted-by": "crossref",
+            "first-page": "482",
+            "DOI": "10.1111/j.1740-1461.2012.01260.x",
+            "article-title": "Predicting securities fraud settlements and amounts: a hierarchical Bayesian model of federal securities class action lawsuits",
+            "volume": "9",
+            "author": "BB McShane",
+            "year": "2012",
+            "journal-title": "Journal of Empirical Legal Studies"
+          },
+          {
+            "key": "ref37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cormack GV, Grossman MR. Evaluation of machine-learning protocols for technology-assisted review in electronic discovery. In: Proceedings of the 37th International ACM SIGIR conference on Research &amp; development in information retrieval ACM; 2014 p. 153–162.",
+            "DOI": "10.1145/2600428.2609601"
+          },
+          {
+            "issue": "1",
+            "key": "ref38",
+            "first-page": "87",
+            "article-title": "Machine learning and law",
+            "volume": "89",
+            "author": "H Surden",
+            "year": "2014",
+            "journal-title": "Washington Law Review"
+          },
+          {
+            "issue": "4",
+            "key": "ref39",
+            "doi-asserted-by": "crossref",
+            "first-page": "894",
+            "DOI": "10.1111/jels.12059",
+            "article-title": "Choice of law: an empirical analysis",
+            "volume": "11",
+            "author": "S Sanga",
+            "year": "2014",
+            "journal-title": "Journal of Empirical Legal Studies"
+          },
+          {
+            "issue": "1",
+            "key": "ref40",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1628/093245612799440177",
+            "article-title": "The measure of a MAC: A machine-learning protocol for analyzing force majeure clauses in M&amp;A agreements",
+            "volume": "168",
+            "author": "E Talley",
+            "year": "2012",
+            "journal-title": "Journal of Institutional and Theoretical Economics"
+          },
+          {
+            "issue": "3",
+            "key": "ref41",
+            "first-page": "125",
+            "article-title": "Fantasyscotus: Crowdsourcing a prediction market for the supreme court",
+            "volume": "10",
+            "author": "J Blackman",
+            "year": "2012",
+            "journal-title": "Northwestern Journal of Technology and Intellectual Property"
+          },
+          {
+            "key": "ref42",
+            "unstructured": "Katz DM, Bommarito MJ. The Three Forms of (Legal) Prediction—Experts, Crowds and Algorithms. Lecture presented at the Vanderbilt Conference on Artificial Intelligence and Law, 2016; Vanderbilt Law School."
+          }
+        ],
+        "container-title": [
+          "PLOS ONE"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://dx.plos.org/10.1371/journal.pone.0174698",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2019,
+              9,
+              20
+            ]
+          ],
+          "date-time": "2019-09-20T20:42:25Z",
+          "timestamp": 1569012145000
+        },
+        "score": 44.399593,
+        "resource": {
+          "primary": {
+            "URL": "https://dx.plos.org/10.1371/journal.pone.0174698"
+          }
+        },
+        "editor": [
+          {
+            "given": "Luís A. Nunes",
+            "family": "Amaral",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "editor"
+              }
+            ]
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ]
+        },
+        "references-count": 42,
+        "journal-issue": {
+          "issue": "4",
+          "published-online": {
+            "date-parts": [
+              [
+                2017,
+                4,
+                12
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.1371/journal.pone.0174698",
+        "ISSN": [
+          "1932-6203"
+        ],
+        "issn-type": [
+          {
+            "value": "1932-6203",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              4,
+              12
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              7
+            ]
+          ],
+          "date-time": "2024-09-07T03:50:45Z",
+          "timestamp": 1725681045614
+        },
+        "publisher-location": "2455 Teller Road, Thousand Oaks California 91320 United States ",
+        "reference-count": 0,
+        "publisher": "SAGE Publications, Inc.",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9780761922582"
+          },
+          {
+            "type": "electronic",
+            "value": "9781412950664"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "DOI": "10.4135/9781412950664.n438",
+        "type": "reference-entry",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              10,
+              5
+            ]
+          ],
+          "date-time": "2012-10-05T19:11:00Z",
+          "timestamp": 1349464260000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "United States Supreme Court"
+        ],
+        "prefix": "10.4135",
+        "member": "179",
+        "container-title": [
+          "Encyclopedia of Crime and Punishment"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2022-04-21T17:33:15Z",
+          "timestamp": 1650562395000
+        },
+        "score": 38.03454,
+        "resource": {
+          "primary": {
+            "URL": "https://sk.sagepub.com/reference/crimepunishment/n438.xml"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        },
+        "ISBN": [
+          "9780761922582",
+          "9781412950664"
+        ],
+        "references-count": 0,
+        "alternative-id": [
+          "10.4135/9781412950664"
+        ],
+        "URL": "https://doi.org/10.4135/9781412950664.n438",
+        "published": {
+          "date-parts": [
+            [
+              2002
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: indian-legal-nlp-mini-project
+Version: 0.1.0
+Summary: Separate, reproducible judgment summarization and CUAD clause classification experiments
+Requires-Python: <3.14,>=3.11
+Requires-Dist: torch>=2.6
+Requires-Dist: transformers<6,>=4.48
+Requires-Dist: scikit-learn>=1.5
+Requires-Dist: streamlit>=1.57
+Requires-Dist: sentencepiece
+Requires-Dist: rouge-score==0.1.2
+Requires-Dist: pypdf>=5
+Requires-Dist: python-docx>=1.1
+Requires-Dist: requests>=2.32
+Requires-Dist: pyyaml>=6
+Requires-Dist: joblib>=1.4
+Requires-Dist: matplotlib>=3.8
+Requires-Dist: psutil>=6
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"

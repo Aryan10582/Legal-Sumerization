@@ -1,0 +1,10 @@
+[
+  {
+    "epoch": 1,
+    "train_loss_batch_mean": 4.384909018874168,
+    "validation": {
+      "teacher_forced_loss": 3.9043382008870444
+    },
+    "epoch_seconds": 103.79487300000073
+  }
+]

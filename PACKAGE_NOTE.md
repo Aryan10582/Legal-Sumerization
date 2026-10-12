@@ -1,0 +1,5 @@
+# Delivery package
+
+`deliverables/Legal_NLP_Mini_Project.zip` contains editable reports, PDFs, the verified source templates/reference attachments, code, instructions, literature audit and measured pilot records. It excludes dataset archives, processed raw text, installed environments, model weights, caches and private credentials. The full working directory on this machine retains local trained weights and raw data for immediate demonstration.
+
+To use an extracted package, follow `README.md` from setup through download, prepare, baseline and both training commands. Then start Streamlit. The packaged evaluation metrics and predictions document this workspace's completed CPU pilot; training a new copy may yield different scores. `scripts/validate_project.py` requires local checkpoints and prepared data, so run it after the complete pipeline. Report generation uses the included `templates/` files plus Word export on this Windows machine. The supplied source documents are included solely to make this mini-project submission editable/reproducible.

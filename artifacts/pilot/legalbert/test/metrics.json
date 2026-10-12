@@ -1,0 +1,206 @@
+{
+  "subset_accuracy": 0.9721297836938436,
+  "hamming_loss": 0.0036397670549084857,
+  "threshold": 0.9000000000000002,
+  "rows": 2404,
+  "negative_rows": 2340,
+  "micro": {
+    "precision": 0.4642857142857143,
+    "recall": 0.609375,
+    "f1": 0.527027027027027
+  },
+  "macro": {
+    "precision": 0.43539504477004476,
+    "recall": 0.5646780303030303,
+    "f1": 0.4470394736842106
+  },
+  "weighted": {
+    "precision": 0.5017798318579569,
+    "recall": 0.609375,
+    "f1": 0.5091432416267943
+  },
+  "per_class": {
+    "Governing Law": {
+      "precision": 0.75,
+      "recall": 0.9,
+      "f1": 0.8181818181818182,
+      "support": 10,
+      "average_precision": 0.9384615384615383,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2391,
+        3,
+        1,
+        9
+      ]
+    },
+    "Non-Compete": {
+      "precision": 0.75,
+      "recall": 0.5,
+      "f1": 0.6,
+      "support": 12,
+      "average_precision": 0.5663686152792348,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2390,
+        2,
+        6,
+        6
+      ]
+    },
+    "Exclusivity": {
+      "precision": 0.125,
+      "recall": 0.3333333333333333,
+      "f1": 0.18181818181818182,
+      "support": 3,
+      "average_precision": 0.17824074074074073,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2394,
+        7,
+        2,
+        1
+      ]
+    },
+    "Anti-Assignment": {
+      "precision": 0.7142857142857143,
+      "recall": 0.9090909090909091,
+      "f1": 0.8,
+      "support": 11,
+      "average_precision": 0.65104574289823,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2389,
+        4,
+        1,
+        10
+      ]
+    },
+    "Termination For Convenience": {
+      "precision": 0.5,
+      "recall": 0.16666666666666666,
+      "f1": 0.25,
+      "support": 6,
+      "average_precision": 0.22544569260693112,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2397,
+        1,
+        5,
+        1
+      ]
+    },
+    "Cap On Liability": {
+      "precision": 0.25925925925925924,
+      "recall": 0.875,
+      "f1": 0.4,
+      "support": 8,
+      "average_precision": 0.635952287066246,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2376,
+        20,
+        1,
+        7
+      ]
+    },
+    "Audit Rights": {
+      "precision": 0.38461538461538464,
+      "recall": 0.8333333333333334,
+      "f1": 0.5263157894736842,
+      "support": 6,
+      "average_precision": 0.5285946492843044,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2390,
+        8,
+        1,
+        5
+      ]
+    },
+    "Post-Termination Services": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 8,
+      "average_precision": 0.0698646118619547,
+      "confusion_matrix_tn_fp_fn_tp": [
+        2396,
+        0,
+        8,
+        0
+      ]
+    }
+  },
+  "inference_seconds": 50.78700189999836,
+  "hardware": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+    "ram_bytes": 16415322112,
+    "torch": "2.14.1+cpu",
+    "device": "cpu",
+    "gpu": null,
+    "cpu_threads": 4
+  },
+  "test_document_count": 10,
+  "training_run": {
+    "task": "classification",
+    "fine_tuned": true,
+    "model": "nlpaueb/legal-bert-small-uncased",
+    "revision": "0e23f7a9a39f59768ea7e09766d8ee308580fb17",
+    "settings": {
+      "model": "nlpaueb/legal-bert-small-uncased",
+      "revision": "0e23f7a9a39f59768ea7e09766d8ee308580fb17",
+      "max_tokens": 256,
+      "epochs": 3,
+      "batch_size": 8,
+      "learning_rate": 5e-05,
+      "weight_decay": 0.01,
+      "accumulation_steps": 1,
+      "max_negative_ratio": 3,
+      "train_documents": 40,
+      "validation_documents": 10,
+      "test_documents": 10
+    },
+    "seed": 42,
+    "hardware": {
+      "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+      "ram_bytes": 16415322112,
+      "torch": "2.14.1+cpu",
+      "device": "cpu",
+      "gpu": null,
+      "cpu_threads": 4
+    },
+    "best_epoch": 3,
+    "validation_selection": {
+      "macro_f1": 0.39639156535145337,
+      "threshold": 0.9000000000000002
+    },
+    "threshold": 0.9000000000000002,
+    "data_fingerprint": {
+      "train": "61950e0cfc1f89cb792242aa025aabf509b87ecfd2124908eaeb02a6eb4741d8",
+      "validation": "f765c58c2e380067ed420f636f37e2d83d077d328f6977947d1d21364fbbe64f",
+      "test": "e4f35e7552ae0b5b330d2369a6b8570f3a84e7ab964f817c1980a661846ce566"
+    },
+    "train_rows": 1636,
+    "validation_rows": 2639,
+    "parameter_count": 35072520,
+    "target_shortened_train": 0,
+    "target_shortened_validation": 0,
+    "mean_training_source_character_coverage": null,
+    "positive_loss_weights": [
+      20.0,
+      20.0,
+      20.0,
+      20.0,
+      20.0,
+      19.708860397338867,
+      16.221052169799805,
+      20.0
+    ],
+    "optimizer": "AdamW",
+    "gradient_clip_norm": 1.0,
+    "scheduler": "linear 10% warmup",
+    "mixed_precision": false,
+    "resume_support": "saved checkpoint for inference / warm start; optimizer state is not saved",
+    "training_seconds": 723.752653900001,
+    "epochs_completed": 3
+  },
+  "dataset": "CUAD-derived eight-label segments; non-Indian contracts"
+}

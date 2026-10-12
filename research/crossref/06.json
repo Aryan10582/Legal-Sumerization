@@ -1,0 +1,1957 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4283196,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2026-09-17T14:23:00Z",
+          "timestamp": 1789654980383,
+          "version": "4.0.1"
+        },
+        "reference-count": 75,
+        "publisher": "Elsevier BV",
+        "issue": "5",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-017"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-012"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2021-09-01T00:00:00Z",
+              "timestamp": 1630454400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-004"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Information Processing &amp; Management"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.ipm.2021.102684",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2021-07-12T06:06:48Z",
+          "timestamp": 1626070008000
+        },
+        "page": "102684",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 75,
+        "title": [
+          "Natural language processing in law: Prediction of outcomes in the higher courts of Turkey"
+        ],
+        "prefix": "10.1016",
+        "volume": "58",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1201-1941",
+            "authenticated-orcid": false,
+            "given": "Emre",
+            "family": "Mumcuoğlu",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9744-6778",
+            "authenticated-orcid": false,
+            "given": "Ceyhun E.",
+            "family": "Öztürk",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Haldun M.",
+            "family": "Ozaktas",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Aykut",
+            "family": "Koç",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.ipm.2021.102684_b1",
+            "series-title": "Zemberek, an open source NLP framework for Turkic Languages",
+            "author": "Akın",
+            "year": "2013"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ipm.2021.102684_b2",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1017/S1351324919000627",
+            "article-title": "Transfer learning for Turkish named entity recognition on noisy text",
+            "volume": "27",
+            "author": "Akkaya",
+            "year": "2020",
+            "journal-title": "Natural Language Engineering"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b3",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.7717/peerj-cs.93",
+            "article-title": "Predicting judicial decisions of the European Court of Human Rights: A natural language processing perspective",
+            "volume": "2",
+            "author": "Aletras",
+            "year": "2016",
+            "journal-title": "PeerJ Computer Science"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b4",
+            "doi-asserted-by": "crossref",
+            "first-page": "183",
+            "DOI": "10.1016/S0004-3702(03)00105-X",
+            "article-title": "Using background knowledge in case-based legal reasoning: A computational model and an intelligent learning environment",
+            "volume": "150",
+            "author": "Aleven",
+            "year": "2003",
+            "journal-title": "Artificial Intelligence"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b5",
+            "series-title": "Introduction to Turkish law",
+            "author": "Ansay",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b6",
+            "series-title": "International conference on the computational processing of Portuguese",
+            "first-page": "313",
+            "article-title": "LeNER-Br: A dataset for named entity recognition in Brazilian legal text",
+            "author": "de Araujo",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b7",
+            "series-title": "Modelling legal argument: Reasoning with cases and hypotheticals",
+            "author": "Ashley",
+            "year": "1988"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b8",
+            "series-title": "Proceedings of the 2nd international conference on artificial intelligence and law",
+            "first-page": "93",
+            "article-title": "Toward a computational theory of arguing with precedents",
+            "author": "Ashley",
+            "year": "1989"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ipm.2021.102684_b9",
+            "doi-asserted-by": "crossref",
+            "first-page": "753",
+            "DOI": "10.1016/0020-7373(91)90011-U",
+            "article-title": "Reasoning with cases and hypotheticals in HYPO",
+            "volume": "34",
+            "author": "Ashley",
+            "year": "1991",
+            "journal-title": "International Journal of Man-Machine Studies"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b10",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1007/BF00114920",
+            "article-title": "Case-based reasoning and its implications for legal expert systems",
+            "volume": "1",
+            "author": "Ashley",
+            "year": "1992",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ipm.2021.102684_b11",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1007/s10506-009-9077-9",
+            "article-title": "Automatically classifying case texts and predicting outcomes",
+            "volume": "17",
+            "author": "Ashley",
+            "year": "2009",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.ipm.2021.102684_b12",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1109/64.21892",
+            "article-title": "A case-based approach to modeling legal expertise",
+            "volume": "3",
+            "author": "Ashley",
+            "year": "1988",
+            "journal-title": "IEEE Expert: Intelligent Systems and their Applications"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b13",
+            "unstructured": "Bahdanau, D., Cho, K., & Bengio, Y. (2015). Neural machine translation by jointly learning to align and translate. In Y. Bengio & Y. LeCun (Eds.), 3rd international conference on learning representations."
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b14",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1007/s10506-012-9131-x",
+            "article-title": "A history of AI and Law in 50 papers: 25 years of the international conference on AI and Law",
+            "volume": "20",
+            "author": "Bench-Capon",
+            "year": "2012",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b15",
+            "series-title": "AI approaches to the complexity of legal systems",
+            "first-page": "465",
+            "article-title": "Inducing predictive models for decision support in administrative adjudication",
+            "author": "Branting",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b16",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b17",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.2307/1227753",
+            "article-title": "Some speculation about artificial intelligence and legal reasoning",
+            "volume": "23",
+            "author": "Buchanan",
+            "year": "1970",
+            "journal-title": "Stanford Law Review"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b18",
+            "series-title": "Proceedings of the 16th edition of the international conference on articial intelligence and law",
+            "first-page": "9",
+            "article-title": "A low-cost, high-coverage legal named entity recognizer, classifier and linker",
+            "author": "Cardellino",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b19",
+            "series-title": "Legal knowledge and information systems",
+            "first-page": "155",
+            "article-title": "A deep learning approach to contract element extraction",
+            "volume": "vol. 302",
+            "author": "Chalkidis",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b20",
+            "series-title": "Proceedings of the 16th edition of the international conference on articial intelligence and law",
+            "first-page": "19",
+            "article-title": "Extracting contract elements",
+            "author": "Chalkidis",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b21",
+            "series-title": "Proceedings of the 56th annual meeting of the association for computational linguistics (volume 2: Short papers)",
+            "first-page": "254",
+            "article-title": "Obligation and prohibition extraction using hierarchical RNNs",
+            "author": "Chalkidis",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b22",
+            "first-page": "1",
+            "article-title": "Deep learning in law: Early adaptation and legal word embeddings trained on large corpora",
+            "volume": "27",
+            "author": "Chalkidis",
+            "year": "2018",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b23",
+            "series-title": "Proceedings of the 2014 conference on empirical methods in natural language processing",
+            "first-page": "1724",
+            "article-title": "Learning phrase representations using RNN encoder–decoder for statistical machine translation",
+            "author": "Cho",
+            "year": "2014"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b24",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1023/A:1022627411411",
+            "article-title": "Support vector networks",
+            "volume": "20",
+            "author": "Cortes",
+            "year": "1995",
+            "journal-title": "Machine Learning"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b25",
+            "series-title": "Legal question answering using ranking SVM and deep convolutional neural network",
+            "author": "Do",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b26",
+            "series-title": "Semantic processing of legal texts: Where the language of law meets the law of language",
+            "first-page": "27",
+            "article-title": "Named entity recognition and resolution in legal text",
+            "author": "Dozier",
+            "year": "2010"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ipm.2021.102684_b27",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2019.102121",
+            "article-title": "Arabic text classification using deep learning models",
+            "volume": "57",
+            "author": "Elnagar",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b28",
+            "series-title": "Proceedings of the 2018 artificial intelligence and cloud computing conference",
+            "first-page": "23",
+            "article-title": "Deep learning for named-entity linking with transfer learning for legal documents",
+            "author": "Elnaggar",
+            "year": "2018"
+          },
+          {
+            "issue": "3",
+            "key": "10.1016/j.ipm.2021.102684_b29",
+            "doi-asserted-by": "crossref",
+            "first-page": "516",
+            "DOI": "10.1016/j.ipm.2018.11.009",
+            "article-title": "Quantifying risk associated with clinical trial termination: A text mining approach",
+            "volume": "56",
+            "author": "Follett",
+            "year": "2019",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b30",
+            "series-title": "Deep learning",
+            "author": "Goodfellow",
+            "year": "2016"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b31",
+            "series-title": "2018 26th IEEE signal processing and communications applications conference",
+            "first-page": "1",
+            "article-title": "Turkish named entity recognition with deep learning",
+            "author": "Güneş",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b32",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1017/S1351324918000281",
+            "article-title": "The effect of morphology in named entity recognition with sequence tagging",
+            "volume": "25",
+            "author": "Güngör",
+            "year": "2019",
+            "journal-title": "Natural Language Engineering"
+          },
+          {
+            "issue": "1–3",
+            "key": "10.1016/j.ipm.2021.102684_b33",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1023/A:1019516031847",
+            "article-title": "The role of context in case-based legal reasoning: Teleological, temporal, and procedural",
+            "volume": "10",
+            "author": "Hafner",
+            "year": "2002",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ipm.2021.102684_b34",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2020.102371",
+            "article-title": "Shallow and deep learning for event relatedness classification",
+            "volume": "57",
+            "author": "Haneczok",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.ipm.2021.102684_b35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1735",
+            "DOI": "10.1162/neco.1997.9.8.1735",
+            "article-title": "Long short-term memory",
+            "volume": "9",
+            "author": "Hochreiter",
+            "year": "1997",
+            "journal-title": "Neural Computation"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b36",
+            "series-title": "2019 3rd international conference on intelligent computing in data sciences",
+            "first-page": "1",
+            "article-title": "Arabic text classification in the legal domain",
+            "author": "Ikram",
+            "year": "2019"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ipm.2021.102684_b37",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2020.102365",
+            "article-title": "A deep neural network model for speakers coreference resolution in legal texts",
+            "volume": "57",
+            "author": "Ji",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ipm.2021.102684_b38",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2020.102305",
+            "article-title": "An end-to-end joint model for evidence information extraction from court record document",
+            "volume": "57",
+            "author": "Ji",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ipm.2021.102684_b39",
+            "doi-asserted-by": "crossref",
+            "first-page": "426",
+            "DOI": "10.1016/j.ipm.2013.12.002",
+            "article-title": "Evaluating and understanding text-based stock price prediction models",
+            "volume": "50",
+            "author": "Junqué de Fortuny",
+            "year": "2014",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.ipm.2021.102684_b40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1371/journal.pone.0174698",
+            "article-title": "A general approach for predicting the behavior of the Supreme Court of the United States",
+            "volume": "12",
+            "author": "Katz",
+            "year": "2017",
+            "journal-title": "PLoS One"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ipm.2021.102684_b41",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2019.102132",
+            "article-title": "Rapid relevance classification of social media posts in disasters and emergencies: A system and evaluation featuring active, incremental and online learning",
+            "volume": "57",
+            "author": "Kaufhold",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b42",
+            "series-title": "New frontiers in artificial intelligence",
+            "first-page": "282",
+            "article-title": "Applying a convolutional neural network to legal question answering",
+            "author": "Kim",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b43",
+            "series-title": "Turkish pre-trained Word2Vec model",
+            "author": "Köksal",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b44",
+            "series-title": "2018 5th Asian conference on defense technology",
+            "first-page": "50",
+            "article-title": "Predicting judicial decisions of criminal cases from Thai Supreme Court using bi-directional GRU with attention mechanism",
+            "author": "Kowsrihawat",
+            "year": "2018"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ipm.2021.102684_b45",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2019.102141",
+            "article-title": "Hybrid context enriched deep learning model for fine-grained sentiment analysis in textual and visual semiotic modality social data",
+            "volume": "57",
+            "author": "Kumar",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b46",
+            "series-title": "Semantic systems. The power of AI and knowledge graphs",
+            "first-page": "272",
+            "article-title": "Fine-grained named entity recognition in legal documents",
+            "author": "Leitner",
+            "year": "2019"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.ipm.2021.102684_b47",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2020.102212",
+            "article-title": "Incorporating stock prices and news sentiments for stock market prediction: A case of Hong Kong",
+            "volume": "57",
+            "author": "Li",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b48",
+            "series-title": "Chinese computational linguistics",
+            "first-page": "558",
+            "article-title": "Automatic judgment prediction via legal reading comprehension",
+            "author": "Long",
+            "year": "2019"
+          },
+          {
+            "issue": "4",
+            "key": "10.1016/j.ipm.2021.102684_b49",
+            "doi-asserted-by": "crossref",
+            "first-page": "761",
+            "DOI": "10.1017/S1537592704040502",
+            "article-title": "Competing approaches to predicting supreme court decision making",
+            "volume": "2",
+            "author": "Martin",
+            "year": "2004",
+            "journal-title": "Perspectives on Politics"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b50",
+            "series-title": "Efficient estimation of word representations in vector space",
+            "author": "Mikolov",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b51",
+            "series-title": "Proceedings of the 26th international conference on neural information processing systems - volume 2",
+            "first-page": "3111",
+            "article-title": "Distributed representations of words and phrases and their compositionality",
+            "author": "Mikolov",
+            "year": "2013"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b52",
+            "series-title": "4th competition on legal information extraction and entailment, held in conjunction with the 16th international conference on artificial intelligence and law in king’s college London, UK",
+            "first-page": "79",
+            "article-title": "Legal question answering system using neural attention",
+            "volume": "vol. 47",
+            "author": "Morimoto",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b53",
+            "series-title": "4th competition on legal information extraction and entailment",
+            "first-page": "68",
+            "article-title": "Legal information retrieval using topic clustering and neural networks",
+            "volume": "vol. 47",
+            "author": "Nanda",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b54",
+            "series-title": "Legal knowledge and information systems",
+            "first-page": "125",
+            "article-title": "A semi-supervised training method for semantic search of legal facts in Canadian immigration cases",
+            "volume": "vol. 302",
+            "author": "Nejadgholi",
+            "year": "2017"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ipm.2021.102684_b55",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1007/s10506-018-9225-1",
+            "article-title": "Recurrent neural network-based models for recognizing requisite and effectuation parts in legal texts",
+            "volume": "26",
+            "author": "Nguyen",
+            "year": "2018",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b56",
+            "series-title": "Proceedings of the 16th edition of the international conference on artificial intelligence and law",
+            "first-page": "159",
+            "article-title": "Classifying sentential modality in legal language: A use case in financial regulations, acts and directives",
+            "author": "O’Neill",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b57",
+            "series-title": "Proceedings of the 2014 conference on empirical methods in natural language processing",
+            "first-page": "1532",
+            "article-title": "GloVe: Global vectors for word representation",
+            "author": "Pennington",
+            "year": "2014"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.ipm.2021.102684_b58",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2019.102086",
+            "article-title": "On detecting business event from the headlines and leads of massive online news articles",
+            "volume": "56",
+            "author": "Qian",
+            "year": "2019",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b59",
+            "series-title": "Data mining and knowledge discovery handbook",
+            "first-page": "165",
+            "article-title": "Decision trees",
+            "author": "Rokach",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b60",
+            "doi-asserted-by": "crossref",
+            "first-page": "1150",
+            "DOI": "10.2307/4099370",
+            "article-title": "The supreme court forecasting project: Legal and political science approaches to predicting supreme court decisionmaking",
+            "volume": "104",
+            "author": "Ruger",
+            "year": "2004",
+            "journal-title": "Columbia Law Review"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b61",
+            "series-title": "2016 8th international conference on advanced computing",
+            "first-page": "212",
+            "article-title": "Information retrieval system for laws",
+            "author": "Sangeetha",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b62",
+            "series-title": "Proceedings of the 4th international conference on artificial intelligence and law",
+            "first-page": "192",
+            "article-title": "A simple computational model for nonmonotonic and adversarial legal reasoning",
+            "author": "Sartor",
+            "year": "1993"
+          },
+          {
+            "issue": "5",
+            "key": "10.1016/j.ipm.2021.102684_b63",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.1016/j.ipm.2009.05.001",
+            "article-title": "A quantitative stock prediction system based on financial news",
+            "volume": "45",
+            "author": "Schumaker",
+            "year": "2009",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ipm.2021.102684_b64",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1007/s10506-017-9197-6",
+            "article-title": "Recognizing cited facts and principles in legal judgements",
+            "volume": "25",
+            "author": "Shulayeva",
+            "year": "2017",
+            "journal-title": "Artificial Intelligence and Law"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b65",
+            "series-title": "2018 IEEE 26th international requirements engineering conference",
+            "first-page": "124",
+            "article-title": "Automated extraction of semantic legal metadata using natural language processing",
+            "author": "Sleimi",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b66",
+            "series-title": "Proceedings of the second workshop on automated semantic analysis of information in legal texts co-located with the 16th international conference on artificial intelligence and law",
+            "article-title": "Exploring the use of text classification in the legal domain",
+            "volume": "vol. 2143",
+            "author": "Şulea",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b67",
+            "series-title": "Proceedings of the international conference recent advances in natural language processing",
+            "first-page": "716",
+            "article-title": "Predicting the law area and decisions of french supreme court cases",
+            "author": "Şulea",
+            "year": "2017"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b68",
+            "series-title": "Introduction to data mining",
+            "author": "Tan",
+            "year": "2005"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b69",
+            "series-title": "Matching law cases and reference law provision with a neural attention model",
+            "author": "Tang",
+            "year": "2016"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ipm.2021.102684_b70",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.ipm.2019.102147",
+            "article-title": "Pachinko prediction: A Bayesian method for event prediction from social media data",
+            "volume": "57",
+            "author": "Tuke",
+            "year": "2020",
+            "journal-title": "Information Processing & Management"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ipm.2021.102684_b71",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1017/S135132490200284X",
+            "article-title": "A statistical information extraction system for Turkish",
+            "volume": "9",
+            "author": "Tür",
+            "year": "2003",
+            "journal-title": "Natural Language Engineering"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.ipm.2021.102684_b72",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1613/jair.2934",
+            "article-title": "From frequency to meaning: Vector space models of semantics",
+            "volume": "37",
+            "author": "Turney",
+            "year": "2010",
+            "journal-title": "Journal of Artificial Intelligence Research"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.ipm.2021.102684_b73",
+            "first-page": "8:1",
+            "article-title": "A semisupervised tag-transition-based Markovian model for Uyghur morphology analysis",
+            "volume": "16",
+            "author": "Tursun",
+            "year": "2016",
+            "journal-title": "ACM Transactions on Asian and Low-Resource Language Information Processing"
+          },
+          {
+            "key": "10.1016/j.ipm.2021.102684_b74",
+            "series-title": "2018 IEEE 42nd annual computer software and applications conference",
+            "first-page": "130",
+            "article-title": "Predicting decisions of the Philippine supreme court using natural language processing and machine learning",
+            "author": "Virtucio",
+            "year": "2018"
+          },
+          {
+            "issue": "361",
+            "key": "10.1016/j.ipm.2021.102684_b75",
+            "article-title": "An ontology in OWL for legal case-based reasoning",
+            "volume": "16",
+            "author": "Wyner",
+            "year": "2008",
+            "journal-title": "Artificial Intelligence and Law"
+          }
+        ],
+        "container-title": [
+          "Information Processing &amp; Management"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0306457321001692?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S0306457321001692?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              5
+            ]
+          ],
+          "date-time": "2025-10-05T18:21:38Z",
+          "timestamp": 1759688498000
+        },
+        "score": 51.32878,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0306457321001692"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        },
+        "references-count": 75,
+        "journal-issue": {
+          "issue": "5",
+          "published-print": {
+            "date-parts": [
+              [
+                2021,
+                9
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "S0306457321001692"
+        ],
+        "URL": "https://doi.org/10.1016/j.ipm.2021.102684",
+        "ISSN": [
+          "0306-4573"
+        ],
+        "issn-type": [
+          {
+            "value": "0306-4573",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              9
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Natural language processing in law: Prediction of outcomes in the higher courts of Turkey",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Information Processing & Management",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.ipm.2021.102684",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2021 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "102684"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2026-09-17T02:04:19Z",
+          "timestamp": 1789610659359,
+          "version": "build-2803163510"
+        },
+        "publisher-location": "Cham",
+        "reference-count": 55,
+        "publisher": "Springer Nature Switzerland",
+        "isbn-type": [
+          {
+            "value": "9783031879937",
+            "type": "print"
+          },
+          {
+            "value": "9783031879937",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-031-87993-7_184-1",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2026-09-17T01:39:02Z",
+          "timestamp": 1789609142000
+        },
+        "page": "1-16",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Natural Language Processing and Law"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Pablo",
+            "family": "Meix-Cereceda",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              18
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "4",
+            "key": "184-1_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "441",
+            "DOI": "10.1111/raju.12096",
+            "volume": "28",
+            "author": "R Alexy",
+            "year": "2015",
+            "unstructured": "Alexy, R. 2015. Legal certainty and correctness. Ratio Juris 28 (4): 441–451. https://doi.org/10.1111/raju.12096.",
+            "journal-title": "Ratio Juris"
+          },
+          {
+            "key": "184-1_CR2",
+            "volume-title": "Nichomachean ethics",
+            "author": "Aristotle (350 BCE)",
+            "year": "1925",
+            "unstructured": "Aristotle (350 BCE). 1925. Nichomachean ethics. The Internet Classics Archive."
+          },
+          {
+            "key": "184-1_CR3",
+            "first-page": "19",
+            "volume-title": "Language and social history. Studies in South African sociolinguistics",
+            "author": "R Bailey",
+            "year": "1995",
+            "unstructured": "Bailey, R. 1995. The Bantu languages of South Africa: Towards a sociohistorical perspective. In Language and social history. Studies in South African sociolinguistics, edited by R. Mesthrie, 19–38. Cape Town and Johannesburg: David Philip."
+          },
+          {
+            "key": "184-1_CR4",
+            "volume-title": "Marxism and the philosophy of language",
+            "author": "Bakhtin MM (under the pseudonym of Voloshinov VN)",
+            "year": "1973",
+            "unstructured": "Bakhtin MM (under the pseudonym of Voloshinov VN). 1973. Marxism and the philosophy of language. Cambridge: Harvard University Press."
+          },
+          {
+            "issue": "1",
+            "key": "184-1_CR5",
+            "first-page": "1",
+            "volume": "26",
+            "author": "KD Beiter",
+            "year": "2020",
+            "unstructured": "Beiter, K. D. 2020. Not the African copyright pirate is perverse, but the situation in which s(he) lives –textbooks for education, extraterritorial human rights obligations, and constitutionalization “from below” in IP law. Buffalo Human Rights Law Review 26 (1): 1–79.",
+            "journal-title": "Buffalo Human Rights Law Review"
+          },
+          {
+            "issue": "1",
+            "key": "184-1_CR6",
+            "first-page": "88",
+            "volume": "48",
+            "author": "KD Beiter",
+            "year": "2022",
+            "unstructured": "Beiter, K. D. 2022. Reforming copyright or toward another science? Brooklyn Journal of International Law 48 (1): 88–214.",
+            "journal-title": "Brooklyn Journal of International Law"
+          },
+          {
+            "key": "184-1_CR7",
+            "unstructured": "Belcic, I., and C. Stryker. 2026. LLM parameters, defined. https://www.ibm.com/think/topics/llm-parameters. Accessed 18 Apr 2026."
+          },
+          {
+            "key": "184-1_CR8",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Bender, E., T. Gebru, A. McMillan-Major, et al. 2021. On the dangers of stochastic parrots: Can language models be too big? FAccT '21: Proceedings of the 2021 ACM conference on fairness, accountability, and transparency. https://doi.org/10.1145/3442188.3445922.",
+            "DOI": "10.1145/3442188.3445922"
+          },
+          {
+            "key": "184-1_CR9",
+            "volume-title": "Works",
+            "author": "J Bentham",
+            "year": "1843",
+            "unstructured": "Bentham, J. 1843. Works. John Bowring edition."
+          },
+          {
+            "issue": "4",
+            "key": "184-1_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "63",
+            "DOI": "10.1558/cj.v5i4.63-75",
+            "volume": "5",
+            "author": "FL Borchardt",
+            "year": "1988",
+            "unstructured": "Borchardt, F. L. 1988. Neural network computing and natural language processing. CALICO Journal 5 (4): 63–75.",
+            "journal-title": "CALICO Journal"
+          },
+          {
+            "key": "184-1_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1007/978-1-4684-2292-4",
+            "volume-title": "The neuropsychology of language",
+            "author": "N Chomsky",
+            "year": "1976",
+            "unstructured": "Chomsky, N. 1976. On the biological basis of language capacities. In The neuropsychology of language, edited by R. W. Rieber, 1–24. New York: Springer. https://doi.org/10.1007/978-1-4684-2292-4."
+          },
+          {
+            "key": "184-1_CR12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/CBO9780511613876",
+            "volume-title": "On nature and language",
+            "author": "N Chomsky",
+            "year": "2010",
+            "unstructured": "Chomsky, N. 2010. On nature and language. Cambridge University Press. https://doi.org/10.1017/CBO9780511613876."
+          },
+          {
+            "issue": "4",
+            "key": "184-1_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "41",
+            "DOI": "10.1080/15265161.2024.2337394",
+            "volume": "25",
+            "author": "JT Clapp",
+            "year": "2025",
+            "unstructured": "Clapp, J. T., J. M. Kruser, M. L. Schwarze, et al. 2025. Language in bioethics: Beyond the representational view. The American Journal of Bioethics 25 (4): 41–53. https://doi.org/10.1080/15265161.2024.2337394.",
+            "journal-title": "The American Journal of Bioethics"
+          },
+          {
+            "key": "184-1_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Conneau, A., K. Khandelwal, N. Goyal, et al. 2020. Unsupervised cross-lingual representation learning at scale. In: Proceedings of the 58th annual meeting of the association for computational linguistics, pp. 8440–8451.",
+            "DOI": "10.18653/v1/2020.acl-main.747"
+          },
+          {
+            "issue": "1",
+            "key": "184-1_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "20",
+            "DOI": "10.58221/mosp.v100i1.9235",
+            "volume": "100",
+            "author": "D Crystal",
+            "year": "2006",
+            "unstructured": "Crystal, D. 2006. English and the communication of science. Moderna Språk 100 (1): 20–33. https://doi.org/10.58221/mosp.v100i1.9235.",
+            "journal-title": "Moderna Språk"
+          },
+          {
+            "key": "184-1_CR16",
+            "volume-title": "Language and law",
+            "author": "A Durant",
+            "year": "2016",
+            "unstructured": "Durant, A., and J. H. C. Leung. 2016. Language and law. London/New York: Routledge."
+          },
+          {
+            "key": "184-1_CR17",
+            "volume-title": "The society of individuals",
+            "author": "N Elias",
+            "year": "2001",
+            "unstructured": "Elias, N. 2001. The society of individuals. New York: Bloomsbury."
+          },
+          {
+            "issue": "2",
+            "key": "184-1_CR18",
+            "first-page": "215",
+            "volume": "14",
+            "author": "N Elkin-Koren",
+            "year": "1996",
+            "unstructured": "Elkin-Koren, N. 1996. Cyberlaw and social change: A democratic approach to copyright law in cyberspace. Cardozo Arts & Entertainment Law Journal 14 (2): 215–295.",
+            "journal-title": "Cardozo Arts & Entertainment Law Journal"
+          },
+          {
+            "key": "184-1_CR19",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Ernst, M.D. 2017. Natural language is a programming language: Applying natural language processing to software development. In: 2nd summit on advances in programming languages (SNAPL 2017). Leibniz International Proceedings in Informatics (LIPIcs) 71:4:1–4:14. https://doi.org/10.4230/LIPIcs.SNAPL.2017.4.",
+            "DOI": "10.4230/LIPIcs.SNAPL.2017.4"
+          },
+          {
+            "issue": "3",
+            "key": "184-1_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "1097",
+            "DOI": "10.1162/coli_a_00524",
+            "volume": "50",
+            "author": "I Gallegos",
+            "year": "2024",
+            "unstructured": "Gallegos, I., R. A. Rossi, J. Barrow, et al. 2024. Bias and fairness in large language models: A survey. Computational Linguistics 50 (3): 1097–1179. https://doi.org/10.1162/coli_a_00524.",
+            "journal-title": "Computational Linguistics"
+          },
+          {
+            "key": "184-1_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hirschberg, J., and C. Manning. 2015. Advances in natural language processing. Science, 17 July 2015, New Series 349(6245):261–266.",
+            "DOI": "10.1126/science.aaa8685"
+          },
+          {
+            "issue": "1",
+            "key": "184-1_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "91",
+            "DOI": "10.14421/ajis.2024.621.91-117",
+            "volume": "62",
+            "author": "M Ikhwan",
+            "year": "2024",
+            "unstructured": "Ikhwan, M. 2024. When literary ‘Arabiya was adopted for a religious mission. The Quran and the expansion of the Arabic Poetic Koine. Al-Jāmi‘ah: Journal of Islamic Studies 62 (1): 91–117. https://doi.org/10.14421/ajis.2024.621.91-117.",
+            "journal-title": "Al-Jāmi‘ah: Journal of Islamic Studies"
+          },
+          {
+            "key": "184-1_CR23",
+            "volume-title": "Preface to the second edition of The Critique of Pure Reason",
+            "author": "I Kant",
+            "year": "1787",
+            "unstructured": "Kant, I. 1787. Preface to the second edition of The Critique of Pure Reason. Project Gutenberg Ebook 4280."
+          },
+          {
+            "issue": "5",
+            "key": "184-1_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "867",
+            "DOI": "10.1093/applin/amab072",
+            "volume": "43",
+            "author": "E Kutlu",
+            "year": "2022",
+            "unstructured": "Kutlu, E., M. Tiv, S. Wulff, et al. 2022. The impact of race on speech perception and accentedness judgements in racially diverse and non-diverse groups. Applied Linguistics 43 (5): 867–890. https://doi.org/10.1093/applin/amab072.",
+            "journal-title": "Applied Linguistics"
+          },
+          {
+            "key": "184-1_CR25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu, Y., H. He, T. Han, et al. 2025a. Understanding LLMs: A comprehensive overview from training to inference. Neurocomputing 620.",
+            "DOI": "10.1016/j.neucom.2024.129190"
+          },
+          {
+            "key": "184-1_CR26",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Liu, Y., M.J.Q. Zhang, and E. Choi. 2025b. User feedback in human-LLM dialogues: A lens to understand users but noisy as a learning signal. In: Proceedings of the 2025 conference on empirical methods in natural language processing, pp. 2666–2681. https://doi.org/10.18653/v1/2025.emnlp-main.133.",
+            "DOI": "10.18653/v1/2025.emnlp-main.133"
+          },
+          {
+            "key": "184-1_CR27",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Magueresse, A., V. Carles, and E. Heetderks. 2020. Low-resource languages: A review of past work and future challenges. arXiv 2006.07264. https://doi.org/10.48550/arXiv.2006.07264.",
+            "DOI": "10.48550/arXiv.2006.07264"
+          },
+          {
+            "issue": "22",
+            "key": "184-1_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "10052",
+            "DOI": "10.1073/pnas.92.22.10052",
+            "volume": "92",
+            "author": "M Marcus",
+            "year": "1995",
+            "unstructured": "Marcus, M. 1995. New trends in natural language processing: Statistical natural language processing. Proceedings National Academy of Sciences of USA 92 (22): 10052–10059. 24 October 1995.",
+            "journal-title": "Proceedings National Academy of Sciences of USA"
+          },
+          {
+            "key": "184-1_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "McShane, M. 2017. Natural language understanding (NLU, not NLP) in cognitive systems. AI Magazine (Association Advancement of AI), Winter 2017: 43–56.",
+            "DOI": "10.1609/aimag.v38i4.2745"
+          },
+          {
+            "issue": "1",
+            "key": "184-1_CR30",
+            "first-page": "309",
+            "volume": "36",
+            "author": "P Meix Cereceda",
+            "year": "2024",
+            "unstructured": "Meix Cereceda, P. 2024. The right to education in the age of digital technologies. European Review of Public Law 36 (1): 309–319.",
+            "journal-title": "European Review of Public Law"
+          },
+          {
+            "key": "184-1_CR31",
+            "volume-title": "Lenguaje, Poder y Derecho en la Edad de la Información",
+            "author": "P Meix Cereceda",
+            "year": "2025",
+            "unstructured": "Meix Cereceda, P. 2025. Lenguaje, Poder y Derecho en la Edad de la Información. Madrid: Iustel."
+          },
+          {
+            "issue": "4",
+            "key": "184-1_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "204",
+            "DOI": "10.1177/154193129604000413",
+            "volume": "40",
+            "author": "K Mosier",
+            "year": "1996",
+            "unstructured": "Mosier, K., L. J. Skikta, M. D. Burdick, et al. 1996. Automation bias, accountability, and verification behaviors. Proceedings of the Human Factors and Ergonomics Society 40 (4): 204–208. https://doi.org/10.1177/154193129604000413.",
+            "journal-title": "Proceedings of the Human Factors and Ergonomics Society"
+          },
+          {
+            "key": "184-1_CR33",
+            "volume-title": "Saussure ou le structuraliste sans le savoir. Présentation, choix de textes, bibliographie",
+            "author": "G Mounin",
+            "year": "1968",
+            "unstructured": "Mounin, G. 1968. Saussure ou le structuraliste sans le savoir. Présentation, choix de textes, bibliographie. Paris: Seghers."
+          },
+          {
+            "key": "184-1_CR34",
+            "volume-title": "Introduction à la sémiologie",
+            "author": "G Mounin",
+            "year": "1970",
+            "unstructured": "Mounin, G. 1970. Introduction à la sémiologie. Paris: Minuit."
+          },
+          {
+            "issue": "12",
+            "key": "184-1_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "4421",
+            "DOI": "10.14778/3685800.3685890",
+            "volume": "17",
+            "author": "ZA Naeem",
+            "year": "2024",
+            "unstructured": "Naeem, Z. A., M. S. Ahmad, M. Eltabakh, et al. 2024. RetClean: Retrieval-based data cleaning using LLMs and data lakes. Proceedings of the VLDB Endowment 17 (12): 4421–4424. https://doi.org/10.14778/3685800.3685890.",
+            "journal-title": "Proceedings of the VLDB Endowment"
+          },
+          {
+            "issue": "2",
+            "key": "184-1_CR36",
+            "doi-asserted-by": "publisher",
+            "first-page": "135",
+            "DOI": "10.1080/00437956.1949.11659494",
+            "volume": "5",
+            "author": "MA Pei",
+            "year": "1949",
+            "unstructured": "Pei, M. A. 1949. A new methodology for romance classification. Word 5 (2): 135–146. https://doi.org/10.1080/00437956.1949.11659494.",
+            "journal-title": "Word"
+          },
+          {
+            "key": "184-1_CR37",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Reda, W., A. Jangda, and K. Chintalapudi. 2025. How many parameters does your task really need? Task specific pruning with LLM-sieve, arXiv:2505.18350v2. https://doi.org/10.48550/arXiv.2505.18350.",
+            "DOI": "10.48550/arXiv.2505.18350"
+          },
+          {
+            "key": "184-1_CR38",
+            "unstructured": "Rogers, K. 2011. Scientific modelling. Britannica. Accessed 10 Dec 2025."
+          },
+          {
+            "key": "184-1_CR39",
+            "volume-title": "Social acceleration",
+            "author": "H Rosa",
+            "year": "2005",
+            "unstructured": "Rosa, H. 2005. Social acceleration. New York/Chichester: Columbia University Press."
+          },
+          {
+            "key": "184-1_CR40",
+            "volume-title": "Human compatible: Artificial intelligence and the problem of control",
+            "author": "SJ Russell",
+            "year": "2020",
+            "unstructured": "Russell, S. J. 2020. Human compatible: Artificial intelligence and the problem of control. Penguin."
+          },
+          {
+            "issue": "21",
+            "key": "184-1_CR41",
+            "doi-asserted-by": "publisher",
+            "first-page": "10317",
+            "DOI": "10.1073/pnas.1817972116",
+            "volume": "116",
+            "author": "L Sagart",
+            "year": "2019",
+            "unstructured": "Sagart, L., G. Jacques, Y. Lai, et al. 2019. Dated language phylogenies shed light on the ancestry of Sino-Tibetan. Proceedings of the National Academy of Sciences of the United States of America 116 (21): 10317–10322. https://doi.org/10.1073/pnas.1817972116.",
+            "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+          },
+          {
+            "key": "184-1_CR42",
+            "first-page": "41",
+            "volume-title": "The Routledge handbook of English language studies",
+            "author": "EW Schneider",
+            "year": "2018",
+            "unstructured": "Schneider, E. W. 2018. English and colonialism. In The Routledge handbook of English language studies, edited by S. Pihlaja, 41–57. London: Routledge."
+          },
+          {
+            "key": "184-1_CR43",
+            "first-page": "21704",
+            "volume": "2025",
+            "author": "W Sheffield",
+            "year": "2025",
+            "unstructured": "Sheffield, W., K. Misra, V. Pyatkin, et al. 2025. Is it JUST semantics? A case study of discourse particle understanding in LLMs. Findings of the Association for Computational Linguistics: ACL 2025:21704–21715.",
+            "journal-title": "Findings of the Association for Computational Linguistics: ACL"
+          },
+          {
+            "issue": "8",
+            "key": "184-1_CR44",
+            "doi-asserted-by": "publisher",
+            "first-page": "1375",
+            "DOI": "10.1177/1461444812455148",
+            "volume": "14",
+            "author": "I Siles",
+            "year": "2012",
+            "unstructured": "Siles, I., and P. J. Boczkowski. 2012. Making sense of the newspaper crisis: A critical assessment of existing research and an agenda for future work. New Media & Society 14 (8): 1375–1394.",
+            "journal-title": "New Media & Society"
+          },
+          {
+            "issue": "4",
+            "key": "184-1_CR45",
+            "doi-asserted-by": "publisher",
+            "first-page": "82",
+            "DOI": "10.1080/15265161.2025.2470669",
+            "volume": "25",
+            "author": "A Sobieska",
+            "year": "2025",
+            "unstructured": "Sobieska, A., and G. Starke. 2025. Beyond words: Extending a pragmatic view of language to large language models for informed consent. The American Journal of Bioethics 25 (4): 82–85. https://doi.org/10.1080/15265161.2025.2470669.",
+            "journal-title": "The American Journal of Bioethics"
+          },
+          {
+            "issue": "2",
+            "key": "184-1_CR46",
+            "first-page": "153",
+            "volume": "13",
+            "author": "B Soucek",
+            "year": "2012",
+            "unstructured": "Soucek, B. 2012. Copy-paste precedent. Journal of Appellate Practice and Process 13 (2): 153–171.",
+            "journal-title": "Journal of Appellate Practice and Process"
+          },
+          {
+            "issue": "1",
+            "key": "184-1_CR47",
+            "doi-asserted-by": "publisher",
+            "first-page": "4",
+            "DOI": "10.24357/igjr.10.1.581",
+            "volume": "3",
+            "author": "J Tremmel",
+            "year": "2017",
+            "unstructured": "Tremmel, J. 2017. Constitutions as intergenerational contracts: Flexible or fixed? Intergenerational Justice Review 3 (1): 4–17. https://doi.org/10.24357/igjr.10.1.581.",
+            "journal-title": "Intergenerational Justice Review"
+          },
+          {
+            "issue": "S1",
+            "key": "184-1_CR48",
+            "doi-asserted-by": "publisher",
+            "first-page": "214",
+            "DOI": "10.1080/00455091.2014.897484",
+            "volume": "41",
+            "author": "J Turri",
+            "year": "2014",
+            "unstructured": "Turri, J. 2014. Reid on the priority of natural language. Canadian Journal of Philosophy 41 (S1): 214–223. https://doi.org/10.1080/00455091.2014.897484.",
+            "journal-title": "Canadian Journal of Philosophy"
+          },
+          {
+            "key": "184-1_CR49",
+            "volume-title": "Law as communication",
+            "author": "M Van Hoecke",
+            "year": "2002",
+            "unstructured": "Van Hoecke, M. 2002. Law as communication. Oxford and Portland: Hart."
+          },
+          {
+            "key": "184-1_CR50",
+            "unstructured": "Venkrit, P.N., T. Chakravorti, V. Gupta, et al. 2024. An audit on the perspectives and challenges of hallucinations in NLP. arXiv:2404.07461v2 [cs.CL] 14 Sep 2024."
+          },
+          {
+            "key": "184-1_CR51",
+            "first-page": "37",
+            "volume": "3/2003",
+            "author": "A Vicentini",
+            "year": "2003",
+            "unstructured": "Vicentini, A. 2003. The economy principle in language. Mots Palabras Words 3/2003:37–57.",
+            "journal-title": "Mots Palabras Words"
+          },
+          {
+            "key": "184-1_CR52",
+            "series-title": "Lecture notes in computer science",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/3-540-63223-9_131",
+            "volume-title": "Principles of data mining and knowledge discovery. PKDD 1997",
+            "author": "RJ Watts",
+            "year": "1997",
+            "unstructured": "Watts, R. J., A. L. Porter, S. Cunningham, et al. 1997. TOAS intelligence mining; analysis of natural language processing and computational linguistics. In Principles of data mining and knowledge discovery. PKDD 1997, Lecture notes in computer science, edited by J. Komorowski and J. Zytkow, vol. 1263. Berlin/Heidelberg: Springer. https://doi.org/10.1007/3-540-63223-9_131."
+          },
+          {
+            "key": "184-1_CR53",
+            "doi-asserted-by": "publisher",
+            "first-page": "22",
+            "DOI": "10.2307/300421",
+            "volume": "86",
+            "author": "G Woolf",
+            "year": "1996",
+            "unstructured": "Woolf, G. 1996. Monumental writing and the expansion of roman society in the early empire. Journal of Roman Studies 86:22–39. https://doi.org/10.2307/300421.",
+            "journal-title": "Journal of Roman Studies"
+          },
+          {
+            "key": "184-1_CR54",
+            "unstructured": "Xu, S., Li, Z., Mei, K., et al. 2024. AIOS compiler: LLM as interpreter for natural language programming and flow programming of AI agents. arXiv:2405.06907v2."
+          },
+          {
+            "issue": "4",
+            "key": "184-1_CR55",
+            "doi-asserted-by": "publisher",
+            "first-page": "796",
+            "DOI": "10.1177/1065912909336271",
+            "volume": "63",
+            "author": "J Yates",
+            "year": "2010",
+            "unstructured": "Yates, J., H. Tankersley, and P. Brace. 2010. Assessing the impact of state judicial structures on citizen litigiousness. Political Research Quarterly 63 (4): 796–810. https://doi.org/10.1177/1065912909336271.",
+            "journal-title": "Political Research Quarterly"
+          }
+        ],
+        "container-title": [
+          "International Handbook of Legal Language and Communication"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-031-87993-7_184-1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              17
+            ]
+          ],
+          "date-time": "2026-09-17T01:39:11Z",
+          "timestamp": 1789609151000
+        },
+        "score": 29.704506,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-031-87993-7_184-1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783031879937",
+          "9783031879937"
+        ],
+        "references-count": 55,
+        "URL": "https://doi.org/10.1007/978-3-031-87993-7_184-1",
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "19 April 2026, 00:00:00",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          },
+          {
+            "value": "20 April 2026, 00:00:00",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          },
+          {
+            "value": "18 September 2026",
+            "order": 3,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          },
+          {
+            "value": "The author(s) has no competing interests to declare that are relevant to the content of this manuscript.",
+            "order": 1,
+            "name": "Ethics",
+            "label": "Competing Interest Declaration",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Ethics"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              28
+            ]
+          ],
+          "date-time": "2026-08-28T06:31:31Z",
+          "timestamp": 1787898691223,
+          "version": "build-2784847793"
+        },
+        "reference-count": 0,
+        "publisher": "ASCEE Publications",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  7,
+                  3
+                ]
+              ],
+              "date-time": "2023-07-03T00:00:00Z",
+              "timestamp": 1688342400000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-sa/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Bull.Socinf.The.App"
+        ],
+        "abstract": "<jats:p>The application of Natural Language Processing (NLP) in an educational institution is still quite broad in its scope of use, including the use of NLP on chatterbots for academic consultations, handling service dissatisfaction, and spam email detection. Meanwhile, other uses that have not been widely used are the combination of NLP and Global Positioning Satellite (GPS) in finding the location of lecture buildings and other facilities in universities. The combination of NLP and GPS is expected to make it easier for new students, as well as visitors from outside the university, to find the targeted building and facilities more effectively.\r\n </jats:p>",
+        "DOI": "10.31763/businta.v6i1.593",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              28
+            ]
+          ],
+          "date-time": "2024-03-28T02:21:15Z",
+          "timestamp": 1711592475000
+        },
+        "page": "90-101",
+        "source": "Crossref",
+        "is-referenced-by-count": 6,
+        "title": [
+          "Natural Language Processing in Higher Education"
+        ],
+        "prefix": "10.31763",
+        "volume": "6",
+        "author": [
+          {
+            "given": "Nastiti Susetyo Fanany",
+            "family": "Putri",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Prasetya",
+            "family": "Widiharso",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Agung Bella Putra",
+            "family": "Utama",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Maharsa Caraka",
+            "family": "Shakti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Urvi",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "16968",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              3
+            ]
+          ]
+        },
+        "container-title": [
+          "Bulletin of Social Informatics Theory and Application"
+        ],
+        "link": [
+          {
+            "URL": "https://pubs.ascee.org/index.php/businta/article/download/593/247",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://pubs.ascee.org/index.php/businta/article/download/593/247",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              28
+            ]
+          ],
+          "date-time": "2024-03-28T02:21:20Z",
+          "timestamp": 1711592480000
+        },
+        "score": 28.800306,
+        "resource": {
+          "primary": {
+            "URL": "https://pubs.ascee.org/index.php/businta/article/view/593"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              3
+            ]
+          ]
+        },
+        "references-count": 0,
+        "journal-issue": {
+          "issue": "1",
+          "published-online": {
+            "date-parts": [
+              [
+                2022,
+                3,
+                31
+              ]
+            ]
+          }
+        },
+        "URL": "https://doi.org/10.31763/businta.v6i1.593",
+        "ISSN": [
+          "2614-0047"
+        ],
+        "issn-type": [
+          {
+            "value": "2614-0047",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              3
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

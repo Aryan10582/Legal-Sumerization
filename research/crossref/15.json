@@ -1,0 +1,1214 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2267637,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              4
+            ]
+          ],
+          "date-time": "2026-10-04T01:06:05Z",
+          "timestamp": 1791075965453,
+          "version": "4.1.0"
+        },
+        "reference-count": 44,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  11,
+                  27
+                ]
+              ],
+              "date-time": "2021-11-27T00:00:00Z",
+              "timestamp": 1637971200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2021,
+                  11,
+                  27
+                ]
+              ],
+              "date-time": "2021-11-27T00:00:00Z",
+              "timestamp": 1637971200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10506-021-09305-4",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2021-11-27T14:02:25Z",
+          "timestamp": 1638021745000
+        },
+        "page": "91-113",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 48,
+        "title": [
+          "Improving abstractive summarization of legal rulings through textual entailment"
+        ],
+        "prefix": "10.1007",
+        "volume": "31",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1249-9913",
+            "authenticated-orcid": false,
+            "given": "Diego de Vargas",
+            "family": "Feijo",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-4400-054X",
+            "authenticated-orcid": false,
+            "given": "Viviane P.",
+            "family": "Moreira",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              27
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9305_CR1",
+            "unstructured": "Beltagy I, Peters ME, Cohan A (2020) Longformer: The long-document transformer arXiv preprint arXiv:200405150"
+          },
+          {
+            "key": "9305_CR2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cao Z, Wei F, Li W, Li S (2018) Faithful to the original: fact aware neural abstractive summarization. In: thirty-second AAAI conference on artificial intelligence",
+            "DOI": "10.1609/aaai.v32i1.11912"
+          },
+          {
+            "key": "9305_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Carbonell J, Goldstein J (1998) The use of mmr, diversity-based reranking for reordering documents and producing summaries. In: proceedings of the 21st annual international ACM SIGIR conference on research and development in information retrieval, pp 335–336",
+            "DOI": "10.1145/290941.291025"
+          },
+          {
+            "key": "9305_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chandrasekaran MK, Yasunaga M, Radev D, Freitag D, Kan MY (2019) Overview and results: Cl-scisumm shared task 2019. In: in proceedings of joint workshop on bibliometric-enhanced information retrieval and NLP for digital libraries (BIRNDL 2019)",
+            "DOI": "10.1145/3331184.3331650"
+          },
+          {
+            "key": "9305_CR5",
+            "unstructured": "Child R, Gray S, Radford A, Sutskever I (2019) Generating long sequences with sparse transformers. arXiv preprint arXiv:190410509"
+          },
+          {
+            "key": "9305_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Compton P, Jansen R (1990) Knowledge in context: A strategy for expert system maintenance. In: proceedings of the second Australian joint conference on artificial intelligence, Springer-Verlag, Berlin, Heidelberg, AI ’88, p 292–306",
+            "DOI": "10.1007/3-540-52062-7_86"
+          },
+          {
+            "key": "9305_CR7",
+            "unstructured": "Devlin J, Chang MW, Lee K, Toutanova K (2018) BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:181004805"
+          },
+          {
+            "key": "9305_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Falke T, Ribeiro LF, Utama PA, Dagan I, Gurevych I (2019) Ranking generated summaries by correctness: an interesting but challenging application for natural language inference. In: proceedings of the 57th annual meeting of the association for computational linguistics, pp 2214–2220",
+            "DOI": "10.18653/v1/P19-1213"
+          },
+          {
+            "key": "9305_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fan A, Grangier D, Auli M (2018) Controllable abstractive summarization. In: proceedings of the 2nd workshop on neural machine translation and generation, 45–54",
+            "DOI": "10.18653/v1/W18-2706"
+          },
+          {
+            "key": "9305_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Feijo D, Moreira V (2018) Rulingbr: A summarization dataset for legal texts. In: computational processing of the portuguese language (PROPOR 2018), Springer International Publishing, pp 255–264",
+            "DOI": "10.1007/978-3-319-99722-3_26"
+          },
+          {
+            "key": "9305_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Feijo D, Moreira V (2019) Summarizing legal rulings: comparative experiments. in: proceedings of the international conference on recent advances in natural language processing (RANLP 2019), pp 313–322",
+            "DOI": "10.26615/978-954-452-056-4_036"
+          },
+          {
+            "key": "9305_CR12",
+            "unstructured": "Galgani F, Compton P, Hoffmann A (2012). Combining different summarization techniques for legal text. In: proceedings of the workshop on innovative hybrid approaches to the processing of textual data, Association for Computational Linguistics, pp 115–123"
+          },
+          {
+            "key": "9305_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gelbart D, Smith J (1991) Beyond boolean search: Flexicon, a legal text-based intelligent system. In: proceedings of the 3rd international conference on Artificial intelligence and law, pp 225–234",
+            "DOI": "10.1145/112646.112674"
+          },
+          {
+            "key": "9305_CR14",
+            "unstructured": "Goldhan D, Eckart T, Quasthoff U (2012) Building large monolingual dictionaries at the leipzig corpora collection: From 100 to 200 languages. In: proceedings of the 8th international language resources and evaluation (LREC’12)"
+          },
+          {
+            "key": "9305_CR15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goodrich B, Rao V, Liu PJ, Saleh M (2019) Assessing the factual accuracy of generated text. In: proceedings of the 25th ACM SIGKDD international conference on knowledge discovery & data mining, pp 166–175",
+            "DOI": "10.1145/3292500.3330955"
+          },
+          {
+            "key": "9305_CR16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grover C, Hachey B, Hughson I, Korycinski C (2003a) Automatic summarisation of legal documents. In: proceedings of the 9th international conference on artificial intelligence and law, association for computing machinery, ICAIL ’03, p 243–251",
+            "DOI": "10.1145/1047788.1047839"
+          },
+          {
+            "key": "9305_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grover C, Hachey B, Korycinski C (2003b). Summarising legal texts: Sentential tense and argumentative roles. In: proceedings of the HLT-NAACL 03 on text summarization workshop-volume 5, association for computational linguistics, pp 33–40",
+            "DOI": "10.3115/1119467.1119472"
+          },
+          {
+            "key": "9305_CR18",
+            "unstructured": "Guimarães JAC (2011) Elaboração de ementas jurisprudenciais: elementos teórico-metodológicos. Série Monografias do CEJ 9"
+          },
+          {
+            "key": "9305_CR19",
+            "unstructured": "Kitaev N, Kaiser Ł, Levskaya A (2020) Reformer: the efficient transformer arXiv preprint arXiv:200104451"
+          },
+          {
+            "key": "9305_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Klein G, Kim Y, Deng Y, Senellart J, Rush A (2017). OpenNMT: Open-source toolkit for neural machine translation. In: proceedings of ACL 2017, system demonstrations, association for computational linguistics, Vancouver, Canada, pp 67–72",
+            "DOI": "10.18653/v1/P17-4012"
+          },
+          {
+            "key": "9305_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kryściński W, McCann B, Xiong C, Socher R (2020) Evaluating the factual consistency of abstractive text summarization. In: proceedings of the 2020 conference on empirical methods in natural language processing (EMNLP), pp 9332–9346",
+            "DOI": "10.18653/v1/2020.emnlp-main.750"
+          },
+          {
+            "key": "9305_CR22",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Lewis M, Liu Y, Goyal N, Ghazvininejad M, Mohamed A, Levy O, Stoyanov V, Zettlemoyer L (2020) BART: denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. In: proceedings of the 58th annual meeting of the association for computational linguistics, association for computational linguistics, Online, pp 7871–7880, https://doi.org/10.18653/v1/2020.acl-main.703, https://aclanthology.org/2020.acl-main.703",
+            "DOI": "10.18653/v1/2020.acl-main.703"
+          },
+          {
+            "key": "9305_CR23",
+            "unstructured": "Lin CY (2004) Rouge: a package for automatic evaluation of summaries. In: text summarization branches out, pp 74–81"
+          },
+          {
+            "key": "9305_CR24",
+            "unstructured": "Liu Y (2019) Fine-tune BERT for extractive summarization. arXiv preprint arXiv:190310318"
+          },
+          {
+            "key": "9305_CR25",
+            "unstructured": "Liu Y, Lapata M (2019) Fine-tune BERT for extractive summarization. arXiv preprint arXiv:190310318"
+          },
+          {
+            "key": "9305_CR26",
+            "unstructured": "Luijtgaarden N (2019) Automatic summarization of legal text. Utrecht University Master’s thesis"
+          },
+          {
+            "key": "9305_CR27",
+            "unstructured": "Matsumaru K, Takase S, Okazaki N (2020) Text summarization with pretrained encoders. In: proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language processing (EMNLP-IJCNLP), pp 3721–3731"
+          },
+          {
+            "key": "9305_CR28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Maynez J, Narayan S, Bohnet B, McDonald R (2020) On faithfulness and factuality in abstractive summarization. In: proceedings of the 58th annual meeting of the association for computational linguistics, pp 1906–1919",
+            "DOI": "10.18653/v1/2020.acl-main.173"
+          },
+          {
+            "issue": "6",
+            "key": "9305_CR29",
+            "doi-asserted-by": "publisher",
+            "first-page": "727",
+            "DOI": "10.1016/S0306-4573(97)00035-6",
+            "volume": "33",
+            "author": "MF Moens",
+            "year": "1997",
+            "unstructured": "Moens MF, Uyttendaele C (1997) Automatic text structuring and categorization as a first step in summarizing legal cases. Inf Proces Manag 33(6):727–737",
+            "journal-title": "Inf Proces Manag"
+          },
+          {
+            "key": "9305_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mudrakarta PK, Taly A, Sundararajan M, Dhamdhere K (2018) Did the model understand the question? In: proceedings of the 56th annual meeting of the association for computational linguistics (Volume 1: Long Papers), pp 1896–1906",
+            "DOI": "10.18653/v1/P18-1176"
+          },
+          {
+            "key": "9305_CR31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pandya V (2019) Automatic text summarization of legal cases: A hybrid approach. 5th international conference on advances in computer science and information technology (ACSTY-2019)",
+            "DOI": "10.5121/csit.2019.91004"
+          },
+          {
+            "key": "9305_CR32",
+            "unstructured": "Paulus R, Xiong C, Socher R (2017) A deep reinforced model for abstractive summarization. arXiv preprint arXiv:170504304"
+          },
+          {
+            "key": "9305_CR33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pires T, Schlinger E, Garrette D (2019) How multilingual is multilingual BERT? In: proceedings of the 57th annual meeting of the association for computational linguistics, pp 4996–5001",
+            "DOI": "10.18653/v1/P19-1493"
+          },
+          {
+            "key": "9305_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "53",
+            "DOI": "10.1162/tacl_a_00353",
+            "volume": "9",
+            "author": "A Roy",
+            "year": "2021",
+            "unstructured": "Roy A, Saffar M, Vaswani A, Grangier D (2021) Efficient content-based sparse attention with routing transformers. Transac Assoc Comput Linguistics 9:53–68",
+            "journal-title": "Transac Assoc Comput Linguistics"
+          },
+          {
+            "key": "9305_CR35",
+            "doi-asserted-by": "crossref",
+            "unstructured": "See A, Liu PJ, Manning CD (2017) Get to the point: Summarization with pointer-generator networks. In: proceedings of the 55th annual meeting of the association for computational linguistics 1:1073–1083",
+            "DOI": "10.18653/v1/P17-1099"
+          },
+          {
+            "key": "9305_CR36",
+            "unstructured": "Tay Y, Bahri D, Yang L, Metzler D, Juan DC (2020) Sparse sinkhorn attention. In: international conference on machine learning, PMLR, pp 9438–9447"
+          },
+          {
+            "issue": "1",
+            "key": "9305_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "5",
+            "DOI": "10.1007/BF00877694",
+            "volume": "3",
+            "author": "H Turtle",
+            "year": "1995",
+            "unstructured": "Turtle H (1995) Text retrieval in the legal world. Artif Intell and Law 3(1):5–54",
+            "journal-title": "Artif Intell and Law"
+          },
+          {
+            "key": "9305_CR38",
+            "unstructured": "Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez AN, Kaiser Ł, Polosukhin I (2017) Attention is all you need. In: proceedings of the 31st international conference on neural information processing systems, pp 6000–6010"
+          },
+          {
+            "key": "9305_CR39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wolf T, Debut L, Sanh V, Chaumond J, Delangue C, Moi A, Cistac P, Rault T, Louf R, Funtowicz M, et al. (2019) Huggingface’s transformers: state-of-the-art natural language processing. arXiv preprint arXiv:191003771",
+            "DOI": "10.18653/v1/2020.emnlp-demos.6"
+          },
+          {
+            "key": "9305_CR40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yousfi-Monod M, Farzindar A, Lapalme G (2010) Supervised machine learning for summarizing legal documents. In: Canadian conference on artificial intelligence, Springer, pp 51–62",
+            "DOI": "10.1007/978-3-642-13059-5_8"
+          },
+          {
+            "key": "9305_CR41",
+            "unstructured": "Zhang J, Zhao Y, Saleh M, Liu P (2020) Pegasus: Pre-training with extracted gap-sentences for abstractive summarization. In: international conference on machine learning, PMLR, pp 11328–11339"
+          },
+          {
+            "key": "9305_CR42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang X, Wei F, Zhou M (2019) HIBERT: Document level pre-training of hierarchical bidirectional transformers for document summarization. In: proceedings of the 57th annual meeting of the association for computational linguistics, pp 5059–5069",
+            "DOI": "10.18653/v1/P19-1499"
+          },
+          {
+            "key": "9305_CR43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhao Z, Cohen SB, Webber B (2020) Reducing quantity hallucinations in abstractive summarization. arXiv preprint arXiv:200913312",
+            "DOI": "10.18653/v1/2020.findings-emnlp.203"
+          },
+          {
+            "key": "9305_CR44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhong L, Zhong Z, Zhao Z, Wang S, Ashley KD, Grabmair M (2019) Automatic summarization of legal decisions using iterative masking of predictive sentences. In: proceedings of the seventeenth international conference on artificial intelligence and law, ICAIL ’19, p 163–172",
+            "DOI": "10.1145/3322640.3326728"
+          }
+        ],
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-021-09305-4.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10506-021-09305-4/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-021-09305-4.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              28
+            ]
+          ],
+          "date-time": "2023-01-28T15:01:06Z",
+          "timestamp": 1674918066000
+        },
+        "score": 76.70866,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10506-021-09305-4"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              27
+            ]
+          ]
+        },
+        "references-count": 44,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2023,
+                3
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9305"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-021-09305-4",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2021,
+              11,
+              27
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "28 October 2021",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "27 November 2021",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              20
+            ]
+          ],
+          "date-time": "2026-09-20T03:28:18Z",
+          "timestamp": 1789874898526,
+          "version": "4.0.1"
+        },
+        "publisher-location": "Stroudsburg, PA, USA",
+        "reference-count": 0,
+        "publisher": "Association for Computational Linguistics",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "DOI": "10.18653/v1/w17-4504",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              18
+            ]
+          ],
+          "date-time": "2018-01-18T11:48:11Z",
+          "timestamp": 1516276091000
+        },
+        "page": "27-32",
+        "source": "Crossref",
+        "is-referenced-by-count": 10,
+        "title": [
+          "Towards Improving Abstractive Summarization via Entailment Generation"
+        ],
+        "prefix": "10.18653",
+        "author": [
+          {
+            "given": "Ramakanth",
+            "family": "Pasunuru",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Han",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Mohit",
+            "family": "Bansal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1643",
+        "event": {
+          "name": "Proceedings of the Workshop on New Frontiers in Summarization",
+          "location": "Copenhagen, Denmark",
+          "start": {
+            "date-parts": [
+              [
+                2017,
+                9
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2017,
+                9
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "Proceedings of the Workshop on New Frontiers in Summarization"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2018,
+              1,
+              18
+            ]
+          ],
+          "date-time": "2018-01-18T11:48:12Z",
+          "timestamp": 1516276092000
+        },
+        "score": 46.66631,
+        "resource": {
+          "primary": {
+            "URL": "http://aclweb.org/anthology/W17-4504"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.18653/v1/w17-4504",
+        "published": {
+          "date-parts": [
+            [
+              2017
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              14
+            ]
+          ],
+          "date-time": "2026-07-14T07:10:47Z",
+          "timestamp": 1784013047446,
+          "version": "3.55.0"
+        },
+        "reference-count": 37,
+        "publisher": "Elsevier BV",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2023-09-01T00:00:00Z",
+              "timestamp": 1693526400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  9,
+                  1
+                ]
+              ],
+              "date-time": "2023-09-01T00:00:00Z",
+              "timestamp": 1693526400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/legal/tdmrep-license"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  7,
+                  23
+                ]
+              ],
+              "date-time": "2023-07-23T00:00:00Z",
+              "timestamp": 1690070400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100020055",
+            "name": "Department of Computer Science and Engineering, Seoul National University",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/501100020055",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100015990",
+            "name": "National Institute of Technology, Silchar",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/501100015990",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+          ],
+          "crossmark-restriction": true
+        },
+        "short-container-title": [
+          "Natural Language Processing Journal"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1016/j.nlp.2023.100028",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              7,
+              31
+            ]
+          ],
+          "date-time": "2023-07-31T21:32:03Z",
+          "timestamp": 1690839123000
+        },
+        "page": "100028",
+        "update-policy": "https://doi.org/10.1016/elsevier_cm_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "special_numbering": "C",
+        "title": [
+          "Textual entailment as an evaluation metric for abstractive text summarization"
+        ],
+        "prefix": "10.1016",
+        "volume": "4",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-0129-5472",
+            "authenticated-orcid": false,
+            "given": "Swagat Shubham",
+            "family": "Bhuyan",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Saranga Kingkor",
+            "family": "Mahanta",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Partha",
+            "family": "Pakray",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Benoit",
+            "family": "Favre",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "reference": [
+          {
+            "key": "10.1016/j.nlp.2023.100028_b1",
+            "series-title": "Deep learning using rectified linear units (relu)",
+            "author": "Agarap",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b2",
+            "series-title": "Neural machine translation by jointly learning to align and translate",
+            "author": "Bahdanau",
+            "year": "2014"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b3",
+            "series-title": "Catching the drift: Probabilistic content models, with applications to generation and summarization",
+            "author": "Barzilay",
+            "year": "2004"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b4",
+            "unstructured": "Bhaskar, P., Pakray, P., 2013. Automatic evaluation of summary using textual entailment. In: Proceedings of the Student Research Workshop Associated with RANLP 2013. pp. 30–37."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b5",
+            "series-title": "e-snli: Natural language inference with natural language explanations",
+            "author": "Camburu",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b6",
+            "unstructured": "Chollet, F., 2015. keras, https://github.com/fchollet/keras."
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.nlp.2023.100028_b7",
+            "doi-asserted-by": "crossref",
+            "first-page": "264",
+            "DOI": "10.1145/321510.321519",
+            "article-title": "New methods in automatic extracting",
+            "volume": "16",
+            "author": "Edmundson",
+            "year": "1969",
+            "journal-title": "J. ACM"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Falke, T., Ribeiro, L.F., Utama, P.A., Dagan, I., Gurevych, I., 2019. Ranking generated summaries by correctness: An interesting but challenging application for natural language inference. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. pp. 2214–2220.",
+            "DOI": "10.18653/v1/P19-1213"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b9",
+            "series-title": "Using local knowledge graph construction to scale seq2seq models to multi-document inputs",
+            "author": "Fan",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gupta, A., Kaur, M., Mirkin, S., Singh, A., Goyal, A., 2014. Text summarization through entailment-based minimum vertex cover. In: Proceedings of the Third Joint Conference on Lexical and Computational Semantics (* SEM 2014). pp. 75–80.",
+            "DOI": "10.3115/v1/S14-1010"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b11",
+            "first-page": "1693",
+            "article-title": "Teaching machines to read and comprehend",
+            "volume": "28",
+            "author": "Hermann",
+            "year": "2015",
+            "journal-title": "Adv. Neural Inf. Process. Syst."
+          },
+          {
+            "issue": "8",
+            "key": "10.1016/j.nlp.2023.100028_b12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1735",
+            "DOI": "10.1162/neco.1997.9.8.1735",
+            "article-title": "Long short-term memory",
+            "volume": "9",
+            "author": "Hochreiter",
+            "year": "1997",
+            "journal-title": "Neural Comput."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b13",
+            "series-title": "Adam: A method for stochastic optimization",
+            "author": "Kingma",
+            "year": "2014"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b14",
+            "series-title": "Evaluating the factual consistency of abstractive text summarization",
+            "author": "Kryściński",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kupiec, J., Pedersen, J., Chen, F., 1995. A trainable document summarizer. In: Proceedings of the 18th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval. pp. 68–73.",
+            "DOI": "10.1145/215206.215333"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b16",
+            "series-title": "Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension",
+            "author": "Lewis",
+            "year": "2019"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b17",
+            "series-title": "Text Summarization Branches Out",
+            "first-page": "74",
+            "article-title": "Rouge: A package for automatic evaluation of summaries",
+            "author": "Lin",
+            "year": "2004"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b18",
+            "series-title": "Generating wikipedia by summarizing long sequences",
+            "author": "Liu",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b19",
+            "series-title": "NLPCS",
+            "first-page": "22",
+            "article-title": "A text summarization approach under the influence of textual entailment",
+            "author": "Lloret",
+            "year": "2008"
+          },
+          {
+            "issue": "2",
+            "key": "10.1016/j.nlp.2023.100028_b20",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1147/rd.22.0159",
+            "article-title": "The automatic creation of literature abstracts",
+            "volume": "2",
+            "author": "Luhn",
+            "year": "1958",
+            "journal-title": "IBM J. Res. Dev."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b21",
+            "series-title": "On faithfulness and factuality in abstractive summarization",
+            "author": "Maynez",
+            "year": "2020"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mihalcea, R., 2004. Graph-based ranking algorithms for sentence extraction, applied to text summarization. In: Proceedings of the ACL Interactive Poster and Demonstration Sessions. pp. 170–173.",
+            "DOI": "10.3115/1219044.1219064"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b23",
+            "series-title": "Abstractive text summarization using sequence-to-sequence rnns and beyond",
+            "author": "Nallapati",
+            "year": "2016"
+          },
+          {
+            "issue": "2–3",
+            "key": "10.1016/j.nlp.2023.100028_b24",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1007/s10590-009-9060-y",
+            "article-title": "Measuring machine translation quality as semantic equivalence: A metric based on entailment features",
+            "volume": "23",
+            "author": "Padó",
+            "year": "2009",
+            "journal-title": "Mach. Transl."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Padó, S., Galley, M., Jurafsky, D., Manning, C.D., 2009b. Robust machine translation evaluation with entailment features. In: Proceedings of the Joint Conference of the 47th Annual Meeting of the ACL and the 4th International Joint Conference on Natural Language Processing of the AFNLP. pp. 297–305.",
+            "DOI": "10.3115/1687878.1687922"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Papineni, K., Roukos, S., Ward, T., Zhu, W.-J., 2002. Bleu: a method for automatic evaluation of machine translation. In: Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics. pp. 311–318.",
+            "DOI": "10.3115/1073083.1073135"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b27",
+            "series-title": "Multi-reward reinforced summarization with saliency and entailment",
+            "author": "Pasunuru",
+            "year": "2018"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pennington, J., Socher, R., Manning, C.D., 2014. Glove: Global vectors for word representation. In: Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP). pp. 1532–1543.",
+            "DOI": "10.3115/v1/D14-1162"
+          },
+          {
+            "issue": "6",
+            "key": "10.1016/j.nlp.2023.100028_b29",
+            "doi-asserted-by": "crossref",
+            "first-page": "919",
+            "DOI": "10.1016/j.ipm.2003.10.006",
+            "article-title": "Centroid-based summarization of multiple documents",
+            "volume": "40",
+            "author": "Radev",
+            "year": "2004",
+            "journal-title": "Inf. Process. Manage."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b30",
+            "series-title": "A neural attention model for abstractive sentence summarization",
+            "author": "Rush",
+            "year": "2015"
+          },
+          {
+            "issue": "1s",
+            "key": "10.1016/j.nlp.2023.100028_b31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1145/3357334",
+            "article-title": "Textual entailment–based figure summarization for biomedical articles",
+            "volume": "16",
+            "author": "Saini",
+            "year": "2020",
+            "journal-title": "ACM Trans. Multimedia Comput., Commun., Appl. (TOMM)"
+          },
+          {
+            "issue": "11",
+            "key": "10.1016/j.nlp.2023.100028_b32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2673",
+            "DOI": "10.1109/78.650093",
+            "article-title": "Bidirectional recurrent neural networks",
+            "volume": "45",
+            "author": "Schuster",
+            "year": "1997",
+            "journal-title": "IEEE Trans. Signal Process."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b33",
+            "series-title": "BLEURT: Learning robust metrics for text generation",
+            "author": "Sellam",
+            "year": "2020"
+          },
+          {
+            "issue": "1",
+            "key": "10.1016/j.nlp.2023.100028_b34",
+            "first-page": "1929",
+            "article-title": "Dropout: a simple way to prevent neural networks from overfitting",
+            "volume": "15",
+            "author": "Srivastava",
+            "year": "2014",
+            "journal-title": "J. Mach. Learn. Res."
+          },
+          {
+            "issue": "08",
+            "key": "10.1016/j.nlp.2023.100028_b35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1023",
+            "DOI": "10.1142/S0218194009004520",
+            "article-title": "Entailment-based linear segmentation in summarization",
+            "volume": "19",
+            "author": "Tatar",
+            "year": "2009",
+            "journal-title": "Int. J. Softw. Eng. Knowl. Eng."
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b36",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wolf, T., Chaumond, J., Debut, L., Sanh, V., Delangue, C., Moi, A., Cistac, P., Funtowicz, M., Davison, J., Shleifer, S., et al., 2020. Transformers: State-of-the-art natural language processing. In: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations. pp. 38–45.",
+            "DOI": "10.18653/v1/2020.emnlp-demos.6"
+          },
+          {
+            "key": "10.1016/j.nlp.2023.100028_b37",
+            "series-title": "Bertscore: Evaluating text generation with bert",
+            "author": "Zhang",
+            "year": "2019"
+          }
+        ],
+        "container-title": [
+          "Natural Language Processing Journal"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S2949719123000250?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://api.elsevier.com/content/article/PII:S2949719123000250?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              11,
+              9
+            ]
+          ],
+          "date-time": "2025-11-09T01:04:02Z",
+          "timestamp": 1762650242000
+        },
+        "score": 44.190083,
+        "resource": {
+          "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2949719123000250"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              9
+            ]
+          ]
+        },
+        "references-count": 37,
+        "alternative-id": [
+          "S2949719123000250"
+        ],
+        "URL": "https://doi.org/10.1016/j.nlp.2023.100028",
+        "ISSN": [
+          "2949-7191"
+        ],
+        "issn-type": [
+          {
+            "value": "2949-7191",
+            "type": "print"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+          },
+          {
+            "value": "Textual entailment as an evaluation metric for abstractive text summarization",
+            "name": "articletitle",
+            "label": "Article Title"
+          },
+          {
+            "value": "Natural Language Processing Journal",
+            "name": "journaltitle",
+            "label": "Journal Title"
+          },
+          {
+            "value": "https://doi.org/10.1016/j.nlp.2023.100028",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+          },
+          {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+          },
+          {
+            "value": "© 2023 The Author(s). Published by Elsevier B.V.",
+            "name": "copyright",
+            "label": "Copyright"
+          }
+        ],
+        "article-number": "100028"
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

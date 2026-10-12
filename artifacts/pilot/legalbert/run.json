@@ -1,0 +1,65 @@
+{
+  "task": "classification",
+  "fine_tuned": true,
+  "model": "nlpaueb/legal-bert-small-uncased",
+  "revision": "0e23f7a9a39f59768ea7e09766d8ee308580fb17",
+  "settings": {
+    "model": "nlpaueb/legal-bert-small-uncased",
+    "revision": "0e23f7a9a39f59768ea7e09766d8ee308580fb17",
+    "max_tokens": 256,
+    "epochs": 3,
+    "batch_size": 8,
+    "learning_rate": 5e-05,
+    "weight_decay": 0.01,
+    "accumulation_steps": 1,
+    "max_negative_ratio": 3,
+    "train_documents": 40,
+    "validation_documents": 10,
+    "test_documents": 10
+  },
+  "seed": 42,
+  "hardware": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+    "ram_bytes": 16415322112,
+    "torch": "2.14.1+cpu",
+    "device": "cpu",
+    "gpu": null,
+    "cpu_threads": 4
+  },
+  "best_epoch": 3,
+  "validation_selection": {
+    "macro_f1": 0.39639156535145337,
+    "threshold": 0.9000000000000002
+  },
+  "threshold": 0.9000000000000002,
+  "data_fingerprint": {
+    "train": "61950e0cfc1f89cb792242aa025aabf509b87ecfd2124908eaeb02a6eb4741d8",
+    "validation": "f765c58c2e380067ed420f636f37e2d83d077d328f6977947d1d21364fbbe64f",
+    "test": "e4f35e7552ae0b5b330d2369a6b8570f3a84e7ab964f817c1980a661846ce566"
+  },
+  "train_rows": 1636,
+  "validation_rows": 2639,
+  "parameter_count": 35072520,
+  "target_shortened_train": 0,
+  "target_shortened_validation": 0,
+  "mean_training_source_character_coverage": null,
+  "positive_loss_weights": [
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    20.0,
+    19.708860397338867,
+    16.221052169799805,
+    20.0
+  ],
+  "optimizer": "AdamW",
+  "gradient_clip_norm": 1.0,
+  "scheduler": "linear 10% warmup",
+  "mixed_precision": false,
+  "resume_support": "saved checkpoint for inference / warm start; optimizer state is not saved",
+  "training_seconds": 723.752653900001,
+  "epochs_completed": 3
+}

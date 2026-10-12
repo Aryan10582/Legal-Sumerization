@@ -1,0 +1,1041 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5260820,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              15
+            ]
+          ],
+          "date-time": "2026-09-15T13:42:54Z",
+          "timestamp": 1789479774556,
+          "version": "build-2803163510"
+        },
+        "reference-count": 35,
+        "publisher": "MDPI AG",
+        "issue": "6",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  3,
+                  9
+                ]
+              ],
+              "date-time": "2023-03-09T00:00:00Z",
+              "timestamp": 1678320000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "61873131"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "61873131"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100001809",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "61872194"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "61872194"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100001809",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "61902237"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "61902237"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100001809",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "19YF1418200"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "19YF1418200"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100001809",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100003399",
+            "name": "Shanghai Science and Technology Commission",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "61873131"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "61873131"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100003399",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100003399",
+            "name": "Shanghai Science and Technology Commission",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "61872194"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "61872194"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100003399",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100003399",
+            "name": "Shanghai Science and Technology Commission",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "61902237"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "61902237"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100003399",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100003399",
+            "name": "Shanghai Science and Technology Commission",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "19YF1418200"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "19YF1418200"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100003399",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Mathematics"
+        ],
+        "abstract": "<jats:p>Legal judgments are generally very long, and relevant information is often scattered throughout the text. To complete a legal judgment summarization, capturing important, relevant information comprehensively from a lengthy text is crucial. The existing abstractive-summarization models based on pre-trained language have restrictions on the length of an input text. Another concern is that the generated summaries have not been well integrated with the legal judgment’s technical terms and specific topics. In this paper, we used raw legal judgments as information of different granularities and proposed a two-stage text-summarization model to handle different granularities of information. Specifically, we treated the legal judgments as a sequence of sentences and selected key sentence sets from the full texts as an input corpus for summary generation. In addition, we extracted keywords related to technical terms and specific topics in the legal texts and introduced them into the summary-generation model as an attention mechanism. The experimental results on the CAIL2020 and the LCRD datasets showed that our model achieved an overall 0.19–0.41 improvement in its ROUGE score, as compared to the baseline models. Further analysis also showed that our method could comprehensively capture essential and relevant information from lengthy legal texts and generate better legal judgment summaries.</jats:p>",
+        "DOI": "10.3390/math11061320",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              9
+            ]
+          ],
+          "date-time": "2023-03-09T03:46:40Z",
+          "timestamp": 1678333600000
+        },
+        "page": "1320",
+        "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 19,
+        "title": [
+          "A High-Precision Two-Stage Legal Judgment Summarization"
+        ],
+        "prefix": "10.3390",
+        "volume": "11",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0001-6506-481X",
+            "authenticated-orcid": false,
+            "given": "Yue",
+            "family": "Huang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              },
+              {
+                "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Lijuan",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              },
+              {
+                "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-2657-1464",
+            "authenticated-orcid": false,
+            "given": "Chong",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              },
+              {
+                "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-5944-3103",
+            "authenticated-orcid": false,
+            "given": "Jian",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "College of Computer, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              },
+              {
+                "name": "Jiangsu High Technology Research Key Laboratory for Wireless Sensor Networks, Nanjing University of Posts and Telecommunications, Nanjing 210003, China"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              9
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "ref_1",
+            "first-page": "51",
+            "article-title": "Improving legal document summarization using graphical models",
+            "volume": "152",
+            "author": "Saravanan",
+            "year": "2006",
+            "journal-title": "Front. Artif. Intell. Appl."
+          },
+          {
+            "key": "ref_2",
+            "unstructured": "Saravanan, M., Ravindran, B., and Raman, S. (2008, January 7–12). Automatic identification of rhetorical roles using conditional random fields for legal document summarization. Proceedings of the Third International Joint Conference on Natural Language Processing: Volume-I, Hyderabad, India."
+          },
+          {
+            "key": "ref_3",
+            "doi-asserted-by": "crossref",
+            "first-page": "457",
+            "DOI": "10.1613/jair.1523",
+            "article-title": "Lexrank: Graph-based lexical centrality as salience in text summarization",
+            "volume": "22",
+            "author": "Erkan",
+            "year": "2004",
+            "journal-title": "J. Artif. Intell. Res."
+          },
+          {
+            "key": "ref_4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rush, A.M., Chopra, S., and Weston, J. (2015). A neural attention model for abstractive sentence summarization. arXiv.",
+            "DOI": "10.18653/v1/D15-1044"
+          },
+          {
+            "key": "ref_5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "See, A., Liu, P.J., and Manning, C.D. (2017). Get To The Point: Summarization with Pointer-Generator Networks. arXiv.",
+            "DOI": "10.18653/v1/P17-1099"
+          },
+          {
+            "key": "ref_6",
+            "unstructured": "Xu, H., Savelka, J., and Ashley, K.D. (2021). Legal Knowledge and Information Systems, IOS Press."
+          },
+          {
+            "key": "ref_7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cohan, A., Dernoncourt, F., Kim, D.S., Bui, T., Kim, S., Chang, W., and Goharian, N. (2018). A discourse-aware attention model for abstractive summarization of long documents. arXiv.",
+            "DOI": "10.18653/v1/N18-2097"
+          },
+          {
+            "key": "ref_8",
+            "first-page": "91",
+            "article-title": "Improving abstractive summarization of legal rulings through textual entailment",
+            "volume": "31",
+            "author": "Moreira",
+            "year": "2021",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "ref_9",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1007/BF00877694",
+            "article-title": "Text retrieval in the legal world",
+            "volume": "3",
+            "author": "Turtle",
+            "year": "1995",
+            "journal-title": "Artif. Intell. Law"
+          },
+          {
+            "key": "ref_10",
+            "unstructured": "Dong, L., Yang, N., Wang, W., Wei, F., Liu, X., Wang, Y., Gao, J., Zhou, M., and Hon, H.W. (2019, January 8–14). Unified language model pre-training for natural language understanding and generation. Proceedings of the 33rd Conference on Neural Information Processing Systems (NeurIPS 2019), Vancouver, BC, Canada."
+          },
+          {
+            "key": "ref_11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ethayarajh, K. (2019). How contextual are contextualized word representations? comparing the geometry of BERT, ELMo, and GPT-2 embeddings. arXiv.",
+            "DOI": "10.18653/v1/D19-1006"
+          },
+          {
+            "key": "ref_12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tenney, I., Das, D., and Pavlick, E. (2019). BERT rediscovers the classical NLP pipeline. arXiv.",
+            "DOI": "10.18653/v1/P19-1452"
+          },
+          {
+            "key": "ref_13",
+            "unstructured": "Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis, M., Zettlemoyer, L., and Stoyanov, V. (2019). Roberta: A robustly optimized bert pretraining approach. arXiv."
+          },
+          {
+            "key": "ref_14",
+            "unstructured": "Lan, Z., Chen, M., Goodman, S., Gimpel, K., Sharma, P., and Soricut, R. (2019). Albert: A lite bert for self-supervised learning of language representations. arXiv."
+          },
+          {
+            "key": "ref_15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang, X., Lapata, M., Wei, F., and Zhou, M. (2018). Neural latent extractive document summarization. arXiv.",
+            "DOI": "10.18653/v1/D18-1088"
+          },
+          {
+            "key": "ref_16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu, Y., Titov, I., and Lapata, M. (2019, January 2–7). Single document summarization as tree induction. Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), Minneapolis, MN, USA.",
+            "DOI": "10.18653/v1/N19-1173"
+          },
+          {
+            "key": "ref_17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Narayan, S., Cohen, S.B., and Lapata, M. (2018). Ranking sentences for extractive summarization with reinforcement learning. arXiv.",
+            "DOI": "10.18653/v1/N18-1158"
+          },
+          {
+            "key": "ref_18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nallapati, R., Zhai, F., and Zhou, B. (2017, January 4–9). Summarunner: A recurrent neural network based sequence model for extractive summarization of documents. Proceedings of the Thirty-first AAAI Conference on Artificial Intelligence, San Francisco, CA, USA.",
+            "DOI": "10.1609/aaai.v31i1.10958"
+          },
+          {
+            "key": "ref_19",
+            "unstructured": "Paulus, R., Xiong, C., and Socher, R. (2017). A deep reinforced model for abstractive summarization. arXiv."
+          },
+          {
+            "key": "ref_20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Narayan, S., Cohen, S.B., and Lapata, M. (2018). Do not give me the details, just the summary! topic-aware convolutional neural networks for extreme summarization. arXiv.",
+            "DOI": "10.18653/v1/D18-1206"
+          },
+          {
+            "key": "ref_21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang, X., Wei, F., and Zhou, M. (2019). HIBERT: Document level pre-training of hierarchical bidirectional transformers for document summarization. arXiv.",
+            "DOI": "10.18653/v1/P19-1499"
+          },
+          {
+            "key": "ref_22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang, H., Xu, J., and Wang, J. (2019). Pretraining-based natural language generation for text summarization. arXiv.",
+            "DOI": "10.18653/v1/K19-1074"
+          },
+          {
+            "key": "ref_23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu, Y., and Lapata, M. (2019). Text summarization with pretrained encoders. arXiv.",
+            "DOI": "10.18653/v1/D19-1387"
+          },
+          {
+            "key": "ref_24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang, Q., Liu, P., Zhu, Z., Yin, H., Zhang, Q., and Zhang, L. (2019). A text abstraction summary model based on BERT word embedding and reinforcement learning. Appl. Sci., 9.",
+            "DOI": "10.3390/app9214701"
+          },
+          {
+            "key": "ref_25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kim, Y. (2014). Convolutional Neural Networks for Sentence Classification. arXiv.",
+            "DOI": "10.3115/v1/D14-1181"
+          },
+          {
+            "key": "ref_26",
+            "unstructured": "Devlin, J., Chang, M.W., Lee, K., and Toutanova, K. (2018, January 2–7). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Proceedings of the NAACL-HLT 2019, Minneapolis, MN, USA."
+          },
+          {
+            "key": "ref_27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, M.X., Firat, O., Bapna, A., Johnson, M., Macherey, W., Foster, G., Jones, L., Parmar, N., Schuster, M., and Chen, Z. (2018). The best of both worlds: Combining recent advances in neural machine translation. arXiv.",
+            "DOI": "10.18653/v1/P18-1008"
+          },
+          {
+            "key": "ref_28",
+            "unstructured": "Joachims, T. (1996). A Probabilistic Analysis of the Rocchio Algorithm with TFIDF for Text Categorization, Carnegie-Mellon University Pittsburgh pa Department of Computer Science. Technical report."
+          },
+          {
+            "key": "ref_29",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1016/j.neucom.2020.02.102",
+            "article-title": "A two-stage Chinese text summarization algorithm using keyword information and adversarial learning",
+            "volume": "425",
+            "author": "Deng",
+            "year": "2021",
+            "journal-title": "Neurocomputing"
+          },
+          {
+            "key": "ref_30",
+            "doi-asserted-by": "crossref",
+            "first-page": "3504",
+            "DOI": "10.1109/TASLP.2021.3124365",
+            "article-title": "Pre-training with whole word masking for chinese bert",
+            "volume": "29",
+            "author": "Cui",
+            "year": "2021",
+            "journal-title": "IEEE/ACM Trans. Audio, Speech, Lang. Process."
+          },
+          {
+            "key": "ref_31",
+            "unstructured": "Su, J. (2021, January 01). SPACES: An Extraction-Generation Summarization In Long Text (The summary of the “Legal AI Challenge”). (In Chinese)."
+          },
+          {
+            "key": "ref_32",
+            "first-page": "40",
+            "article-title": "Citation Based Summarisation of Legal Texts",
+            "volume": "Volume LNCS 7458",
+            "author": "Galgani",
+            "year": "2012",
+            "journal-title": "Proceedings of the PRICAI 2012"
+          },
+          {
+            "key": "ref_33",
+            "unstructured": "Su, J. (2023, January 25). bert4keras. Available online: https://bert4keras.spaces.ac.cn."
+          },
+          {
+            "key": "ref_34",
+            "unstructured": "Mihalcea, R., and Tarau, P. (2004, January 25–29). Textrank: Bringing order into text. Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing, Barcelona, Spain."
+          },
+          {
+            "key": "ref_35",
+            "unstructured": "Lin, C.Y. (2004). Text Summarization Branches Out: Proceedings of the ACL-04 Workshop, Association for Computational Linguistics."
+          }
+        ],
+        "container-title": [
+          "Mathematics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.mdpi.com/2227-7390/11/6/1320/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              10
+            ]
+          ],
+          "date-time": "2025-10-10T18:51:41Z",
+          "timestamp": 1760122301000
+        },
+        "score": 53.06377,
+        "resource": {
+          "primary": {
+            "URL": "https://www.mdpi.com/2227-7390/11/6/1320"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              9
+            ]
+          ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+          "issue": "6",
+          "published-online": {
+            "date-parts": [
+              [
+                2023,
+                3
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "math11061320"
+        ],
+        "URL": "https://doi.org/10.3390/math11061320",
+        "ISSN": [
+          "2227-7390"
+        ],
+        "issn-type": [
+          {
+            "value": "2227-7390",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              9
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              13
+            ]
+          ],
+          "date-time": "2026-08-13T10:35:00Z",
+          "timestamp": 1786617300454,
+          "version": "build-2736575974"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "group-title": "SSRN",
+        "reference-count": 0,
+        "publisher": "Elsevier BV",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>Summarization is the process of generating summaries out of corpus. If the corpus is a legal document, the process is called legal summarization. Headnotes are concise notes prepared by lawyers for quick reference of a past Judgment. Judgments are always lengthy, and it is essential to  make headnotes for legal practitioners for quick reference analysis. Legal experts generate headnotes, and it is a tedious task to prepare them by reading the whole judgment. With the advancements in technologies, a lot of methods are available to generate a summary of a given document. But for legal documents, the usual summarization technique have the impediment to precisely concise as judgments follow a legal parlance. The proposed method picks relevant paragraphs from a judgment at first, and then it is used to create an extractive summary.</jats:p>",
+        "DOI": "10.2139/ssrn.3563105",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              3,
+              31
+            ]
+          ],
+          "date-time": "2020-03-31T07:31:34Z",
+          "timestamp": 1585639894000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Automatic Legal Judgment Summarization Using Graph"
+        ],
+        "prefix": "10.2139",
+        "author": [
+          {
+            "given": "Vishnuprabha",
+            "family": "V",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daleesha",
+            "family": "M Viswanathan",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R.",
+            "family": "Rajesh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              8,
+              13
+            ]
+          ],
+          "date-time": "2026-08-13T10:05:25Z",
+          "timestamp": 1786615525000
+        },
+        "score": 30.592823,
+        "resource": {
+          "primary": {
+            "URL": "https://www.ssrn.com/abstract=3563105"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2139/ssrn.3563105",
+        "published": {
+          "date-parts": [
+            [
+              2020
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              17
+            ]
+          ],
+          "date-time": "2026-01-17T21:22:52Z",
+          "timestamp": 1768684972659,
+          "version": "3.49.0"
+        },
+        "reference-count": 0,
+        "publisher": "IOS Press",
+        "isbn-type": [
+          {
+            "value": "9781643684369",
+            "type": "print"
+          },
+          {
+            "value": "9781643684376",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  9,
+                  28
+                ]
+              ],
+              "date-time": "2023-09-28T00:00:00Z",
+              "timestamp": 1695859200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              28
+            ]
+          ]
+        },
+        "abstract": "<jats:p>Judgment summaries are beneficial for legal practitioners to comprehend and retrieve case law efficiently. Unlike summaries in general domains, e.g., news, judgment summaries often require a clear structure. Such a structure helps readers grasp the information contained in the summary and reduces information loss. To the best of our knowledge, none of the existing text summarizers can generate summaries aligned with the summary structure in the legal domain. Inspired by this observation, this paper introduces a Summary Structure-Enhanced (SSE) method to synthesize structured summaries for legal documents. SSE can easily be incorporated into the Encoder-Decoder framework, which is commonly adopted in state-of-the-art text summarizers. Experiments on the datasets of New Zealand and Chinese judgments show that the proposed method consistently improves the performance of state-of-the-art summarizers in terms of Rouge scores.</jats:p>",
+        "DOI": "10.3233/faia230553",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2023-09-29T09:19:53Z",
+          "timestamp": 1695979193000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Towards Legal Judgment Summarization: A Structure-Enhanced Approach"
+        ],
+        "prefix": "10.3233",
+        "author": [
+          {
+            "given": "Qiqi",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Ruofan",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Kaiqi",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Robert",
+            "family": "Amor",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Benjamin",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Xianda",
+            "family": "Zheng",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zeyu",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Huazhong Agricultural University, qwan857@aucklanduni.ac.nz, rwan551@aucklanduni.ac.nz, xzhe162@aucklanduni.ac.nz, zzha669@aucklanduni.ac.nz, zhua764@aucklanduni.ac.nz, kaiqi.zhao@auckland.ac.nz, r.amor@auckland.ac.nz, b.liu@auckland.ac.nz"
+              },
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Zijian",
+            "family": "Huang",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Auckland"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "7437",
+        "container-title": [
+          "Frontiers in Artificial Intelligence and Applications",
+          "ECAI 2023"
+        ],
+        "link": [
+          {
+            "URL": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA230553",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              29
+            ]
+          ],
+          "date-time": "2023-09-29T09:19:54Z",
+          "timestamp": 1695979194000
+        },
+        "score": 28.21865,
+        "resource": {
+          "primary": {
+            "URL": "https://ebooks.iospress.nl/doi/10.3233/FAIA230553"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              28
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781643684369",
+          "9781643684376"
+        ],
+        "references-count": 0,
+        "URL": "https://doi.org/10.3233/faia230553",
+        "ISSN": [
+          "0922-6389",
+          "1879-8314"
+        ],
+        "issn-type": [
+          {
+            "value": "0922-6389",
+            "type": "print"
+          },
+          {
+            "value": "1879-8314",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              28
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

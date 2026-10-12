@@ -1,0 +1,140 @@
+SHA256 6d1db256e26088b8687cb3a8b0c43840fbec5268d97f50f9692155a493ebbc25
+P0 [Normal] ' '
+P1 [Normal] ' '
+P2 [Normal] 'Mini Project Report '
+P3 [Normal] 'of '
+P4 [Heading 1] 'Machine Learning (CSE 3125)'
+P5 [Normal] ' '
+P6 [Normal] ' '
+P7 [Normal] ' '
+P8 [Normal] 'Project Title'
+P9 [Normal] ' '
+P10 [Normal] ' '
+P11 [Normal] ' '
+P12 [Normal] 'SUBMITTED '
+P13 [Normal] 'BY '
+P14 [Normal] ' '
+P15 [Normal] ' '
+P16 [Normal] 'Under the guidance of Dr Rani Oomman Panicker'
+P17 [Normal] ''
+P18 [Normal] ''
+P19 [Normal] ''
+P20 [Normal] ''
+P21 [Normal] 'School of Computer Engineering '
+P22 [Normal] 'Manipal Institute of Technology, Manipal. '
+P23 [Normal] 'October 2026   '
+TABLE 0: [['Name ', 'Registration No ', 'Roll No ', 'Semester & Branch ', 'Section '], ['', '', '', '', 'C'], ['', '', '', '', 'C'], ['', '', '', '', 'C'], ['', '', '', '', 'C '], ['', '', '', '', 'C ']]
+<w:sectPr xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" w:rsidR="00B31E83" w:rsidSect="005F3FF3">
+  <w:headerReference w:type="even" r:id="rId8"/>
+  <w:headerReference w:type="default" r:id="rId9"/>
+  <w:footerReference w:type="even" r:id="rId10"/>
+  <w:footerReference w:type="default" r:id="rId11"/>
+  <w:headerReference w:type="first" r:id="rId12"/>
+  <w:footerReference w:type="first" r:id="rId13"/>
+  <w:pgSz w:w="12240" w:h="15840"/>
+  <w:pgMar w:top="1441" w:right="1343" w:bottom="1441" w:left="1440" w:header="480" w:footer="478" w:gutter="0"/>
+  <w:cols w:space="720"/>
+</w:sectPr>
+
+STYLE Normal: <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:default="1" w:styleId="Normal">
+  <w:name w:val="Normal"/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:spacing w:after="4" w:line="267" w:lineRule="auto"/>
+    <w:ind w:left="10" w:right="98" w:hanging="10"/>
+    <w:jc w:val="both"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+    <w:color w:val="000000"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 1: <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="Heading1">
+  <w:name w:val="heading 1"/>
+  <w:next w:val="Normal"/>
+  <w:link w:val="Heading1Char"/>
+  <w:uiPriority w:val="9"/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:after="23" w:line="248" w:lineRule="auto"/>
+    <w:ind w:left="10" w:right="96" w:hanging="10"/>
+    <w:jc w:val="center"/>
+    <w:outlineLvl w:val="0"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+    <w:b/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="52"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 2: <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="Heading2">
+  <w:name w:val="heading 2"/>
+  <w:next w:val="Normal"/>
+  <w:link w:val="Heading2Char"/>
+  <w:uiPriority w:val="9"/>
+  <w:unhideWhenUsed/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:after="0" w:line="259" w:lineRule="auto"/>
+    <w:ind w:left="10" w:hanging="10"/>
+    <w:outlineLvl w:val="1"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+    <w:b/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="28"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 3: <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="Heading3">
+  <w:name w:val="heading 3"/>
+  <w:next w:val="Normal"/>
+  <w:link w:val="Heading3Char"/>
+  <w:uiPriority w:val="9"/>
+  <w:unhideWhenUsed/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:after="18" w:line="259" w:lineRule="auto"/>
+    <w:ind w:left="10" w:hanging="10"/>
+    <w:outlineLvl w:val="2"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+    <w:b/>
+    <w:color w:val="000000"/>
+  </w:rPr>
+</w:style>
+
+STYLE Heading 4: <w:style xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex" xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml" xmlns:w16du="http://schemas.microsoft.com/office/word/2023/wordml/word16du" xmlns:w16sdtdh="http://schemas.microsoft.com/office/word/2020/wordml/sdtdatahash" xmlns:w16sdtfl="http://schemas.microsoft.com/office/word/2024/wordml/sdtformatlock" xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" w:type="paragraph" w:styleId="Heading4">
+  <w:name w:val="heading 4"/>
+  <w:next w:val="Normal"/>
+  <w:link w:val="Heading4Char"/>
+  <w:uiPriority w:val="9"/>
+  <w:unhideWhenUsed/>
+  <w:qFormat/>
+  <w:pPr>
+    <w:keepNext/>
+    <w:keepLines/>
+    <w:spacing w:after="0" w:line="259" w:lineRule="auto"/>
+    <w:ind w:left="10" w:right="97" w:hanging="10"/>
+    <w:outlineLvl w:val="3"/>
+  </w:pPr>
+  <w:rPr>
+    <w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman" w:cs="Times New Roman"/>
+    <w:b/>
+    <w:color w:val="000000"/>
+    <w:sz w:val="20"/>
+  </w:rPr>
+</w:style>
+
+ALL TEXT [' ', ' ', 'Mini Project Report ', 'of ', 'Machine Learning (', 'CSE 3125', ')', ' ', ' ', ' ', 'Project Title', ' ', ' ', ' ', 'SUBMITTED ', 'BY ', ' ', 'Name ', 'Registration No ', 'Roll No ', 'Semester & Branch ', 'Section ', 'C', 'C', 'C', 'C', ' ', 'C', ' ', ' ', 'Under the guidance of Dr Rani Oomman Panicker', 'School of Computer Engineering ', 'Manipal Institute of Technology, Manipal. ', 'October ', '2026   ']

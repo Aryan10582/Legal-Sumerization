@@ -1,0 +1,10 @@
+pyproject.toml
+src/indian_legal_nlp_mini_project.egg-info/PKG-INFO
+src/indian_legal_nlp_mini_project.egg-info/SOURCES.txt
+src/indian_legal_nlp_mini_project.egg-info/dependency_links.txt
+src/indian_legal_nlp_mini_project.egg-info/requires.txt
+src/indian_legal_nlp_mini_project.egg-info/top_level.txt
+src/legal_nlp/__init__.py
+src/legal_nlp/common.py
+src/legal_nlp/splitting.py
+src/legal_nlp/text.py

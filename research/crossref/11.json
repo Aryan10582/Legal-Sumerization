@@ -1,0 +1,830 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 3419639,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              14
+            ]
+          ],
+          "date-time": "2026-07-14T02:13:06Z",
+          "timestamp": 1783995186665,
+          "version": "3.55.0"
+        },
+        "reference-count": 46,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  4,
+                  25
+                ]
+              ],
+              "date-time": "2025-04-25T00:00:00Z",
+              "timestamp": 1745539200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  4,
+                  25
+                ]
+              ],
+              "date-time": "2025-04-25T00:00:00Z",
+              "timestamp": 1745539200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100012226",
+            "name": "Fundamental Research Funds for the Central Universities",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "N2423009"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "N2423009"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100012226",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "J. King Saud Univ. Comput. Inf. Sci."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2025,
+              5
+            ]
+          ]
+        },
+        "DOI": "10.1007/s44443-025-00019-0",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              25
+            ]
+          ],
+          "date-time": "2025-04-25T09:56:14Z",
+          "timestamp": 1745574974000
+        },
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 13,
+        "title": [
+          "Legal judgment prediction via legal knowledge extraction and fusion"
+        ],
+        "prefix": "10.1007",
+        "volume": "37",
+        "author": [
+          {
+            "given": "Qihui",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              25
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "19_CR1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen et al. (2019) Charge-based prison term prediction with deep gating network. In: Kentaro Inui, Jing Jiang, Vincent Ng, and Xiaojun Wan, editors, Proceedings of the 2019 conference on empirical methods in natural language processing and the 9th international joint conference on natural language processing, EMNLP-IJCNLP 2019, Hong Kong, China, 3-7 November, 2019, pp 6361–6366. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/D19-1667"
+          },
+          {
+            "key": "19_CR2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen X, Zhang N, Xie X, Deng S, Yao Y, Tan C, Huang F, Si L, Chen H (2022) Knowprompt: knowledge-aware prompt-tuning with synergistic optimization for relation extraction. In: Frédérique Laforest, Raphaël Troncy, Elena Simperl, Deepak Agarwal, Aristides Gionis, Ivan Herman, and Lionel Médini, editors, WWW ’22: The ACM web conference 2022, Virtual Event, Lyon, France, 25 - 29 April, 2022, pp 2778–2788. ACM",
+            "DOI": "10.1145/3485447.3511998"
+          },
+          {
+            "key": "19_CR3",
+            "unstructured": "Cho J, Lei J, Tan H, Bansal M (2021) Unifying vision-and-language tasks via text generation. In: Marina Meila and Tong Zhang, editors, Proceedings of the 38th international conference on machine learning, ICML 2021, 18-24 July 2021, Virtual Event, volume 139 of Proceedings of Machine Learning Research, pp 1931–1942. PMLR,"
+          },
+          {
+            "key": "19_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cui G, Hu S, Ding N, Huang L, Liu Z (2022) Prototypical verbalizer for prompt-based few-shot tuning. In: Smaranda Muresan, Preslav Nakov, and Aline Villavicencio, editors, Proceedings of the 60th annual meeting of the association for computational linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, 22-27 May, 2022, pp 7014–7024. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2022.acl-long.483"
+          },
+          {
+            "key": "19_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cui L, Wu Y, Liu J, Yang S, Zhang Y (2021) Template-based named entity recognition using BART. In: Chengqing Zong, Fei Xia, Wenjie Li, and Roberto Navigli, editors, Findings of the association for computational linguistics: ACL/IJCNLP 2021, online event, 1-6 August, 2021, volume ACL/IJCNLP 2021 of Findings of ACL, pp 1835–1845. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2021.findings-acl.161"
+          },
+          {
+            "key": "19_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gu Y, Han X, Liu Z, Huang M (2022) PPT: pre-trained prompt tuning for few-shot learning. In: Smaranda Muresan, Preslav Nakov, and Aline Villavicencio, editors, Proceedings of the 60th annual meeting of the association for computational linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, 22-27 May, 2022, pp 8410–8423. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2022.acl-long.576"
+          },
+          {
+            "key": "19_CR7",
+            "unstructured": "Hu et al. (2018) Few-shot charge prediction with discriminative legal attributes. In: Emily M. Bender, Leon Derczynski, and Pierre Isabelle, editors, Proceedings of the 27th international conference on computational linguistics, COLING 2018, Santa Fe, New Mexico, USA, 20-26 August, 2018, pp 487–498. Ass Comput Linguist,"
+          },
+          {
+            "key": "19_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hu S, Ding N, Wang H, Liu Z, Wang J, Li J, Wu W, Sun M (2022) Knowledgeable prompt-tuning: incorporating knowledge into prompt verbalizer for text classification. In: Smaranda Muresan, Preslav Nakov, and Aline Villavicencio, editors, Proceedings of the 60th annual meeting of the association for computational linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, 22-27 May, 2022, pp 2225–2240. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2022.acl-long.158"
+          },
+          {
+            "key": "19_CR9",
+            "unstructured": "Kang et al. (2019) Creating auxiliary representations from charge definitions for criminal charge prediction. CoRR, arXiv:1911.05202"
+          },
+          {
+            "key": "19_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Katz et al (2014) A general approach for predicting the behavior of the supreme court of the united states. Plos One. 12(4):e0174698",
+            "DOI": "10.1371/journal.pone.0174698"
+          },
+          {
+            "key": "19_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kim (2014) Convolutional neural networks for sentence classification. In: Alessandro Moschitti, Bo Pang, and Walter Daelemans, editors, Proceedings of the 2014 conference on empirical methods in natural language processing, EMNLP 2014, 25-29 October, 2014, Doha, Qatar, A meeting of SIGDAT, a Special Interest Group of the ACL, pp 1746–1751. ACL,",
+            "DOI": "10.3115/v1/D14-1181"
+          },
+          {
+            "issue": "1",
+            "key": "19_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.2307/1951767",
+            "volume": "51",
+            "author": "Fred Kort",
+            "year": "1957",
+            "unstructured": "Kort Fred (1957) Predicting supreme court decisions mathematically: a quantitative analysis of the right to counsel cases. American Political Sci Rev. 51(1):1–12",
+            "journal-title": "American Political Sci Rev."
+          },
+          {
+            "key": "19_CR13",
+            "unstructured": "Lai et al. (2015) Recurrent convolutional neural networks for text classification. In: Blai Bonet and Sven Koenig, editors, Proceedings of the twenty-ninth AAAI conference on artificial intelligence, 25-30 January, 2015, Austin, Texas, USA, pp 2267–2273. AAAI Press,"
+          },
+          {
+            "key": "19_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lee D-H, Kadakia A, Tan K, Agarwal M, Feng X, Shibuya T, Mitani R, Sekiya T, Pujara J, Ren X (2022) Good examples make A faster learner: simple demonstration-based learning for low-resource NER. In: Smaranda Muresan, Preslav Nakov, and Aline Villavicencio, editors, Proceedings of the 60th annual meeting of the association for computational linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, 22-27 May, 2022, pp 2687–2700. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2022.acl-long.192"
+          },
+          {
+            "key": "19_CR15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Le Y, Quan Z, Wang J, Cao D, Li K (2024b) $$\\varvec {R}^{2}$$: a novel recall & ranking framework for legal judgment prediction. IEEE ACM Trans Audio Speech Lang Process, 32:1609–1622,",
+            "DOI": "10.1109/TASLP.2024.3365389"
+          },
+          {
+            "key": "19_CR16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Le Y, Xiao S, Xiao Z, Li K (2024a) Topology-aware multi-task learning framework for civil case judgment prediction. Exp Syst Appl, 238(Part F):122103,",
+            "DOI": "10.1016/j.eswa.2023.122103"
+          },
+          {
+            "key": "19_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Li X L, Liang P (2021) Prefix-tuning: optimizing continuous prompts for generation. In: Chengqing Zong, Fei Xia, Wenjie Li, and Roberto Navigli, editors, Proceedings of the 59th annual meeting of the association for computational linguistics and the 11th international joint conference on natural language processing, ACL/IJCNLP 2021, (Volume 1: Long Papers), Virtual Event, 1-6 August, 2021, pp 4582–4597. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2021.acl-long.353"
+          },
+          {
+            "key": "19_CR18",
+            "unstructured": "Lin W-C, Kuo T-T, Chang T-J, Yen C-A, Chen C-J, Lin S-d (2012) Exploiting machine learning models for chinese legal documents labeling, case classification, and sentencing prediction. Int J Comput Linguist Chin Lang Process, 17(4),"
+          },
+          {
+            "key": "19_CR19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu et al. (2019) Legal cause prediction with inner descriptions and outer hierarchies. In: Maosong Sun, Xuanjing Huang, Heng Ji, Zhiyuan Liu, and Yang Liu, editors, Chinese computational linguistics - 18th China national conference, CCL 2019, Kunming, China, 18-20 October, 2019, Proceedings, volume 11856 of Lecture Notes in Computer Science, pp 573–586. Springer,",
+            "DOI": "10.1007/978-3-030-32381-3_46"
+          },
+          {
+            "key": "19_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu X, Ji K, Fu Y, Du Z, Yang Z, Tang J (2021) P-tuning v2: prompt tuning can be comparable to fine-tuning universally across scales and tasks. CoRR, arXiv:2110.07602",
+            "DOI": "10.18653/v1/2022.acl-short.8"
+          },
+          {
+            "key": "19_CR21",
+            "unstructured": "Liu P, Qiu X, Huang X (2016) Recurrent neural network for text classification with multi-task learning. In: Subbarao Kambhampati, editor, Proceedings of the twenty-fifth international joint conference on artificial intelligence, IJCAI 2016, New York, USA, 9-15 July 2016, pp 2873–2879. IJCAI/AAAI Press,"
+          },
+          {
+            "key": "19_CR22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu Y, Wu Y, Zhang Y, Sun C, Lu W, Wu F, Kuang K (2023) ML-LJP: multi-law aware legal judgment prediction. In: Proceedings of the 46th international ACM SIGIR conference on research and development in information retrieval, SIGIR 2023, Taipei, Taiwan, 23-27 July, 2023, pp 1023–1034. ACM,",
+            "DOI": "10.1145/3539618.3591731"
+          },
+          {
+            "key": "19_CR23",
+            "unstructured": "Liu P, Yuan W, Fu J, Jiang Z, Hayashi H, Neubig G (2021) Pre-train, prompt, and predict: a systematic survey of prompting methods in natural language processing. CoRR, arXiv:2107.13586"
+          },
+          {
+            "key": "19_CR24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Luo et al. (2017) Learning to predict charges for criminal cases with legal basis. In: Martha Palmer, Rebecca Hwa, and Sebastian Riedel, editors, Proceedings of the 2017 conference on empirical methods in natural language processing, EMNLP 2017, Copenhagen, Denmark, 9-11 September, 2017, pp 2727–2736. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/D17-1289"
+          },
+          {
+            "key": "19_CR25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ma L, Zhang Y, Wang T, Liu X, Ye W, Sun C, Zhang S (2021) Legal judgment prediction with multi-stage case representation learning in the real court setting. In: Diaz F, Shah C, Suel T, Castells P, Jones R, Sakai T, editors, SIGIR ’21: The 44th international ACM SIGIR conference on research and development in information retrieval, Virtual Event, Canada, 11-15 July, 2021, pp 993–1002. ACM,",
+            "DOI": "10.1145/3404835.3462945"
+          },
+          {
+            "key": "19_CR26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nguyen H D, Pham V T, Ngo Q H, Huynh A T, Nguyen B T, Machado J (2024) Intelligent search system for resume and labor law. Peer J Comput Sci, 10:e1786",
+            "DOI": "10.7717/peerj-cs.1786"
+          },
+          {
+            "key": "19_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pan et al. (2019) Charge prediction for multi-defendant cases with multi-scale attention. In: Yuqing Sun, Tun Lu, Zhengtao Yu, Hongfei Fan, and Liping Gao, editors, Computer supported cooperative work and social computing - 14th CCF conference, Chinese CSCW 2019, Kunming, China, 16-18 August, 2019, Revised Selected Papers, volume 1042 of Commun Comput Inf Sci, pp 766–777. Springer,",
+            "DOI": "10.1007/978-981-15-1377-0_59"
+          },
+          {
+            "key": "19_CR28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pham V, Le H H, Ngo T P, Nguyen B, Nguyen D, Nguyen H D (2024) Enhancing legal research through knowledge-infused information retrieval for vietnamese labor law. IAES Int J Artif Intell (IJ-AI), 13(4):3962–3973",
+            "DOI": "10.11591/ijai.v13.i4.pp3962-3973"
+          },
+          {
+            "key": "19_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rao Y, Zhao W, Chen G, Tang Y, Zhu Z, Huang G, Zhou J, Lu J (2022) Denseclip: Language-guided dense prediction with context-aware prompting. In: IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2022, New Orleans, LA, USA, 18-24 June, 2022, pp 18061–18070. IEEE,",
+            "DOI": "10.1109/CVPR52688.2022.01755"
+          },
+          {
+            "key": "19_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sun J, Huang S, Wei C (2024) Chinese legal judgment prediction via knowledgeable prompt learning. Expert Syst Appl, 238(Part E):122177,",
+            "DOI": "10.1016/j.eswa.2023.122177"
+          },
+          {
+            "issue": "3",
+            "key": "19_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "293",
+            "DOI": "10.1023/A:1018628609742",
+            "volume": "9",
+            "author": "Suykens and Vandewalle",
+            "year": "1999",
+            "unstructured": "Suykens and Vandewalle (1999) Least squares support vector machine classifiers. Neural Process Lett 9(3):293–300",
+            "journal-title": "Neural Process Lett"
+          },
+          {
+            "key": "19_CR32",
+            "unstructured": "Vaswani A, Shazeer N, Parmar N, Uszkoreit J, Jones L, Gomez A N, Kaiser L, Polosukhin I (2017) Attention is all you need. In: Guyon I, von Luxburg U, Bengio S, Wallach H M, Fergus R, Vishwanathan S V N, Garnett R, editors, Advances in neural information processing systems 30: annual Conf Neural Inf Process Syst 2017, 4-9 December, 2017, Long Beach, CA, USA, pp 5998–6008,"
+          },
+          {
+            "key": "19_CR33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang et al. (2019) Using case facts to predict accusation based on deep learning. In: 19th IEEE International conference on software quality, reliability and security companion, QRS companion 2019, Sofia, Bulgaria, 22-26 July, 2019, pp 133–137. IEEE,",
+            "DOI": "10.1109/QRS-C.2019.00038"
+          },
+          {
+            "key": "19_CR34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang J, Wang C, Luo F, Tan C, Qiu M, Yang F, Shi Q, Huang S, Gao M (2022) Towards unified prompt tuning for few-shot text classification. CoRR, arXiv:2205.05313",
+            "DOI": "10.18653/v1/2022.findings-emnlp.37"
+          },
+          {
+            "key": "19_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "79",
+            "DOI": "10.1016/j.aiopen.2021.06.003",
+            "volume": "2",
+            "author": "Xiao",
+            "year": "2021",
+            "unstructured": "Xiao et al (2021) Lawformer: a pre-trained language model for chinese legal long documents. AI Open 2:79–84",
+            "journal-title": "AI Open"
+          },
+          {
+            "key": "19_CR36",
+            "unstructured": "Xiao C, Zhong H, Guo Z, Tu C, Liu Z, Sun M, Feng Y, Han X, Hu Z, Wang H, Xu J (2018) CAIL2018: a large-scale legal dataset for judgment prediction. CoRR, arXiv:1807.02478"
+          },
+          {
+            "key": "19_CR37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Xu et al. (2020) Distinguish confusing law articles for legal judgment prediction. In: Dan Jurafsky, Joyce Chai, Natalie Schluter, and Joel R. Tetreault, editors, Proceedings of the 58th annual meeting of the association for computational linguistics, ACL 2020, Online, 5-10 July, 2020, pp 3086–3095. Ass Comput Linguist",
+            "DOI": "10.18653/v1/2020.acl-main.280"
+          },
+          {
+            "key": "19_CR38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yang et al. (2016) Hierarchical attention networks for document classification. In Kevin Knight, Ani Nenkova, and Owen Rambow, editors, NAACL HLT 2016, The 2016 conference of the North American chapter of the association for computational linguistics: human language technologies, San Diego California, USA, 12-17 June, 2016, pp 1480–1489. The Ass Comput Linguist,",
+            "DOI": "10.18653/v1/N16-1174"
+          },
+          {
+            "key": "19_CR39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yang et al. (2019) Legal judgment prediction via multi-perspective bi-feedback network. In: Sarit Kraus, editor, Proceedings of the twenty-eighth international joint conference on artificial intelligence, IJCAI 2019, Macao, China, 10-16 August, 2019, pp 4085–4091. ijcai.org,",
+            "DOI": "10.24963/ijcai.2019/567"
+          },
+          {
+            "key": "19_CR40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yang Z, Wang P, Zhang L, Shou L, Xu W (2019) A recurrent attention network for judgment prediction. In: Igor V. Tetko, Vera Kurková, Pavel Karpov, and Fabian J. Theis, editors, Artificial neural networks and machine learning - ICANN 2019: text and time series - 28th international conference on artificial neural networks, Munich, Germany, 17-19 September, 2019, Proceedings, Part IV, volume 11730 of Lecture Notes in Computer Science, pp 253–266. Springer,",
+            "DOI": "10.1007/978-3-030-30490-4_21"
+          },
+          {
+            "key": "19_CR41",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yao et al. (2019) Graph convolutional networks for text classification. In: The thirty-third AAAI conference on artificial intelligence, AAAI 2019, the thirty-first innovative applications of artificial intelligence conference, IAAI 2019, the ninth AAAI symposium on educational advances in artificial intelligence, EAAI 2019, Honolulu, Hawaii, USA, 27 January - 1 February, 2019, pp 7370–7377. AAAI Press,",
+            "DOI": "10.1609/aaai.v33i01.33017370"
+          },
+          {
+            "key": "19_CR42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yue L, Liu Q, Jin B, Wu H, Zhang K, An Y, Cheng M, Yin B, Wu D (2021) Neurjudge: a circumstance-aware neural framework for legal judgment prediction. In: Fernando Diaz, Chirag Shah, Torsten Suel, Pablo Castells, Rosie Jones, and Tetsuya Sakai, editors, SIGIR ’21: The 44th international ACM SIGIR conference on research and development in information retrieval, Virtual Event, Canada, 11-15 July, 2021, pp 973–982. ACM,",
+            "DOI": "10.1145/3404835.3462826"
+          },
+          {
+            "key": "19_CR43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang H, Dou Z, Zhu Y, Wen J-R (2023) Contrastive learning for legal judgment prediction. ACM Trans Inf Syst, 41(4):113:1–113:25",
+            "DOI": "10.1145/3580489"
+          },
+          {
+            "key": "19_CR44",
+            "unstructured": "Zhang Y, Wallace B C (2017) A sensitivity analysis of (and practitioners’ guide to) convolutional neural networks for sentence classification. In Greg Kondrak and Taro Watanabe, editors, Proceedings of the eighth international joint conference on natural language processing, IJCNLP 2017, Taipei, Taiwan, 27 November - 1 December, 2017 - Volume 1: Long Papers, pp 253–263. Asian Federation of Natural Language Processing,"
+          },
+          {
+            "key": "19_CR45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhong et al. (2018) Legal judgment prediction via topological learning. In: Ellen Riloff, David Chiang, Julia Hockenmaier, and Jun’ichi Tsujii, editors, Proceedings of the 2018 conference on empirical methods in natural language processing, Brussels, Belgium, 31 October - 4 November, 2018, pp 3540–3549. Ass Comput Linguists,",
+            "DOI": "10.18653/v1/D18-1390"
+          },
+          {
+            "key": "19_CR46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhong H, Xiao C, Tu C, Zhang T, Liu Z, Sun M (2020) How does NLP benefit legal system: a summary of legal artificial intelligence. In: Dan Jurafsky, Joyce Chai, Natalie Schluter, and Joel R. Tetreault, editors, Proceedings of the 58th annual meeting of the association for computational linguistics, ACL 2020, Online, 5-10 July, 2020, pp 5218–5230. Ass Comput Linguist,",
+            "DOI": "10.18653/v1/2020.acl-main.466"
+          }
+        ],
+        "container-title": [
+          "Journal of King Saud University Computer and Information Sciences"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s44443-025-00019-0.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s44443-025-00019-0/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s44443-025-00019-0.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              30
+            ]
+          ],
+          "date-time": "2025-05-30T11:46:03Z",
+          "timestamp": 1748605563000
+        },
+        "score": 59.798546,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s44443-025-00019-0"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              25
+            ]
+          ]
+        },
+        "references-count": 46,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2025,
+                5
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "19"
+        ],
+        "URL": "https://doi.org/10.1007/s44443-025-00019-0",
+        "ISSN": [
+          "1319-1578",
+          "2213-1248"
+        ],
+        "issn-type": [
+          {
+            "value": "1319-1578",
+            "type": "print"
+          },
+          {
+            "value": "2213-1248",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              25
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "13 January 2025",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "26 February 2025",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "25 April 2025",
+            "order": 3,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Declarations"
+            }
+          },
+          {
+            "value": "The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.",
+            "order": 2,
+            "name": "Ethics",
+            "group": {
+              "name": "EthicsHeading",
+              "label": "Conflicts of Interest"
+            }
+          }
+        ],
+        "article-number": "31"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2026-09-30T23:48:27Z",
+          "timestamp": 1790812107940,
+          "version": "4.1.0"
+        },
+        "posted": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "group-title": "SSRN",
+        "reference-count": 0,
+        "publisher": "Elsevier BV",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "DOI": "10.2139/ssrn.4341600",
+        "type": "posted-content",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              1,
+              29
+            ]
+          ],
+          "date-time": "2023-01-29T14:34:41Z",
+          "timestamp": 1675002881000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Legal Judgment Prediction Via Legal Knowledge Fusion and Prompt Learning"
+        ],
+        "prefix": "10.2139",
+        "author": [
+          {
+            "given": "Qihui",
+            "family": "Zhao",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Tianhan",
+            "family": "Gao",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Nan",
+            "family": "Guo",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "78",
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              4,
+              13
+            ]
+          ],
+          "date-time": "2023-04-13T07:41:35Z",
+          "timestamp": 1681371695000
+        },
+        "score": 51.18128,
+        "resource": {
+          "primary": {
+            "URL": "https://www.ssrn.com/abstract=4341600"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.2139/ssrn.4341600",
+        "published": {
+          "date-parts": [
+            [
+              2023
+            ]
+          ]
+        },
+        "subtype": "preprint"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              15
+            ]
+          ],
+          "date-time": "2026-09-15T12:11:52Z",
+          "timestamp": 1789474312919,
+          "version": "build-2803163510"
+        },
+        "publisher-location": "Stroudsburg, PA, USA",
+        "reference-count": 0,
+        "publisher": "Association for Computational Linguistics",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "DOI": "10.18653/v1/2022.acl-long.48",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              3
+            ]
+          ],
+          "date-time": "2022-06-03T01:34:53Z",
+          "timestamp": 1654220093000
+        },
+        "page": "648-664",
+        "source": "Crossref",
+        "is-referenced-by-count": 59,
+        "title": [
+          "Legal Judgment Prediction via Event Extraction with Constraints"
+        ],
+        "prefix": "10.18653",
+        "author": [
+          {
+            "given": "Yi",
+            "family": "Feng",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Chuanyi",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vincent",
+            "family": "Ng",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1643",
+        "event": {
+          "name": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+          "location": "Dublin, Ireland",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                5
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                5
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              6,
+              3
+            ]
+          ],
+          "date-time": "2022-06-03T01:35:30Z",
+          "timestamp": 1654220130000
+        },
+        "score": 43.62909,
+        "resource": {
+          "primary": {
+            "URL": "https://aclanthology.org/2022.acl-long.48"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.18653/v1/2022.acl-long.48",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

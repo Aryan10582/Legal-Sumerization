@@ -1,0 +1,39 @@
+[1] A. Kanapala et al., "Text summarization from legal documents: a survey," Artificial Intelligence Review, vol. 51, no. 3, pp. 371–402, 2019, doi: 10.1007/s10462-017-9566-2.
+
+[2] S. Sharma et al., "A Comprehensive Analysis of Indian Legal Documents Summarization Techniques," SN Computer Science, vol. 4, no. 5, Art. no. 614, 2023, doi: 10.1007/s42979-023-01983-y.
+
+[3] I. Chalkidis and D. Kampas, "Deep learning in law: early adaptation and legal word embeddings trained on large corpora," Artificial Intelligence and Law, vol. 27, no. 2, pp. 171–198, 2019, doi: 10.1007/s10506-018-9238-9.
+
+[4] M. Saravanan and B. Ravindran, "Identification of Rhetorical Roles for Segmentation and Summarization of a Legal Judgment," Artificial Intelligence and Law, vol. 18, no. 1, pp. 45–76, 2010, doi: 10.1007/s10506-010-9087-7.
+
+[5] M. Koniaris et al., "Evaluation of Automatic Legal Text Summarization Techniques for Greek Case Law," Information, vol. 14, no. 4, Art. no. 250, 2023, doi: 10.3390/info14040250.
+
+[6] Y. Huang et al., "A High-Precision Two-Stage Legal Judgment Summarization," Mathematics, vol. 11, no. 6, Art. no. 1320, 2023, doi: 10.3390/math11061320.
+
+[7] D. Anand and R. Wagh, "Effective deep learning approaches for summarization of legal texts," Journal of King Saud University - Computer and Information Sciences, vol. 34, no. 5, pp. 2141–2150, 2022, doi: 10.1016/j.jksuci.2019.11.015.
+
+[8] D. d. V. Feijo and V. P. Moreira, "Improving abstractive summarization of legal rulings through textual entailment," Artificial Intelligence and Law, vol. 31, no. 1, pp. 91–113, 2023, doi: 10.1007/s10506-021-09305-4.
+
+[9] D. Jain et al., "A sentence is known by the company it keeps: Improving Legal Document Summarization Using Deep Clustering," Artificial Intelligence and Law, vol. 32, no. 1, pp. 165–200, 2024, doi: 10.1007/s10506-023-09345-y.
+
+[10] A. Deroy et al., "Ensemble methods for improving extractive summarization of legal case judgements," Artificial Intelligence and Law, vol. 32, no. 1, pp. 231–289, 2024, doi: 10.1007/s10506-023-09349-8.
+
+[11] A. Deroy et al., "Applicability of large language models and generative models for legal case judgement summarization," Artificial Intelligence and Law, vol. 33, no. 4, pp. 1007–1050, 2025, doi: 10.1007/s10506-024-09411-z.
+
+[12] J. Dan et al., "Enhancing legal judgment summarization with integrated semantic and structural information," Artificial Intelligence and Law, vol. 33, no. 2, pp. 271–292, 2025, doi: 10.1007/s10506-023-09381-8.
+
+[13] Y. Gao et al., "Summarizing judicial documents: a hybrid extractive- abstractive model with legal domain knowledge," Artificial Intelligence and Law, vol. 34, no. 2, pp. 493–521, 2026, doi: 10.1007/s10506-025-09435-z.
+
+[14] W. Gao et al., "LSDK-LegalSum: improving legal judgment summarization using logical structure and domain knowledge," Journal of King Saud University Computer and Information Sciences, vol. 37, no. 1-2, Art. no. 3, 2025, doi: 10.1007/s44443-025-00022-5.
+
+[15] S. Moon et al., "Automated detection of contractual risk clauses from construction specifications using bidirectional encoder representations from transformers (BERT)," Automation in Construction, vol. 142, Art. no. 104465, 2022, doi: 10.1016/j.autcon.2022.104465.
+
+[16] L. Zhang et al., "Automated multi-label classification of risk clauses in construction contracts using GPT-driven data augmentation," Automation in Construction, vol. 181, Art. no. 106599, 2026, doi: 10.1016/j.autcon.2025.106599.
+
+[17] S. Dadas et al., "A support system for the detection of abusive clauses in B2C contracts," Artificial Intelligence and Law, vol. 33, no. 4, pp. 913–951, 2025, doi: 10.1007/s10506-024-09408-8.
+
+[18] P. Prabhakar and P. B. Pati, "Enhancing Indian legal judgment classification with embeddings, feature selection, and ensemble strategies," Artificial Intelligence and Law, vol. 34, no. 2, pp. 523–564, 2026, doi: 10.1007/s10506-025-09438-w.
+
+[19] S. Adhikary et al., "A case study for automated attribute extraction from legal documents using large language models," Artificial Intelligence and Law, vol. 34, no. 1, pp. 245–266, 2026, doi: 10.1007/s10506-024-09425-7.
+
+[20] A. Munthuli et al., "Transformers for Multi-Intent Classification and Slot Filling of Supreme Court Decisions Related to Sexual Violence Law," IEEE Access, vol. 11, pp. 76448–76467, 2023, doi: 10.1109/access.2023.3296261.

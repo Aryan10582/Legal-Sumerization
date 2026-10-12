@@ -1,0 +1,1128 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 4235126,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              17
+            ]
+          ],
+          "date-time": "2026-07-17T11:31:06Z",
+          "timestamp": 1784287866262,
+          "version": "3.55.0"
+        },
+        "reference-count": 35,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  3,
+                  4
+                ]
+              ],
+              "date-time": "2023-03-04T00:00:00Z",
+              "timestamp": 1677888000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2023,
+                  3,
+                  4
+                ]
+              ],
+              "date-time": "2023-03-04T00:00:00Z",
+              "timestamp": 1677888000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              3
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10506-023-09349-8",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              4
+            ]
+          ],
+          "date-time": "2023-03-04T12:02:47Z",
+          "timestamp": 1677931367000
+        },
+        "page": "231-289",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 25,
+        "title": [
+          "Ensemble methods for improving extractive summarization of legal case judgements"
+        ],
+        "prefix": "10.1007",
+        "volume": "32",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7190-5040",
+            "authenticated-orcid": false,
+            "given": "Aniket",
+            "family": "Deroy",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kripabandhu",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Saptarshi",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              4
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9349_CR1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ali S, Tirumala SS, Sarrafzadeh A (2015) Ensemble learning methods for decision making: Status and future prospects. In: Proceedings of international conference on machine learning and cybernetics (ICMLC), pp 211–216",
+            "DOI": "10.1109/ICMLC.2015.7340924"
+          },
+          {
+            "key": "9349_CR2",
+            "unstructured": "Banerjee S, Lavie A (2005) METEOR: An automatic metric for MT evaluation with improved correlation with human judgments. In: Proceedings of the ACL workshop on intrinsic and extrinsic evaluation measures for machine translation and/or summarization, pp 65–72"
+          },
+          {
+            "key": "9349_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Hiware K, Rajgaria S, et al (2019) A comparative study of summarization algorithms applied to legal case judgments. In: ECIR",
+            "DOI": "10.1007/978-3-030-15712-8_27"
+          },
+          {
+            "key": "9349_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Poddar S, Rudra K, et al (2021) Incorporating domain knowledge for extractive summarization of legal case documents. In: Proc. international conference on artificial intelligence and law",
+            "DOI": "10.1145/3462757.3466092"
+          },
+          {
+            "key": "9349_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Collins E, Augenstein I, Riedel S (2017) A supervised approach to extractive summarisation of scientific papers. In: Proceedings of the 21st conference on computational natural language learning (CoNLL 2017), pp 195–205",
+            "DOI": "10.18653/v1/K17-1021"
+          },
+          {
+            "key": "9349_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Deroy A, Bhattacharya P, Ghosh K, et al (2021) An analytical study of algorithmic and expert summaries of legal cases. In: Legal knowledge and information systems. IOS Press, pp 90–99",
+            "DOI": "10.3233/FAIA210322"
+          },
+          {
+            "key": "9349_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "241",
+            "DOI": "10.1007/s11704-019-8208-z",
+            "volume": "14",
+            "author": "X Dong",
+            "year": "2019",
+            "unstructured": "Dong X, Yu Z, Cao W et al (2019) A survey on ensemble learning. Front Comp Sci 14:241–258",
+            "journal-title": "Front Comp Sci"
+          },
+          {
+            "issue": "3",
+            "key": "9349_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "4",
+            "DOI": "10.1109/MIS.2018.033001411",
+            "volume": "33",
+            "author": "S Dutta",
+            "year": "2018",
+            "unstructured": "Dutta S, Chandra V, Mehra K et al (2018) Ensemble algorithms for microblog summarization. IEEE Intell Syst 33(3):4–14",
+            "journal-title": "IEEE Intell Syst"
+          },
+          {
+            "key": "9349_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "457",
+            "DOI": "10.1613/jair.1523",
+            "volume": "22",
+            "author": "G Erkan",
+            "year": "2004",
+            "unstructured": "Erkan G, Radev DR (2004) Lexrank: graph-based lexical centrality as salience in text summarization. J Artif Intell Res 22:457–479",
+            "journal-title": "J Artif Intell Res"
+          },
+          {
+            "key": "9349_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "391",
+            "DOI": "10.1162/tacl_a_00373",
+            "volume": "9",
+            "author": "AR Fabbri",
+            "year": "2021",
+            "unstructured": "Fabbri AR, Kryściński W, McCann B et al (2021) SummEval: re-evaluating summarization evaluation. Trans Assoc Comput Linguist 9:391–409",
+            "journal-title": "Trans Assoc Comput Linguist"
+          },
+          {
+            "key": "9349_CR11",
+            "unstructured": "Farzindar A, Lapalme G (2004) Letsum, an automatic legal text summarizing system. In: JURIX"
+          },
+          {
+            "key": "9349_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grover A, Leskovec J (2016) node2vec: Scalable feature learning for networks. In: Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining, pp 855–864",
+            "DOI": "10.1145/2939672.2939754"
+          },
+          {
+            "key": "9349_CR13",
+            "unstructured": "He Z, Chen C, Bu J, et al (2012) Document summarization based on data reconstruction. In: AAAI"
+          },
+          {
+            "key": "9349_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "5",
+            "DOI": "10.1145/345966.345982",
+            "volume": "31",
+            "author": "JM Kleinberg",
+            "year": "1999",
+            "unstructured": "Kleinberg JM (1999) Hubs, authorities, and communities. ACM Comput Surv (CSUR) 31:5–7",
+            "journal-title": "ACM Comput Surv (CSUR)"
+          },
+          {
+            "key": "9349_CR15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kobayashi H (2018) Frustratingly easy model ensemble for abstractive summarization. In: Proceedings of the conference on empirical methods in natural language processing, pp 4165–4176",
+            "DOI": "10.18653/v1/D18-1449"
+          },
+          {
+            "key": "9349_CR16",
+            "unstructured": "Li K, Han Y (2010) Study of selective ensemble learning method and its diversity based on decision tree and neural network. In: Proceedings of Chinese control and decision conference, pp 1310–1315"
+          },
+          {
+            "key": "9349_CR17",
+            "unstructured": "Lin CY (2004) ROUGE: A package for automatic evaluation of summaries. In: Text summarization branches out, pp 74–81"
+          },
+          {
+            "key": "9349_CR18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu CL, Chen KC (2019) Extracting the gist of Chinese judgments of the supreme court. In: ICAIL",
+            "DOI": "10.1145/3322640.3326715"
+          },
+          {
+            "key": "9349_CR19",
+            "unstructured": "Liu Y (2019) Fine-tune BERT for extractive summarization. ArXiv:1903.10318"
+          },
+          {
+            "issue": "107",
+            "key": "9349_CR20",
+            "first-page": "347",
+            "volume": "106",
+            "author": "C Mallick",
+            "year": "2021",
+            "unstructured": "Mallick C, Das AK, Ding W et al (2021) Ensemble summarization of bio-medical articles integrating clustering and multi-objective evolutionary algorithms. Appl Soft Comput 106(107):347",
+            "journal-title": "Appl Soft Comput"
+          },
+          {
+            "issue": "44",
+            "key": "9349_CR21",
+            "doi-asserted-by": "publisher",
+            "first-page": "11,103",
+            "DOI": "10.1523/JNEUROSCI.0002-08.2008",
+            "volume": "28",
+            "author": "S Maslov",
+            "year": "2008",
+            "unstructured": "Maslov S, Redner S (2008) Promise and pitfalls of extending google’s pagerank algorithm to citation networks. J Neurosci 28(44):11,103-11,105",
+            "journal-title": "J Neurosci"
+          },
+          {
+            "issue": "2",
+            "key": "9349_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "145",
+            "DOI": "10.1016/j.ipm.2017.11.002",
+            "volume": "54",
+            "author": "P Mehta",
+            "year": "2018",
+            "unstructured": "Mehta P, Majumder P (2018) Effective aggregation of various summarization techniques. Inf Process Manage 54(2):145–158",
+            "journal-title": "Inf Process Manage"
+          },
+          {
+            "key": "9349_CR23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Moawad I, Aref M (2012) Semantic graph reduction approach for abstractive text summarization. In: International conference on computer engineering and systems, pp 132–138",
+            "DOI": "10.1109/ICCES.2012.6408498"
+          },
+          {
+            "issue": "102",
+            "key": "9349_CR24",
+            "first-page": "254",
+            "volume": "96",
+            "author": "M Mohammadi",
+            "year": "2020",
+            "unstructured": "Mohammadi M, Rezaei J (2020) Ensemble ranking: aggregation of rankings produced by different multi-criteria decision-making methods. Omega 96(102):254",
+            "journal-title": "Omega"
+          },
+          {
+            "key": "9349_CR25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nallapati R, Zhai F, Zhou B (2017) Summarunner: A recurrent neural network based sequence model for extractive summarization of documents. In: Proceedings of AAAI international conference",
+            "DOI": "10.1609/aaai.v31i1.10958"
+          },
+          {
+            "key": "9349_CR26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nenkova A, Maskey S, Liu Y (2011) Automatic summarization. In: Proceedings of ACL",
+            "DOI": "10.1561/9781601984715"
+          },
+          {
+            "key": "9349_CR27",
+            "unstructured": "Page L, Brin S, Motwani R et al (1999) The pagerank citation ranking: Bringing order to the web. Tech. rep, Stanford InfoLab"
+          },
+          {
+            "key": "9349_CR28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Perozzi B, Al-Rfou R, Skiena S (2014) Deepwalk: Online learning of social representations. In: Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining, pp 701–710",
+            "DOI": "10.1145/2623330.2623732"
+          },
+          {
+            "key": "9349_CR29",
+            "unstructured": "Polsley S, Jhunjhunwala P, Huang R (2016) Casesummarizer: A system for automated summarization of legal texts. In: COLING"
+          },
+          {
+            "key": "9349_CR30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rincy TN, Gupta R (2020) Ensemble learning techniques and its efficiency in machine learning: a survey. In: International conference on data, engineering and applications (IDEA), pp 1–6",
+            "DOI": "10.1109/IDEA49133.2020.9170675"
+          },
+          {
+            "key": "9349_CR31",
+            "unstructured": "Saravanan M, Ravindran B, Raman S (2006) Improving legal document summarization using graphical models. In: Proceedings of the 2006 conference on legal knowledge and information systems: JURIX 2006: the nineteenth annual conference. IOS Press, NLD, pp 51–60"
+          },
+          {
+            "key": "9349_CR32",
+            "unstructured": "Shukla A, Bhattacharya P, Poddar S, et al (2022) Legal case document summarization: extractive and abstractive methods and their evaluation. In: Proceedings of the conference of the Asia-Pacific chapter of the association for computational linguistics and the international joint conference on natural language processing (Volume 1: Long Papers), pp 1048–1064"
+          },
+          {
+            "key": "9349_CR33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Xu H, Savelka J, Ashley KD (2021) Toward summarizing case decisions via extracting argument issues, reasons, and conclusions. In: Proceedings of the international conference on artificial intelligence and law (ICAIL), pp 250–254",
+            "DOI": "10.1145/3462757.3466098"
+          },
+          {
+            "key": "9349_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "75",
+            "DOI": "10.1016/j.ipm.2004.04.003",
+            "volume": "41",
+            "author": "JY Yeh",
+            "year": "2005",
+            "unstructured": "Yeh JY, Ke HR, Yang WP et al (2005) Text summarization using a trainable summarizer and latent semantic analysis. Inf Process Manage 41:75–95",
+            "journal-title": "Inf Process Manage"
+          },
+          {
+            "key": "9349_CR35",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhong L, Zhong Z, Zhao Z, et al (2019) Automatic summarization of legal decisions using iterative masking of predictive sentences. In: Proceedings of ICAIL",
+            "DOI": "10.1145/3322640.3326728"
+          }
+        ],
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09349-8.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10506-023-09349-8/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-023-09349-8.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              1
+            ]
+          ],
+          "date-time": "2024-03-01T06:13:25Z",
+          "timestamp": 1709273605000
+        },
+        "score": 63.044426,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10506-023-09349-8"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              4
+            ]
+          ]
+        },
+        "references-count": 35,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2024,
+                3
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9349"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-023-09349-8",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              4
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "27 January 2023",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "4 March 2023",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T17:46:49Z",
+          "timestamp": 1791395209105,
+          "version": "4.3.3"
+        },
+        "reference-count": 26,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "3",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  5,
+                  6
+                ]
+              ],
+              "date-time": "2025-05-06T00:00:00Z",
+              "timestamp": 1746489600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  5,
+                  6
+                ]
+              ],
+              "date-time": "2025-05-06T00:00:00Z",
+              "timestamp": 1746489600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Artif Intell Law"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              9
+            ]
+          ]
+        },
+        "DOI": "10.1007/s10506-025-09453-x",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              6
+            ]
+          ],
+          "date-time": "2025-05-06T08:40:00Z",
+          "timestamp": 1746520800000
+        },
+        "page": "815-845",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 5,
+        "title": [
+          "Extractive summarization of Indian legal judgements using unsupervised role labelling"
+        ],
+        "prefix": "10.1007",
+        "volume": "34",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0009-0008-4708-317X",
+            "authenticated-orcid": false,
+            "given": "Shruti",
+            "family": "Shreyasi",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-4700-6456",
+            "authenticated-orcid": false,
+            "given": "Ayan",
+            "family": "Bandyopadhyay",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3553-8834",
+            "authenticated-orcid": false,
+            "given": "Partha Pratim",
+            "family": "Chakrabarti",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              6
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "9453_CR1",
+            "unstructured": "Banerjee S, Mitra P, Sugiyama K (2016) Multi-document abstractive summarization using ilp based multi-sentence compression"
+          },
+          {
+            "key": "9453_CR2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Paul S, Ghosh K, Ghosh S, Wyner A (2019) Identification of rhetorical roles of sentences in Indian legal judgments",
+            "DOI": "10.3233/FAIA190301"
+          },
+          {
+            "key": "9453_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Paul S, Ghosh K, Ghosh S, Wyner A (2019) Identification of rhetorical roles of sentences in Indian Legal Judgments. In: Proceedings of the 32nd international conference on legal knowledge and information systems (JURIX)",
+            "DOI": "10.3233/FAIA190301"
+          },
+          {
+            "key": "9453_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Poddar S, Rudra K, Ghosh K, Ghosh S (2021) Incorporating domain knowledge for extractive summarization of legal case documents",
+            "DOI": "10.1145/3462757.3466092"
+          },
+          {
+            "key": "9453_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bhattacharya P, Poddar S, Rudra K, Ghosh K, Ghosh S (2021)Incorporating domain knowledge for extractive summarization of legal case documents. In: Proceedings of the 18th International Conference on Artificial Intelligence and Law (ICAIL)",
+            "DOI": "10.1145/3462757.3466092"
+          },
+          {
+            "issue": "1",
+            "key": "9453_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "231",
+            "DOI": "10.1007/s10506-023-09349-8",
+            "volume": "32",
+            "author": "A Deroy",
+            "year": "2023",
+            "unstructured": "Deroy A, Ghosh K, Ghosh S (2023) Ensemble methods for improving extractive summarization of legal case judgements. Artif Intell Law 32(1):231–289",
+            "journal-title": "Artif Intell Law"
+          },
+          {
+            "key": "9453_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "457",
+            "DOI": "10.1613/jair.1523",
+            "volume": "22",
+            "author": "G Erkan",
+            "year": "2004",
+            "unstructured": "Erkan G, Radev DR (2004) LexRank: graph-based lexical centrality as salience in text summarization. J Artif Intell Res 22:457–479",
+            "journal-title": "J Artif Intell Res"
+          },
+          {
+            "key": "9453_CR8",
+            "unstructured": "Farzindar A, Lapalme G (2004) Letsum, an automatic legal text summarizing system. Jurix 11–18"
+          },
+          {
+            "key": "9453_CR26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fikri FB, Oflazer K Yanıkoğlu B (2024) Abstractive summarization with deep reinforcement learning using semantic similarity rewards. Nat Language Eng 30(3): 554–576",
+            "DOI": "10.1017/S1351324923000505"
+          },
+          {
+            "key": "9453_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Haghighi A, Vanderwende L (2009) Exploring content models for multi-document summarization. In: Proceedings of Human Language Technologies: The 2009 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Boulder, Colorado, Association for Computational Linguistics, pp 362–370",
+            "DOI": "10.3115/1620754.1620807"
+          },
+          {
+            "key": "9453_CR10",
+            "unstructured": "Le Q, Mikolov T (2014) Distributed representations of sentences and documents. In: Proceedings of the 31st international conference on international conference on machine learning - volume 32, ICML’14. JMLR.org, , pp II-1188–II-1196"
+          },
+          {
+            "key": "9453_CR11",
+            "unstructured": "Lin C-Y (2001) ROUGE: A package for automatic evaluation of summaries. In: Text summarization branches out, Barcelona, Spain, July 2004. Association for Computational Linguistics, pp 74–81"
+          },
+          {
+            "issue": "2",
+            "key": "9453_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "159",
+            "DOI": "10.1147/rd.22.0159",
+            "volume": "2",
+            "author": "HP Luhn",
+            "year": "1958",
+            "unstructured": "Luhn HP (1958) The automatic creation of literature abstracts. IBM J Res Dev 2(2):159–165",
+            "journal-title": "IBM J Res Dev"
+          },
+          {
+            "key": "9453_CR13",
+            "unstructured": "Nenkova A, Vanderwende L, Vanderwende L (2005) The impact of frequency on summarization"
+          },
+          {
+            "issue": "405–417",
+            "key": "9453_CR14",
+            "first-page": "08",
+            "volume": "37",
+            "author": "M Ozsoy",
+            "year": "2011",
+            "unstructured": "Ozsoy M, Alpaslan F, Cicekli I (2011) Text summarization using latent semantic analysis. J Inf Sci 37(405–417):08",
+            "journal-title": "J Inf Sci"
+          },
+          {
+            "key": "9453_CR15",
+            "unstructured": "Parikh V, Mathur V, Mehta P, Mittal N, Prasenjit M (2021) Lawsum: a weakly supervised approach for Indian legal document summarization"
+          },
+          {
+            "key": "9453_CR16",
+            "unstructured": "Polsley S, Jhunjhunwala P, Huang R (2016) Casesummarizer: a system for automated summarization of legal texts. In: Proceedings of COLING 2016, the 26th international conference on Computational Linguistics: System Demonstrations  Dec (pp. 258–262). https://aclanthology.org/C16-2054/"
+          },
+          {
+            "key": "9453_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rudra K, Goyal P, Ganguly N, Mitra P, Imran M (2018) Identifying sub-events and summarizing disaster-related information from microblogs. In: The 41st international ACM SIGIR conference on research & development in information retrieval, SIGIR ’18, New York, NY, USA, Association for Computing Machinery, pp 265–274",
+            "DOI": "10.1145/3209978.3210030"
+          },
+          {
+            "key": "9453_CR18",
+            "unstructured": "Saravanan M, Ravindran B, Raman S (2006) Improving legal document summarization using graphical models. In: Proceedings of the 2006 conference on legal knowledge and information systems: JURIX 2006: the nineteenth annual conference. NLD, IOS Press, pp 51–60"
+          },
+          {
+            "key": "9453_CR19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sedgwick P (2014) Spearman’s rank correlation coefficient. BMJ: Br Med J 349:g7327",
+            "DOI": "10.1136/bmj.g7327"
+          },
+          {
+            "key": "9453_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shukla A, Bhattacharya P, Poddar S, Mukherjee R, Ghosh K, Goyal P, Ghosh Si (2022) Legal case document summarization: extractive and abstractive methods and their evaluation. In: Yulan H, Heng J, Sujian L, Yang L, Chua-Hui C (eds) Proceedings of the 2nd conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers), Online only, November Association for Computational Linguistics, pp 1048–1064",
+            "DOI": "10.18653/v1/2022.aacl-main.77"
+          },
+          {
+            "key": "9453_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sievert C, Shirley K (2014) LDAvis: a method for visualizing and interpreting topics. In: Proceedings of the workshop on interactive language learning, visualization, and interfaces, Baltimore, Maryland, USA, June Association for Computational Linguistics, pp 63–70",
+            "DOI": "10.3115/v1/W14-3110"
+          },
+          {
+            "issue": "e262",
+            "key": "9453_CR22",
+            "first-page": "03",
+            "volume": "6",
+            "author": "R Wagh",
+            "year": "2020",
+            "unstructured": "Wagh R, Anand D (2020) Legal document similarity: a multi-criteria decision-making perspective. PeerJ Comput Sci 6(e262):03",
+            "journal-title": "PeerJ Comput Sci"
+          },
+          {
+            "key": "9453_CR23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Xiao W, Xie Y, Carenini G, He P (2024)Personalized abstractive summarization by tri-agent generation pipeline. In: Yvette G, Matthew P (eds) Findings of the Association for Computational Linguistics: EACL 2024, St. Julian’s, Malta, March Association for Computational Linguistics, pp 570–581",
+            "DOI": "10.18653/v1/2024.findings-eacl.39"
+          },
+          {
+            "key": "9453_CR24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zaware S, Patadiya D, Gaikwad A, Gulhane S, Thakare A (2021) Text summarization using tf-idf and textrank algorithm. In: 2021 5th international conference on trends in electronics and informatics (ICOEI), pp 1399–1407",
+            "DOI": "10.1109/ICOEI51242.2021.9453071"
+          },
+          {
+            "key": "9453_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "39",
+            "DOI": "10.1162/tacl_a_00632",
+            "volume": "12",
+            "author": "T Zhang",
+            "year": "2024",
+            "unstructured": "Zhang T, Ladhak F, Durmus E, Liang P, McKeown K, Hashimoto TB (2024) Benchmarking large language models for news summarization. Trans Assoc Comput Linguist 12:39–57",
+            "journal-title": "Trans Assoc Comput Linguist"
+          }
+        ],
+        "container-title": [
+          "Artificial Intelligence and Law"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-025-09453-x.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s10506-025-09453-x",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10506-025-09453-x.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              30
+            ]
+          ],
+          "date-time": "2026-09-30T12:50:13Z",
+          "timestamp": 1790772613000
+        },
+        "score": 38.308968,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s10506-025-09453-x"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              6
+            ]
+          ]
+        },
+        "references-count": 26,
+        "journal-issue": {
+          "issue": "3",
+          "published-print": {
+            "date-parts": [
+              [
+                2026,
+                9
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "9453"
+        ],
+        "URL": "https://doi.org/10.1007/s10506-025-09453-x",
+        "ISSN": [
+          "0924-8463",
+          "1572-8382"
+        ],
+        "issn-type": [
+          {
+            "value": "0924-8463",
+            "type": "print"
+          },
+          {
+            "value": "1572-8382",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              6
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "25 February 2025",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          },
+          {
+            "value": "6 May 2025",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T17:47:43Z",
+          "timestamp": 1791395263874,
+          "version": "4.3.3"
+        },
+        "publisher-location": "Stroudsburg, PA, USA",
+        "reference-count": 0,
+        "publisher": "Association for Computational Linguistics",
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "DOI": "10.18653/v1/2022.aacl-main.77",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2024-11-27T17:28:01Z",
+          "timestamp": 1732728481000
+        },
+        "page": "1048-1064",
+        "source": "Crossref",
+        "is-referenced-by-count": 69,
+        "title": [
+          "Legal Case Document Summarization: Extractive and Abstractive Methods and their Evaluation"
+        ],
+        "prefix": "10.18653",
+        "author": [
+          {
+            "given": "Abhay",
+            "family": "Shukla",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Paheli",
+            "family": "Bhattacharya",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Soham",
+            "family": "Poddar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Rajdeep",
+            "family": "Mukherjee",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Kripabandhu",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Pawan",
+            "family": "Goyal",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Saptarshi",
+            "family": "Ghosh",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "1643",
+        "event": {
+          "name": "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)",
+          "location": "Online only",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                11
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                11
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "Proceedings of the 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)"
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              27
+            ]
+          ],
+          "date-time": "2024-11-27T17:28:27Z",
+          "timestamp": 1732728507000
+        },
+        "score": 36.037266,
+        "resource": {
+          "primary": {
+            "URL": "https://aclanthology.org/2022.aacl-main.77"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.18653/v1/2022.aacl-main.77",
+        "published": {
+          "date-parts": [
+            [
+              2022
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

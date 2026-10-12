@@ -1,0 +1,74 @@
+{
+  "Artificial Intelligence and Law": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://link.springer.com/journal/10506",
+    "databases": [
+      "Scopus",
+      "SCIE",
+      "SSCI"
+    ]
+  },
+  "Artificial Intelligence Review": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://link.springer.com/journal/10462",
+    "databases": [
+      "Scopus",
+      "SCIE"
+    ]
+  },
+  "SN Computer Science": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://link.springer.com/journal/42979",
+    "databases": [
+      "Scopus"
+    ]
+  },
+  "Information": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://www.mdpi.com/journal/information",
+    "databases": [
+      "Scopus",
+      "ESCI"
+    ]
+  },
+  "Mathematics": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://www.mdpi.com/journal/mathematics/history",
+    "databases": [
+      "Scopus",
+      "SCIE"
+    ]
+  },
+  "IEEE Access": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://ieeeaccess.ieee.org/about/bibliometrics/",
+    "databases": [
+      "Scopus",
+      "SCIE"
+    ]
+  },
+  "Journal of King Saud University Computer and Information Sciences": {
+    "status": "publisher-confirmed journal indexing",
+    "url": "https://link.springer.com/journal/44443",
+    "databases": [
+      "Scopus",
+      "SCIE"
+    ]
+  },
+  "Journal of King Saud University - Computer and Information Sciences": {
+    "status": "publisher-confirmed journal indexing; journal has transferred publisher",
+    "url": "https://link.springer.com/journal/44443",
+    "databases": [
+      "Scopus",
+      "SCIE"
+    ]
+  },
+  "Automation in Construction": {
+    "status": "institutional primary record supports Scopus coverage; direct source-list access blocked",
+    "url": "https://snu.elsevierpure.com/en/publications/automated-detection-of-contractual-risk-clauses-from-construction/",
+    "databases": [
+      "Scopus"
+    ],
+    "note": "The university author record links the 2022 article to Scopus citations. Current journal metrics corroborated by TU Dresden journal record. No authenticated per-article database audit for 2026."
+  }
+}

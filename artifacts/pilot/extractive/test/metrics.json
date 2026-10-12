@@ -1,0 +1,27 @@
+{
+  "count": 20,
+  "scale": "0 to 1",
+  "aggregation": "arithmetic document mean of F1",
+  "configuration": "rouge-score 0.1.2; default English alphanumeric tokenizer; Porter stemming; ROUGE-L (not Lsum); full reference",
+  "rouge1": 0.21644663256410973,
+  "rouge2": 0.12005882639430802,
+  "rougeL": 0.14454874669094467,
+  "inference_seconds": 3.587858099999721,
+  "hardware": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "processor": "AMD64 Family 25 Model 116 Stepping 1, AuthenticAMD",
+    "ram_bytes": 16415322112,
+    "torch": "2.14.1+cpu",
+    "device": "cpu",
+    "gpu": null,
+    "cpu_threads": 4
+  },
+  "training_run": null,
+  "data_fingerprint": {
+    "train": "419e958d09971260405c2630362d9e37e997a070344d64329954f99a57430520",
+    "validation": "68b0ca79ecebfbf95c785668cf8668fdebb5e4c73dd2027982401cb84f51dd54",
+    "test": "cbce406be461b97668f36e2b97a7c264f55a10d0db142fc6e14eddad15a84bb1"
+  },
+  "dataset": "IN-Abs English Indian Supreme Court judgments"
+}

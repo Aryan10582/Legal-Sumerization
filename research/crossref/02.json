@@ -1,0 +1,927 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 5458787,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T17:06:56Z",
+          "timestamp": 1791392816151,
+          "version": "4.3.3"
+        },
+        "reference-count": 43,
+        "publisher": "PeerJ",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2016,
+                  10,
+                  24
+                ]
+              ],
+              "date-time": "2016-10-24T00:00:00Z",
+              "timestamp": 1477267200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100013437",
+            "name": "Templeton Religion Trust",
+            "doi-asserted-by": "crossref",
+            "award": [
+              "TRT-0048"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "TRT-0048"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100013437",
+                "id-type": "DOI",
+                "asserted-by": "crossref"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100000266",
+            "name": "Engineering and Physical Sciences Research Council",
+            "doi-asserted-by": "crossref",
+            "award": [
+              "EP/K031953/1"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "EP/K031953/1"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100000266",
+                "id-type": "DOI",
+                "asserted-by": "crossref"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "abstract": "<jats:p>Recent advances in Natural Language Processing and Machine Learning provide us with the tools to build predictive models that can be used to unveil patterns driving judicial decisions. This can be useful, for both lawyers and judges, as an assisting tool to rapidly identify cases and extract patterns which lead to certain decisions. This paper presents the first systematic study on predicting the outcome of cases tried by the European Court of Human Rights based solely on textual content. We formulate a binary classification task where the input of our classifiers is the textual content extracted from a case and the target output is the actual judgment as to whether there has been a violation of an article of the convention of human rights. Textual information is represented using contiguous word sequences, i.e., N-grams, and topics. Our models can predict the court’s decisions with a strong accuracy (79% on average). Our empirical analysis indicates that the formal facts of a case are the most important predictive factor. This is consistent with the theory of legal realism suggesting that judicial decision-making is significantly affected by the stimulus of the facts. We also observe that the topical content of a case is another important feature in this classification task and explore this relationship further by conducting a qualitative analysis.</jats:p>",
+        "DOI": "10.7717/peerj-cs.93",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ],
+          "date-time": "2016-10-24T03:36:49Z",
+          "timestamp": 1477280209000
+        },
+        "page": "e93",
+        "source": "Crossref",
+        "is-referenced-by-count": 557,
+        "title": [
+          "Predicting judicial decisions of the European Court of Human Rights: a Natural Language Processing perspective"
+        ],
+        "prefix": "10.7717",
+        "volume": "2",
+        "author": [
+          {
+            "given": "Nikolaos",
+            "family": "Aletras",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Amazon.com, Cambridge, United Kingdom"
+              },
+              {
+                "name": "Department of Computer Science, University College London, University of London, London, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Dimitrios",
+            "family": "Tsarapatsanis",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "School of Law, University of Sheffield, Sheffield, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Daniel",
+            "family": "Preoţiuc-Pietro",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Positive Psychology Center, University of Pennsylvania, Philadelphia, United States"
+              },
+              {
+                "name": "Computer & Information Science, University of Pennsylvania, Philadelphia, United States"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vasileios",
+            "family": "Lampos",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Department of Computer Science, University College London, University of London, London, United Kingdom"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "4443",
+        "published-online": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "2",
+            "key": "10.7717/peerj-cs.93/ref-1",
+            "doi-asserted-by": "publisher",
+            "first-page": "135",
+            "DOI": "10.1111/josl.12080",
+            "article-title": "Gender identity and lexical variation in social media",
+            "volume": "18",
+            "author": "Bamman",
+            "year": "2014",
+            "journal-title": "Journal of Sociolinguistics"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-2",
+            "volume-title": "The puzzle of judicial behavior",
+            "author": "Baum",
+            "year": "2009"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-3",
+            "first-page": "53",
+            "article-title": "Feature ranking using linear SVM",
+            "volume-title": "WCCI causation and prediction challenge",
+            "author": "Chang",
+            "year": "2008"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-4",
+            "volume-title": "Factsheet on life imprisonment",
+            "author": "European Court of Human Rights",
+            "year": "2015"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-5",
+            "article-title": "The margin of appreciation: interpretation and discretion under the European Convention on Human Rights",
+            "volume": "vol. 17",
+            "author": "Greer",
+            "year": "2000"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-6",
+            "first-page": "1",
+            "article-title": "Langdell’s orthodoxy",
+            "volume": "45",
+            "author": "Grey",
+            "year": "1983",
+            "journal-title": "University of Pittsburgh Law Review"
+          },
+          {
+            "issue": "1",
+            "key": "10.7717/peerj-cs.93/ref-7",
+            "doi-asserted-by": "publisher",
+            "first-page": "125",
+            "DOI": "10.1093/ejil/chn004",
+            "article-title": "Redesigning the European Court of Human Rights: embeddedness as a deep structural principle of the European human rights regime",
+            "volume": "19",
+            "author": "Helfer",
+            "year": "2008",
+            "journal-title": "European Journal of International Law"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-8",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4615-0907-3",
+            "article-title": "Learning to classify text using support vector machines: methods, theory and algorithms",
+            "author": "Joachims",
+            "year": "2002"
+          },
+          {
+            "issue": "2",
+            "key": "10.7717/peerj-cs.93/ref-9",
+            "doi-asserted-by": "publisher",
+            "first-page": "351",
+            "DOI": "10.1086/467502",
+            "article-title": "Legal formality",
+            "volume": "2",
+            "author": "Kennedy",
+            "year": "1973",
+            "journal-title": "The Journal of Legal Studies"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-10",
+            "first-page": "829",
+            "article-title": "Mathematical models for legal prediction",
+            "volume": "2",
+            "author": "Keown",
+            "year": "1980",
+            "journal-title": "Computer/LJ"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-11",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-94-6265-032-9",
+            "volume-title": "The impact of the European Convention on Human Rights on private international law",
+            "author": "Kiestra",
+            "year": "2014"
+          },
+          {
+            "issue": "01",
+            "key": "10.7717/peerj-cs.93/ref-12",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.2307/1951767",
+            "article-title": "Predicting Supreme Court decisions mathematically: a quantitative analysis of the “right to counsel” cases",
+            "volume": "51",
+            "author": "Kort",
+            "year": "1957",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-13",
+            "first-page": "405",
+            "article-title": "Predicting and characterising user impact on Twitter",
+            "author": "Lampos",
+            "year": "2014"
+          },
+          {
+            "issue": "4",
+            "key": "10.7717/peerj-cs.93/ref-14",
+            "doi-asserted-by": "crossref",
+            "first-page": "72:1",
+            "DOI": "10.1145/2337542.2337557",
+            "article-title": "Nowcasting events from the social web with statistical learning",
+            "volume": "3",
+            "author": "Lampos",
+            "year": "2012",
+            "journal-title": "ACM Transactions on Intelligent Systems and Technology"
+          },
+          {
+            "issue": "04",
+            "key": "10.7717/peerj-cs.93/ref-15",
+            "doi-asserted-by": "publisher",
+            "first-page": "847",
+            "DOI": "10.1017/S0003055412000469",
+            "article-title": "The Supreme Court’s many median justices",
+            "volume": "106",
+            "author": "Lauderdale",
+            "year": "2012",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "issue": "3",
+            "key": "10.7717/peerj-cs.93/ref-16",
+            "doi-asserted-by": "publisher",
+            "first-page": "754",
+            "DOI": "10.1111/ajps.12085",
+            "article-title": "Scaling politically meaningful dimensions using texts and votes",
+            "volume": "58",
+            "author": "Lauderdale",
+            "year": "2014",
+            "journal-title": "American Journal of Political Science"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-17",
+            "first-page": "337",
+            "article-title": "What computers can do: analysis and prediction of judicial decisions",
+            "volume": "49",
+            "author": "Lawlor",
+            "year": "1963",
+            "journal-title": "American Bar Association Journal"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-18",
+            "volume-title": "Taking a case to the European Court of Human Rights",
+            "author": "Leach",
+            "year": "2013"
+          },
+          {
+            "issue": "1",
+            "key": "10.7717/peerj-cs.93/ref-19",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1177/016934411002800103",
+            "article-title": "Human rights fact-finding. The European Court of Human Rights at a crossroads",
+            "volume": "28",
+            "author": "Leach",
+            "year": "2010",
+            "journal-title": "Netherlands Quarterly of Human Rights"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-20",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/acprof:oso/9780199206490.001.0001",
+            "article-title": "Naturalizing Jurisprudence: essays on American legal realism and naturalism in legal philosophy",
+            "author": "Leiter",
+            "year": "2007"
+          },
+          {
+            "issue": "2",
+            "key": "10.7717/peerj-cs.93/ref-21",
+            "doi-asserted-by": "publisher",
+            "first-page": "111",
+            "DOI": "10.1017/S1352325210000121",
+            "article-title": "Legal formalism and legal realism: what is the issue?",
+            "volume": "16",
+            "author": "Leiter",
+            "year": "2010",
+            "journal-title": "Legal Theory"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-22",
+            "article-title": "The common law tradition: deciding appeals",
+            "author": "Llewellyn",
+            "year": "1996"
+          },
+          {
+            "issue": "2",
+            "key": "10.7717/peerj-cs.93/ref-23",
+            "first-page": "831",
+            "article-title": "The new legal realism",
+            "volume": "75",
+            "author": "Miles",
+            "year": "2008",
+            "journal-title": "The University of Chicago Law Review"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-24",
+            "first-page": "1006",
+            "article-title": "Applying correlation analysis to case prediction",
+            "volume": "42",
+            "author": "Nagel",
+            "year": "1963",
+            "journal-title": "Texas Law Review"
+          },
+          {
+            "issue": "3",
+            "key": "10.7717/peerj-cs.93/ref-25",
+            "doi-asserted-by": "publisher",
+            "first-page": "607",
+            "DOI": "10.2307/1600419",
+            "article-title": "Forms of formalism",
+            "volume": "66",
+            "author": "Pildes",
+            "year": "1999",
+            "journal-title": "The University of Chicago Law Review"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-26",
+            "article-title": "A pragmatic legal expert system",
+            "author": "Popple",
+            "year": "1996",
+            "journal-title": "Applied Legal Philosophy Series, Dartmouth (Ashgate), Aldershot"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-27",
+            "first-page": "179",
+            "article-title": "Legal formalism, legal realism, and the interpretation of statutes and the constitution",
+            "volume": "37",
+            "author": "Posner",
+            "year": "1986",
+            "journal-title": "Case Western Reserve Law Review"
+          },
+          {
+            "issue": "8",
+            "key": "10.7717/peerj-cs.93/ref-28",
+            "doi-asserted-by": "crossref",
+            "first-page": "605",
+            "DOI": "10.2307/1108954",
+            "article-title": "Mechanical jurisprudence",
+            "volume": "8",
+            "author": "Pound",
+            "year": "1908",
+            "journal-title": "Columbia Law Review"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-29",
+            "first-page": "1754",
+            "article-title": "An analysis of the user occupational class through Twitter content",
+            "author": "Preoţiuc-Pietro",
+            "year": "2015"
+          },
+          {
+            "issue": "9",
+            "key": "10.7717/peerj-cs.93/ref-30",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1371/journal.pone.0138717",
+            "article-title": "Studying user income through language, behaviour and affect in social media",
+            "volume": "10",
+            "author": "Preoţiuc-Pietro",
+            "year": "2015",
+            "journal-title": "PLoS ONE"
+          },
+          {
+            "issue": "1",
+            "key": "10.7717/peerj-cs.93/ref-31",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1086/467732",
+            "article-title": "The selection of disputes for litigation",
+            "volume": "13",
+            "author": "Priest",
+            "year": "1984",
+            "journal-title": "The Journal of Legal Studies"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-32",
+            "article-title": "Introduction to modern information retrieval",
+            "author": "Salton",
+            "year": "1986"
+          },
+          {
+            "issue": "11",
+            "key": "10.7717/peerj-cs.93/ref-33",
+            "doi-asserted-by": "publisher",
+            "first-page": "613",
+            "DOI": "10.1145/361219.361220",
+            "article-title": "A vector space model for automatic indexing",
+            "volume": "18",
+            "author": "Salton",
+            "year": "1975",
+            "journal-title": "Communications of the ACM"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-34",
+            "first-page": "773",
+            "article-title": "Prediction and particularity",
+            "volume": "78",
+            "author": "Schauer",
+            "year": "1998",
+            "journal-title": "Boston University Law Review"
+          },
+          {
+            "issue": "04",
+            "key": "10.7717/peerj-cs.93/ref-35",
+            "doi-asserted-by": "publisher",
+            "first-page": "891",
+            "DOI": "10.2307/1955796",
+            "article-title": "Predicting Supreme Court cases probabilistically: the search and seizure cases, 1962–1981",
+            "volume": "78",
+            "author": "Segal",
+            "year": "1984",
+            "journal-title": "American Political Science Review"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-36",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511615696",
+            "volume-title": "The Supreme Court and the attitudinal model revisited",
+            "author": "Segal",
+            "year": "2002"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-37",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1609/aaai.v29i1.9500",
+            "article-title": "The utility of text: the case of Amicus briefs and the Supreme Court",
+            "author": "Sim",
+            "year": "2015"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-38",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/9781400831982",
+            "volume-title": "Beyond the formalist-realist divide: the role of politics in judging",
+            "author": "Tamanaha",
+            "year": "2009"
+          },
+          {
+            "issue": "4",
+            "key": "10.7717/peerj-cs.93/ref-39",
+            "doi-asserted-by": "publisher",
+            "first-page": "675",
+            "DOI": "10.1111/lest.12089",
+            "article-title": "The margin of appreciation doctrine: a low-level institutional view",
+            "volume": "35",
+            "author": "Tsarapatsanis",
+            "year": "2015",
+            "journal-title": "Legal Studies"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-40",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1613/jair.2934",
+            "article-title": "From frequency to meaning: vector space models of semantics",
+            "volume": "37",
+            "author": "Turney",
+            "year": "2010",
+            "journal-title": "Journal of Artificial Intelligence Research"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-41",
+            "volume-title": "Statistical learning theory",
+            "author": "Vapnik",
+            "year": "1998"
+          },
+          {
+            "issue": "4",
+            "key": "10.7717/peerj-cs.93/ref-42",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.1007/s11222-007-9033-z",
+            "article-title": "A tutorial on spectral clustering",
+            "volume": "17",
+            "author": "von Luxburg",
+            "year": "2007",
+            "journal-title": "Statistics and Computing"
+          },
+          {
+            "key": "10.7717/peerj-cs.93/ref-43",
+            "first-page": "90",
+            "article-title": "Baselines and bigrams: simple, good sentiment and topic classification",
+            "author": "Wang",
+            "year": "2012"
+          }
+        ],
+        "container-title": [
+          "PeerJ Computer Science"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://peerj.com/articles/cs-93.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://peerj.com/articles/cs-93.xml",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://peerj.com/articles/cs-93.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://peerj.com/articles/cs-93.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              10
+            ]
+          ],
+          "date-time": "2022-07-10T22:06:52Z",
+          "timestamp": 1657490812000
+        },
+        "score": 61.59646,
+        "resource": {
+          "primary": {
+            "URL": "https://peerj.com/articles/cs-93"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "references-count": 43,
+        "alternative-id": [
+          "10.7717/peerj-cs.93"
+        ],
+        "URL": "https://doi.org/10.7717/peerj-cs.93",
+        "archive": [
+          "CLOCKSS",
+          "LOCKSS",
+          "Portico"
+        ],
+        "relation": {
+          "has-review": [
+            {
+              "id-type": "doi",
+              "id": "10.7287/peerj-cs.93v0.4/reviews/1",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.7287/peerj-cs.93v0.2/reviews/2",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.7287/peerj-cs.93v0.1/reviews/1",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.7287/peerj-cs.93v0.2/reviews/1",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.7287/peerj-cs.93v0.3/reviews/1",
+              "asserted-by": "object"
+            },
+            {
+              "id-type": "doi",
+              "id": "10.7287/peerj-cs.93v0.1/reviews/2",
+              "asserted-by": "object"
+            }
+          ]
+        },
+        "ISSN": [
+          "2376-5992"
+        ],
+        "issn-type": [
+          {
+            "value": "2376-5992",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "article-number": "e93"
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T19:18:42Z",
+          "timestamp": 1779391122939,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "PeerJ",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "DOI": "10.7287/peerj-cs.93v0.3/reviews/1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2017-12-24T04:30:55Z",
+          "timestamp": 1514089855000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Peer Review #1 of \"Predicting judicial decisions of the European Court of Human Rights: a Natural Language Processing perspective (v0.3)\""
+        ],
+        "prefix": "10.7287",
+        "member": "4443",
+        "review": {
+          "revision-round": "4",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2017-12-24T04:30:55Z",
+          "timestamp": 1514089855000
+        },
+        "score": 53.31368,
+        "resource": {
+          "primary": {
+            "URL": "https://peerj.com/articles/cs-93v0.3/reviews/1/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.7287/peerj-cs.93v0.3/reviews/1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.7717/peerj-cs.93",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              5,
+              21
+            ]
+          ],
+          "date-time": "2026-05-21T19:19:01Z",
+          "timestamp": 1779391141238,
+          "version": "3.53.1"
+        },
+        "reference-count": 0,
+        "publisher": "PeerJ",
+        "content-domain": {
+          "domain": []
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "DOI": "10.7287/peerj-cs.93v0.4/reviews/1",
+        "type": "peer-review",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2017-12-24T04:31:01Z",
+          "timestamp": 1514089861000
+        },
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Peer Review #1 of \"Predicting judicial decisions of the European Court of Human Rights: a Natural Language Processing perspective (v0.4)\""
+        ],
+        "prefix": "10.7287",
+        "member": "4443",
+        "review": {
+          "revision-round": "5",
+          "stage": "pre-publication"
+        },
+        "deposited": {
+          "date-parts": [
+            [
+              2017,
+              12,
+              24
+            ]
+          ],
+          "date-time": "2017-12-24T04:31:02Z",
+          "timestamp": 1514089862000
+        },
+        "score": 53.249905,
+        "resource": {
+          "primary": {
+            "URL": "https://peerj.com/articles/cs-93v0.4/reviews/1/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        },
+        "references-count": 0,
+        "URL": "https://doi.org/10.7287/peerj-cs.93v0.4/reviews/1",
+        "relation": {
+          "is-review-of": [
+            {
+              "id-type": "doi",
+              "id": "10.7717/peerj-cs.93",
+              "asserted-by": "subject"
+            }
+          ]
+        },
+        "published": {
+          "date-parts": [
+            [
+              2016,
+              10,
+              24
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

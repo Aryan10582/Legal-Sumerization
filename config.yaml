@@ -1,0 +1,33 @@
+seed: 42
+data_dir: data/processed/pilot
+output_dir: artifacts/pilot
+classification:
+  model: nlpaueb/legal-bert-small-uncased
+  revision: 0e23f7a9a39f59768ea7e09766d8ee308580fb17
+  max_tokens: 256
+  epochs: 3
+  batch_size: 8
+  learning_rate: 0.00005
+  weight_decay: 0.01
+  accumulation_steps: 1
+  max_negative_ratio: 3
+  train_documents: 40
+  validation_documents: 10
+  test_documents: 10
+summarization:
+  model: google-t5/t5-small
+  revision: df1b051c49625cf57a3d0d8d3863ed4d13564fe4
+  max_source_tokens: 512
+  max_target_tokens: 128
+  epochs: 1
+  batch_size: 2
+  learning_rate: 0.0001
+  weight_decay: 0.01
+  accumulation_steps: 2
+  num_beams: 2
+  train_documents: 64
+  validation_documents: 12
+  test_documents: 20
+runtime:
+  device: auto
+  cpu_threads: 4
